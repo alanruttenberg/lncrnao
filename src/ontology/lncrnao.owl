@@ -19,9 +19,11 @@
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/ncro/dev/iao-imports.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/ncro/lncrnao/ncro-imports.owl"/>
         <rdfs:comment>An ontology of long non-coding RNA</rdfs:comment>
+        <rdfs:seeAlso rdf:resource="http://www.lncrnadb.org/"/>
         <dc:contributor>Jingshan Huang</dc:contributor>
         <dc:contributor>Dejing Dou</dc:contributor>
         <dc:contributor>Ruoming Jin</dc:contributor>
+        <rdfs:seeAlso rdf:resource="https://humgenomics.biomedcentral.com/articles/10.1186/1479-7364-8-7"/>
         <dc:contributor>Alan Ruttenberg</dc:contributor>
         <rdfs:seeAlso rdf:resource="http://www.nature.com/nm/journal/v21/n11/abs/nm.3981.html"/>
     </owl:Ontology>
