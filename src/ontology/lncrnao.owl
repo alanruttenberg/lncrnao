@@ -18,6 +18,12 @@
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/lncrnao/dev/ncbi_taxon-imports.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/ncro/dev/iao-imports.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/ncro/lncrnao/ncro-imports.owl"/>
+        <rdfs:comment>An ontology of long non-coding RNA</rdfs:comment>
+        <dc:contributor>Jingshan Huang</dc:contributor>
+        <dc:contributor>Dejing Dou</dc:contributor>
+        <dc:contributor>Ruoming Jin</dc:contributor>
+        <dc:contributor>Alan Ruttenberg</dc:contributor>
+        <rdfs:seeAlso rdf:resource="http://www.nature.com/nm/journal/v21/n11/abs/nm.3981.html"/>
     </owl:Ontology>
     
 
@@ -81,6 +87,7 @@
             </owl:Restriction>
         </rdfs:subClassOf>
         <obo:IAO_0000115>Xist is a long non-coding RNA expressed in all female eutherian mammals, whose gene is located on the X chromosome in the X-inactivation center (Xic) and which plays a crucial role in X-chromosome inactivation</obo:IAO_0000115>
+        <obo:IAO_0000117>Alan Ruttenberg</obo:IAO_0000117>
         <obo:IAO_0000118>X inactive-specific transcript</obo:IAO_0000118>
         <obo:IAO_0000119>http://www.lncrnadb.org/xist/</obo:IAO_0000119>
         <dc:creator rdf:resource="http://orcid.org/0000-0002-1604-3078"/>
@@ -101,6 +108,7 @@
             </owl:Restriction>
         </rdfs:subClassOf>
         <obo:IAO_0000115>Xist is a long non-coding RNA expressed in mouse, whose gene is located on the X chromosome in the X-inactivation center (Xic) and which plays a crucial role in X-chromosome inactivation</obo:IAO_0000115>
+        <obo:IAO_0000117>Alan Ruttenberg</obo:IAO_0000117>
         <dc:creator rdf:resource="http://orcid.org/0000-0002-1604-3078"/>
         <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-01T03:06:58Z</dc:date>
         <rdfs:label xml:lang="en">XIST mouse</rdfs:label>
@@ -120,6 +128,7 @@
             </owl:Restriction>
         </rdfs:subClassOf>
         <obo:IAO_0000115>Xist is a long non-coding RNA expressed in homo sapiens, whose gene is located on the X chromosome in the X-inactivation center (Xic) and which plays a crucial role in X-chromosome inactivation</obo:IAO_0000115>
+        <obo:IAO_0000117>Alan Ruttenberg</obo:IAO_0000117>
         <dc:creator rdf:resource="http://orcid.org/0000-0002-1604-3078"/>
         <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-01T03:07:15Z</dc:date>
         <rdfs:label xml:lang="en">XIST human</rdfs:label>
