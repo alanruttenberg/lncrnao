@@ -3,4 +3,9 @@
     <uri name="http://purl.obolibrary.org/obo/ncro/lncrnao/ncro-imports.owl" uri="imports/ncro-imports.owl"/>
     <uri name="http://purl.obolibrary.org/obo/bfo.owl" uri="imports/bfo.owl"/>
     <uri name="http://purl.obolibrary.org/obo/ncro/lncrnao.owl" uri="lncrnao.owl"/>
+    <uri name="http://purl.obolibrary.org/obo/ncro/dev/iao-imports.owl" uri="imports/iao-imports.owl"/>
+    <uri name="http://purl.obolibrary.org/obo/ncro/dev/ro-imports.owl" uri="imports/ro-imports.owl"/>
+    <uri name="http://purl.obolibrary.org/obo/ncro/dev/obi-imports.owl" uri="imports/obi-imports.owl"/>
+    <uri name="http://purl.obolibrary.org/obo/lncrnao/dev/ncbi_taxon-imports.owl" uri="imports/ncbi_taxon-imports.owl"/>
+    <uri name="http://purl.obolibrary.org/obo/lncrnao/dev/go-imports.owl" uri="imports/go-imports.owl"/>
 </catalog>

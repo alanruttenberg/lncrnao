@@ -1,0 +1,7 @@
+http://www.genenames.org/about/guidelines
+
+Genes encoding long (>200nt) non-coding RNAs (lncRNAs) are preferably named based on the known function of the transcript, e.g. XIST. Antisense transcripts are named using the approved HGNC symbol for the protein-coding gene with the suffix 'AS' for 'antisense' (the gene symbol should not be the protein-coding gene symbol written backwards), intronic transcripts are appended with 'IT', and overlapping transcripts with 'OT'. Intergenic lncRNA genes are provided with a LINC name for 'long intergenic non-protein coding RNA, e.g. LINC00028. A short guide to lncRNA gene nomenclature was published in 2014, see http://www.humgenomics.com/content/8/1/7)
+
+A short guide to long non-coding RNA gene nomenclature
+https://humgenomics.biomedcentral.com/articles/10.1186/1479-7364-8-7
+

@@ -9,9 +9,9 @@
      xmlns:obo="http://purl.obolibrary.org/obo/"
      xmlns:foaf="http://xmlns.com/foaf/0.1/"
      xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/ncro/lncrnao/ncro-imports.owl">
-    </owl:Ontology>
-    
+  <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/ncro/lncrnao/ncro-imports.owl">
+    <owl:versionIRI rdf:resource="http://purl.obolibrary.org/obo/ncro/lncrnao/dev/ncro-imports.owl"/>
+  </owl:Ontology>
 
 
     <!-- 
