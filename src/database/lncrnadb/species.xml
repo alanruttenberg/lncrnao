@@ -1,0 +1,2533 @@
+<?xml version="1.0" ?>
+<Search_Results>
+  <Results id="0">
+    <species>
+      <Entry Species="Paramecium tetraurelia">N/A</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="1">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr3:116,709,788-116,717,040</Entry>
+      <references>
+        <ref id="hg19 chr3:116,709,788-116,717,040">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr3:116,709,788-116,717,040</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="2">
+    <species>
+      <Entry Species="Loris tardigradus (Slender loris)">N/A</Entry>
+      <Entry Species="Otolemur garnettii (Garnett's greater bushbaby)">N/A</Entry>
+      <Entry Species="Daubentonia madagascariensis (Aye-aye)">N/A</Entry>
+      <Entry Species="Propithecus verreauxi (White sifaka)">N/A</Entry>
+      <Entry Species="Cheirogaleus medius (Fat-tailed dwarf lemur)">N/A</Entry>
+      <Entry Species="Nycticebus pygmaeus (Pygmy slow loris)">N/A</Entry>
+      <Entry Species="Lemur coronatus (Crowned lemur)">N/A</Entry>
+      <Entry Species="Galago moholi (South African lesser bushbaby)">N/A</Entry>
+      <Entry Species="Lepilemur dorsalis (Grey-backed sportive lemur)">N/A</Entry>
+      <Entry Species="Lepilemur ruficaudatus (Red-tailed sportive lemur)">N/A</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="3">
+    <species>
+      <Entry Species="Homo sapiens (Human)">-</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="4">
+    <species>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr10:91,544,491-91,627,923</Entry>
+      <references>
+        <ref id="mm9 chr10:91,544,491-91,627,923">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr10:91,544,491-91,627,923</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="5">
+    <species>
+      <Entry Species="Homo sapiens (Human)">N/A</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="6">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr6:40,344,345-40,356,006</Entry>
+      <references>
+        <ref id="hg19 chr6:40,344,345-40,356,006">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr6:40,344,345-40,356,006</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="7">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr11:65,273,588-65,273,645</Entry>
+      <Entry Species="Gasterosteus aculeatus (Stickleback)">N/A</Entry>
+      <Entry Species="Canis familiaris (Dog)">canFam2 chr18:54,725,738-54,725,785</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr19:5,795,924-5,795,981</Entry>
+      <Entry Species="Xenopus tropicalis (Western clawed frog)">N/A</Entry>
+      <references>
+        <ref id="canFam2 chr18:54,725,738-54,725,785">http://genome.ucsc.edu/cgi-bin/hgTracks?db=canFam2&amp;position=chr18:54,725,738-54,725,785</ref>
+        <ref id="hg19 chr11:65,273,588-65,273,645">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr11:65,273,588-65,273,645</ref>
+        <ref id="mm9 chr19:5,795,924-5,795,981">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr19:5,795,924-5,795,981</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="8">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr8:9,757,574-9,760,839</Entry>
+      <Entry Species="Rattus norvegicus (Rat)">rn4 chr15:43,941,969-43,947,942</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr14:65,206,952-65,212,798</Entry>
+      <references>
+        <ref id="mm9 chr14:65,206,952-65,212,798">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr14:65,206,952-65,212,798</ref>
+        <ref id="rn4 chr15:43,941,969-43,947,942">http://genome.ucsc.edu/cgi-bin/hgTracks?db=rn4&amp;position=chr15:43,941,969-43,947,942</ref>
+        <ref id="hg19 chr8:9,757,574-9,760,839">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr8:9,757,574-9,760,839</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="9">
+    <species/>
+  </Results>
+  <Results id="10">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr3:4,790,880-4,793,274</Entry>
+      <references>
+        <ref id="hg19 chr3:4,790,880-4,793,274">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr3:4,790,880-4,793,274</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="11">
+    <species>
+      <Entry Species="Homo sapiens (Human)">chr12:102,591,363-102,796,374</Entry>
+      <references>
+        <ref id="chr12:102,591,363-102,796,374">https://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;?position=chr12:102,591,363-102,796,374</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="12">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr8:127,400,399-127,402,150</Entry>
+      <references>
+        <ref id="hg19 chr8:127,400,399-127,402,150">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr8:127,400,399-127,402,150</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="13">
+    <species>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr15:38,643,238-38,658,275</Entry>
+      <references>
+        <ref id="mm9 chr15:38,643,238-38,658,275">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr15:38,643,238-38,658,275</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="14">
+    <species>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr7:51,805,355-51,809,271</Entry>
+      <references>
+        <ref id="mm9 chr7:51,805,355-51,809,271">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr7:51,805,355-51,809,271</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="15">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr9:33,673,502-33,677,418</Entry>
+      <references>
+        <ref id="hg19 chr9:33,673,502-33,677,418">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr9:33,673,502-33,677,418</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="16">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr8:127,013,154-127,021,014</Entry>
+      <references>
+        <ref id="hg19 chr8:127,013,154-127,021,014">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr8:127,013,154-127,021,014</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="17">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr8:141645714-14164674</Entry>
+      <references>
+        <ref id="hg19 chr8:141645714-14164674">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr8:141645714-14164674</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="18">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr14:101,361,107-101,373,305</Entry>
+      <Entry Species="Ovis aries (Sheep)">N/A</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr12:110,842,155-110,899,921</Entry>
+      <references>
+        <ref id="mm9 chr12:110,842,155-110,899,921">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr12:110,842,155-110,899,921</ref>
+        <ref id="hg19 chr14:101,361,107-101,373,305">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr14:101,361,107-101,373,305</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="19">
+    <species>
+      <Entry Species="Mus musculus (Mouse)">mm10 chr6:31,165,523-31,218,474</Entry>
+      <references>
+        <ref id="mm10 chr6:31,165,523-31,218,474">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm10&amp;position=chr6:31,165,523-31,218,474</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="20">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr5:91,302,986-91,314,402</Entry>
+      <references>
+        <ref id="hg19 chr5:91,302,986-91,314,402">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr5:91,302,986-91,314,402</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="21">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr14:61105934-61107134</Entry>
+      <references>
+        <ref id="hg19 chr14:61105934-61107134">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19position=chr14:61105934-61107134</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="22">
+    <species>
+      <Entry Species="Saccharomyces cerevisiae (Baker's yeast)">N/A</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="23">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr19:40,778,219-40,796,944</Entry>
+      <references>
+        <ref id="hg19 chr19:40,778,219-40,796,944">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr19:40,778,219-40,796,944</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="24">
+    <species>
+      <Entry Species="Saccharomyces cerevisiae (Baker's yeast)">N/A</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="25">
+    <species>
+      <Entry Species="Mus musculus (Mouse)">chr17:39846958-3984878</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="26">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr10:90,751,182-90,752,732</Entry>
+      <references>
+        <ref id="hg19 chr10:90,751,182-90,752,732">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr10:90,751,182-90,752,732</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="27">
+    <species>
+      <Entry Species="Homo sapiens (Human)">N/A</Entry>
+      <Entry Species="Danio rerio (Zebrafish)">N/A</Entry>
+      <Entry Species="Mus musculus (Mouse)">N/A</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="28">
+    <species>
+      <Entry Species="Mus musculus (Mouse)">mm10 chr18:61639653-61647503</Entry>
+      <references>
+        <ref id="mm10 chr18:61639653-61647503">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm10position=chr18:61639653-61647503</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="29">
+    <species>
+      <Entry Species="Mus musculus (Mouse)">mm9 chrX:100,676,608-100,678,237</Entry>
+      <references>
+        <ref id="mm9 chrX:100,676,608-100,678,237">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chrX:100,676,608-100,678,237</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="30">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr9:69,296,681-69,307,056</Entry>
+      <references>
+        <ref id="hg19 chr9:69,296,681-69,307,056">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr9:69,296,681-69,307,056</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="31">
+    <species>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr6:52,052,908-52,065,131</Entry>
+      <references>
+        <ref id="mm9 chr6:52,052,908-52,065,131">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr6:52,052,908-52,065,131</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="32">
+    <species>
+      <Entry Species="Homo sapiens (Human)">NULL</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr5:38,211,803-38,213,990</Entry>
+      <references>
+        <ref id="mm9 chr5:38,211,803-38,213,990">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr5:38,211,803-38,213,990</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="33">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr13:49982552-50125541</Entry>
+      <references>
+        <ref id="hg19 chr13:49982552-50125541">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19position=chr13:49982552-50125541</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="34">
+    <species>
+      <Entry Species="Homo sapiens (Human)">chr6:83,703,518-83,703,983</Entry>
+      <references>
+        <ref id="chr6:83,703,518-83,703,983">https://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;?position=chr6:83,703,518-83,703,983</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="35">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr5:2,712,705-2,715,351</Entry>
+      <references>
+        <ref id="hg19 chr5:2,712,705-2,715,351">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr5:2,712,705-2,715,351</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="36">
+    <species>
+      <Entry Species="Mus musculus (Mouse)">mm9 chrY:1,918,440-1,919,671</Entry>
+      <references>
+        <ref id="mm9 chrY:1,918,440-1,919,671">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chrY:1,918,440-1,919,671</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="37">
+    <species>
+      <Entry Species="Oxytricha trifallax (Sterkiella histriomuscorum)">N/A</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="38">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr6:126923502-126924795</Entry>
+      <references>
+        <ref id="hg19 chr6:126923502-126924795">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr6:126923502-126924795</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="39">
+    <species>
+      <Entry Species="Rattus norvegicus (Rat)">rn4 chrX:91,445,506-91,468,415</Entry>
+      <Entry Species="Ovis aries (Sheep)">NULL</Entry>
+      <Entry Species="Canis familiaris (Dog)">NULL</Entry>
+      <Entry Species="Bos taurus (Cattle)">bosTau4 chrX:47,180,022-47,216,556</Entry>
+      <Entry Species="Pongo abelii (Sumatran orangutan)">ponAbe2 chrX:71,263,806-71,295,068</Entry>
+      <Entry Species="Pan troglodytes (Chimpanzee)">panTro3 chrX:73,614,734-73,636,256</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm9 chrX:100,655,712-100,678,572</Entry>
+      <Entry Species="Oryctolagus cuniculus (Rabbit)">NULL</Entry>
+      <Entry Species="Loxodonta africana (African elephant)">NULL</Entry>
+      <Entry Species="Homo sapiens (Human)">hg19 chrX:73,040,495-73,072,588</Entry>
+      <references>
+        <ref id="mm9 chrX:100,655,712-100,678,572">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chrX:100,655,712-100,678,572</ref>
+        <ref id="bosTau4 chrX:47,180,022-47,216,556">http://genome.ucsc.edu/cgi-bin/hgTracks?db=bosTau4&amp;position=chrX:47,180,022-47,216,556</ref>
+        <ref id="panTro3 chrX:73,614,734-73,636,256">http://genome.ucsc.edu/cgi-bin/hgTracks?db=panTro3&amp;position=chrX:73,614,734-73,636,256</ref>
+        <ref id="hg19 chrX:73,040,495-73,072,588">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chrX:73,040,495-73,072,588</ref>
+        <ref id="ponAbe2 chrX:71,263,806-71,295,068">http://genome.ucsc.edu/cgi-bin/hgTracks?db=ponAbe2&amp;position=chrX:71,263,806-71,295,068</ref>
+        <ref id="rn4 chrX:91,445,506-91,468,415">http://genome.ucsc.edu/cgi-bin/hgTracks?db=rn4&amp;position=chrX:91,445,506-91,468,415</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="40">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr19:4769105-4772556</Entry>
+      <references>
+        <ref id="hg19 chr19:4769105-4772556">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19position=chr19:4769105-4772556</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="41">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr3:181,328,151-181,459,005</Entry>
+      <Entry Species="Gallus Gallus (Chicken)">NULL</Entry>
+      <Entry Species="Danio rerio (Zebrafish)">NULL</Entry>
+      <Entry Species="Xenopus laevis (African clawed frog)">NULL</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr3:34,459,303-34,576,915</Entry>
+      <references>
+        <ref id="mm9 chr3:34,459,303-34,576,915">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr3:34,459,303-34,576,915</ref>
+        <ref id="hg19 chr3:181,328,151-181,459,005">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr3:181,328,151-181,459,005</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="42">
+    <species>
+      <Entry Species="Arabidopsis thaliana (Mouse-ear cress)">N/A</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="43">
+    <species>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr11:6,424,545-6,428,747</Entry>
+      <references>
+        <ref id="mm9 chr11:6,424,545-6,428,747">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr11:6,424,545-6,428,747</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="44">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg chr9:33,677,266-33,688,009</Entry>
+      <references>
+        <ref id="hg chr9:33,677,266-33,688,009">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg&amp;position=chr9:33,677,266-33,688,009</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="45">
+    <species>
+      <Entry Species="Rattus norvegicus (Rat)">rn4 chr7:141,707,460-141,711,096</Entry>
+      <Entry Species="Canis familiaris (Dog)">canFam2 chr27:4,295,507-4,301,867</Entry>
+      <Entry Species="Pan troglodytes (Chimpanzee)">panTro2 chr12:35,582,642-35,589,071</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr15:102,774,493-102,778,161</Entry>
+      <Entry Species="Macaca mulatta (Rhesus macaque)">rheMac2 chr11:51,060,391-51,066,832</Entry>
+      <Entry Species="Homo sapiens (Human)">hg19 chr12:54,356,092-54,368,740</Entry>
+      <references>
+        <ref id="rn4 chr7:141,707,460-141,711,096">http://genome.ucsc.edu/cgi-bin/hgTracks?db=rn4&amp;position=chr7:141,707,460-141,711,096</ref>
+        <ref id="canFam2 chr27:4,295,507-4,301,867">http://genome.ucsc.edu/cgi-bin/hgTracks?db=canFam2&amp;position=chr27:4,295,507-4,301,867</ref>
+        <ref id="hg19 chr12:54,356,092-54,368,740">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr12:54,356,092-54,368,740</ref>
+        <ref id="panTro2 chr12:35,582,642-35,589,071">http://genome.ucsc.edu/cgi-bin/hgTracks?db=panTro2&amp;position=chr12:35,582,642-35,589,071</ref>
+        <ref id="mm9 chr15:102,774,493-102,778,161">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr15:102,774,493-102,778,161</ref>
+        <ref id="rheMac2 chr11:51,060,391-51,066,832">http://genome.ucsc.edu/cgi-bin/hgTracks?db=rheMac2&amp;position=chr11:51,060,391-51,066,832</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="46">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr11:5265784-5266776</Entry>
+      <references>
+        <ref id="hg19 chr11:5265784-5266776">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr11:5265784-5266776</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="47">
+    <species>
+      <Entry Species="West Nile Virus">NULL</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="48">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr14:96,343,109-96,391,908</Entry>
+      <Entry Species="Danio rerio (Zebrafish)">danRer7 chr18:47976227-48008414</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr12:106,574,804-106,622,142</Entry>
+      <references>
+        <ref id="hg19 chr14:96,343,109-96,391,908">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr14:96,343,109-96,391,908</ref>
+        <ref id="danRer7 chr18:47976227-48008414">http://genome.ucsc.edu/cgi-bin/hgTracks?db=danRer7&amp;position=chr18:47976227-48008414</ref>
+        <ref id="mm9 chr12:106,574,804-106,622,142">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr12:106,574,804-106,622,142</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="49">
+    <species>
+      <Entry Species="Homo sapiens (Human)">N/A</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr17:12,934,177-13,052,750</Entry>
+      <references>
+        <ref id="mm9 chr17:12,934,177-13,052,750">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr17:12,934,177-13,052,750</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="50">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr4:21,844,964-21,854,811</Entry>
+      <Entry Species="Sus scrofa (Pig)">susScr2 chr8:13,241,658-13,243,930</Entry>
+      <references>
+        <ref id="susScr2 chr8:13,241,658-13,243,930">http://genome.ucsc.edu/cgi-bin/hgTracks?db=susScr2&amp;position=chr8:13,241,658-13,243,930</ref>
+        <ref id="hg19 chr4:21,844,964-21,854,811">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr4:21,844,964-21,854,811</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="51">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr10:127,700,961-127,703,160</Entry>
+      <references>
+        <ref id="hg19 chr10:127,700,961-127,703,160">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr10:127,700,961-127,703,160</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="52">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr11:117,162,062-117,162,857</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr9:45,664,854-45,666,107</Entry>
+      <references>
+        <ref id="hg19 chr11:117,162,062-117,162,857">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr11:117,162,062-117,162,857</ref>
+        <ref id="mm9 chr9:45,664,854-45,666,107">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr9:45,664,854-45,666,107</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="53">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr14:101,292,445-101,327,368</Entry>
+      <Entry Species="Ovis aries (Sheep)">N/A</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr12:110,779,206-110,809,939</Entry>
+      <references>
+        <ref id="hg19 chr14:101,292,445-101,327,368">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr14:101,292,445-101,327,368</ref>
+        <ref id="mm9 chr12:110,779,206-110,809,939">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr12:110,779,206-110,809,939</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="54">
+    <species>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr7:147,133,623-147,134,617</Entry>
+      <references>
+        <ref id="mm9 chr7:147,133,623-147,134,617">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr7:147,133,623-147,134,617</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="55">
+    <species>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr12:57,710,600-57,711,463</Entry>
+      <references>
+        <ref id="mm9 chr12:57,710,600-57,711,463">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr12:57,710,600-57,711,463</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="56">
+    <species>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr6:52,164,490-52,165,287</Entry>
+      <references>
+        <ref id="mm9 chr6:52,164,490-52,165,287">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr6:52,164,490-52,165,287</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="57">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr14:57,279,901-57,397,550</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr14:49,288,963-49,413,023</Entry>
+      <references>
+        <ref id="mm9 chr14:49,288,963-49,413,023">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr14:49,288,963-49,413,023</ref>
+        <ref id="hg19 chr14:57,279,901-57,397,550">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr14:57,279,901-57,397,550</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="58">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr14:101,508,671-101,541,625</Entry>
+      <Entry Species="Rattus norvegicus (Rat)">rn4 chr6:134,410,685-134,431,542</Entry>
+      <Entry Species="Ovis aries (Sheep)">N/A</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr12:110,967,974-110,987,668</Entry>
+      <references>
+        <ref id="mm9 chr12:110,967,974-110,987,668">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr12:110,967,974-110,987,668</ref>
+        <ref id="hg19 chr14:101,508,671-101,541,625">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr14:101,508,671-101,541,625</ref>
+        <ref id="rn4 chr6:134,410,685-134,431,542">http://genome.ucsc.edu/cgi-bin/hgTracks?db=rn4&amp;position=chr6:134,410,685-134,431,542</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="59">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr1:213,924,749-213,926,653</Entry>
+      <references>
+        <ref id="hg19 chr1:213,924,749-213,926,653">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr1:213,924,749-213,926,653</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="60">
+    <species>
+      <Entry Species="Papio hamadryas (Hamadryas baboon)">N/A</Entry>
+      <Entry Species="Macaca fascicularis (Crab eating macaque)">N/A</Entry>
+      <Entry Species="Gorilla gorilla (Western Gorilla)">N/A</Entry>
+      <Entry Species="Saguinus imperator (Emperor tamarin)">N/A</Entry>
+      <Entry Species="Hylobates lar (Common gibbon)">N/A</Entry>
+      <Entry Species="Pongo pygmaeus (Bornean orangutan)">ponAbe2 chr2a:63,996,093-63,996,298</Entry>
+      <Entry Species="Pan troglodytes (Chimpanzee)">panTro2 chr2a:48,471,965-48,472,169</Entry>
+      <Entry Species="Saguinus oedipus (Cotton-top tamarin)">N/A</Entry>
+      <Entry Species="Macaca mulatta (Rhesus macaque)">N/A</Entry>
+      <Entry Species="Cercopithecus aethiops (Green monkey) (Grivet)">N/A</Entry>
+      <Entry Species="Pan paniscus (Pygmy chimpanzee) (Bonobo)">N/A</Entry>
+      <Entry Species="Homo sapiens (Human)">hg19 chr2:47,562,454-47,562,653</Entry>
+      <Entry Species="Aotus trivirgatus (Night monkey)">N/A</Entry>
+      <references>
+        <ref id="panTro2 chr2a:48,471,965-48,472,169">http://genome.ucsc.edu/cgi-bin/hgTracks?db=panTro2&amp;position=chr2a:48,471,965-48,472,169</ref>
+        <ref id="ponAbe2 chr2a:63,996,093-63,996,298">http://genome.ucsc.edu/cgi-bin/hgTracks?db=ponAbe2&amp;position=chr2a:63,996,093-63,996,298</ref>
+        <ref id="hg19 chr2:47,562,454-47,562,653">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr2:47,562,454-47,562,653</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="61">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr14:23,982,558-24,013,485</Entry>
+      <Entry Species="Rattus norvegicus (Rat)">rn4 chr15:33,178,036-33,180,752</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr14:55,671,907-55,703,972</Entry>
+      <references>
+        <ref id="mm9 chr14:55,671,907-55,703,972">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr14:55,671,907-55,703,972</ref>
+        <ref id="rn4 chr15:33,178,036-33,180,752">http://genome.ucsc.edu/cgi-bin/hgTracks?db=rn4&amp;position=chr15:33,178,036-33,180,752</ref>
+        <ref id="hg19 chr14:23,982,558-24,013,485">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr14:23,982,558-24,013,485</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="62">
+    <species>
+      <Entry Species="Caenorhabditis elegans (Roundworm)">ce6 chrX:1,011,499-1,012,345</Entry>
+      <references>
+        <ref id="ce6 chrX:1,011,499-1,012,345">http://genome.ucsc.edu/cgi-bin/hgTracks?db=ce6&amp;position=chrX:1,011,499-1,012,345</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="63">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr20:5,100,232-5,100,615</Entry>
+      <references>
+        <ref id="hg19 chr20:5,100,232-5,100,615">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr20:5,100,232-5,100,615</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="64">
+    <species>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr2:147,009,819-147,157,417</Entry>
+      <references>
+        <ref id="mm9 chr2:147,009,819-147,157,417">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr2:147,009,819-147,157,417</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="65">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr19:15,828,947-15,836,321</Entry>
+      <references>
+        <ref id="hg19 chr19:15,828,947-15,836,321">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr19:15,828,947-15,836,321</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="66">
+    <species>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr1:152,006,173-152,012,078</Entry>
+      <references>
+        <ref id="mm9 chr1:152,006,173-152,012,078">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr1:152,006,173-152,012,078</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="67">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr12:67,989,445-68,021,327</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm10 chr10:118,502,035-118,556,525</Entry>
+      <references>
+        <ref id="hg19 chr12:67,989,445-68,021,327">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr12:67,989,445-68,021,327</ref>
+        <ref id="mm10 chr10:118,502,035-118,556,525">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm10&amp;position=chr10:118,502,035-118,556,525</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="68">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr6:86,386,725-86,388,451</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr9:88,415,949-88,417,846</Entry>
+      <references>
+        <ref id="hg19 chr6:86,386,725-86,388,451">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr6:86,386,725-86,388,451</ref>
+        <ref id="mm9 chr9:88,415,949-88,417,846">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr9:88,415,949-88,417,846</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="69">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chrX:73164159-73290217</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm9 chrX:100688915-100701764</Entry>
+      <references>
+        <ref id="mm9 chrX:100688915-100701764">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chrX:100688915-100701764</ref>
+        <ref id="hg19 chrX:73164159-73290217">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chrX:73164159-73290217</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="70">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr8:67,834,165-67,837,777</Entry>
+      <Entry Species="Rattus norvegicus (Rat)">rn4 chr5:8,840,469-8,842,569</Entry>
+      <Entry Species="Canis familiaris (Dog)">canFam2 chr29:19,464,036-19,467,218</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr1:9,932,040-9,934,199</Entry>
+      <references>
+        <ref id="hg19 chr8:67,834,165-67,837,777">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr8:67,834,165-67,837,777</ref>
+        <ref id="rn4 chr5:8,840,469-8,842,569">http://genome.ucsc.edu/cgi-bin/hgTracks?db=rn4&amp;position=chr5:8,840,469-8,842,569</ref>
+        <ref id="mm9 chr1:9,932,040-9,934,199">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr1:9,932,040-9,934,199</ref>
+        <ref id="canFam2 chr29:19,464,036-19,467,218">http://genome.ucsc.edu/cgi-bin/hgTracks?db=canFam2&amp;position=chr29:19,464,036-19,467,218</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="71">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr11:62,619,460-62,623,360</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr19:8,797,977-8,800,816</Entry>
+      <references>
+        <ref id="hg19 chr11:62,619,460-62,623,360">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr11:62,619,460-62,623,360</ref>
+        <ref id="mm9 chr19:8,797,977-8,800,816">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr19:8,797,977-8,800,816</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="72">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr2:181,556,831-181,781,666</Entry>
+      <references>
+        <ref id="hg19 chr2:181,556,831-181,781,666">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr2:181,556,831-181,781,666</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="73">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr1:28,832,455-28,837,404</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr4:131,907,848-131,909,601</Entry>
+      <references>
+        <ref id="mm9 chr4:131,907,848-131,909,601">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr4:131,907,848-131,909,601</ref>
+        <ref id="hg19 chr1:28,832,455-28,837,404">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr1:28,832,455-28,837,404</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="74">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr8:123,704,461-123,704,784</Entry>
+      <references>
+        <ref id="hg19 chr8:123,704,461-123,704,784">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr8:123,704,461-123,704,784</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="75">
+    <species>
+      <Entry Species="Mus musculus (Mouse)">N/A</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="76">
+    <species>
+      <Entry Species="Human herpesvirus">NULL</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="77">
+    <species>
+      <Entry Species="Drosophila melanogaster (Fruit fly)">dm3 chr3L:20,446,393-20,447,830</Entry>
+      <references>
+        <ref id="dm3 chr3L:20,446,393-20,447,830">http://genome.ucsc.edu/cgi-bin/hgTracks?db=dm3&amp;position=chr3L:20,446,393-20,447,830</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="78">
+    <species>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr5:100,849,861-100,858,535</Entry>
+      <Entry Species="Cricetulus griseus (Chinese hamster)">N/A</Entry>
+      <references>
+        <ref id="mm9 chr5:100,849,861-100,858,535">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr5:100,849,861-100,858,535</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="79">
+    <species>
+      <Entry Species="Gallus Gallus (Chicken)">NULL</Entry>
+      <Entry Species="Caenorhabditis elegans (Roundworm)">NULL</Entry>
+      <Entry Species="Xenopus laevis (African clawed frog)">NULL</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr6:47,738,069-47,738,179</Entry>
+      <Entry Species="Homo sapiens (Human)">hg19 chr7:148,660,407-148,660,502</Entry>
+      <Entry Species="Danio rerio (Zebrafish)">NULL</Entry>
+      <references>
+        <ref id="mm9 chr6:47,738,069-47,738,179">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr6:47,738,069-47,738,179</ref>
+        <ref id="hg19 chr7:148,660,407-148,660,502">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr7:148,660,407-148,660,502</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="80">
+    <species>
+      <Entry Species="Saccharomyces cerevisiae (Baker's yeast)">N/A</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="81">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr4:7754090-7778928</Entry>
+      <references>
+        <ref id="hg19 chr4:7754090-7778928">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19position=chr4:7754090-7778928</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="82">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr7:27,186,782-27,193,904</Entry>
+      <references>
+        <ref id="hg19 chr7:27,186,782-27,193,904">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr7:27,186,782-27,193,904</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="83">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr2:107754145-107812348</Entry>
+      <references>
+        <ref id="hg19 chr2:107754145-107812348">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19position=chr2:107754145-107812348</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="84">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr6:8,652,369-8,654,079</Entry>
+      <Entry Species="Macaca fascicularis (Crab eating macaque)">N/A</Entry>
+      <Entry Species="Pan troglodytes (Chimpanzee)">panTro2 chr6:8,792,505-8,794,144</Entry>
+      <Entry Species="Papio ursinus (Baboon)">N/A</Entry>
+      <Entry Species="Macaca mulatta (Rhesus macaque)">rheMac2 chr4:8,590,149-8,591,785</Entry>
+      <references>
+        <ref id="rheMac2 chr4:8,590,149-8,591,785">http://genome.ucsc.edu/cgi-bin/hgTracks?db=rheMac2&amp;position=chr4:8,590,149-8,591,785</ref>
+        <ref id="hg19 chr6:8,652,369-8,654,079">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr6:8,652,369-8,654,079</ref>
+        <ref id="panTro2 chr6:8,792,505-8,794,144">http://genome.ucsc.edu/cgi-bin/hgTracks?db=panTro2&amp;position=chr6:8,792,505-8,794,144</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="85">
+    <species>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr1:183,957,415-183,963,763</Entry>
+      <references>
+        <ref id="mm9 chr1:183,957,415-183,963,763">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr1:183,957,415-183,963,763</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="86">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chrX:139,865,328-139,866,829</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm10 chrX:61,183,236-61,186,179</Entry>
+      <references>
+        <ref id="hg19 chrX:139,865,328-139,866,829">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chrX:139,865,328-139,866,829</ref>
+        <ref id="mm10 chrX:61,183,236-61,186,179">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm10&amp;position=chrX:61,183,236-61,186,179</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="87">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr11:8,960,582-8,960,712</Entry>
+      <references>
+        <ref id="hg19 chr11:8,960,582-8,960,712">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr11:8,960,582-8,960,712</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="88">
+    <species>
+      <Entry Species="Drosophila melanogaster (Fruit fly)">dm3 chr3R:17,122,345-17,124,246</Entry>
+      <references>
+        <ref id="dm3 chr3R:17,122,345-17,124,246">http://genome.ucsc.edu/cgi-bin/hgTracks?db=dm3&amp;position=chr3R:17,122,345-17,124,246</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="89">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr14:102,018,560-102,026,740</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr12:111,513,595-111,517,534</Entry>
+      <references>
+        <ref id="hg19 chr14:102,018,560-102,026,740">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr14:102,018,560-102,026,740</ref>
+        <ref id="mm9 chr12:111,513,595-111,517,534">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr12:111,513,595-111,517,534</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="90">
+    <species>
+      <Entry Species="Mus musculus (Mouse)">mm10 chr4:33092666-33093915</Entry>
+      <references>
+        <ref id="mm10 chr4:33092666-33093915">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm10&amp;position=chr4:33092666-33093915</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="91">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr11:5,304,740-5,305,929</Entry>
+      <Entry Species="Mus musculus (Mouse)">NULL</Entry>
+      <references>
+        <ref id="hg19 chr11:5,304,740-5,305,929">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr11:5,304,740-5,305,929</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="92">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr3:64,670,546-64,997,143</Entry>
+      <references>
+        <ref id="hg19 chr3:64,670,546-64,997,143">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr3:64,670,546-64,997,143</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="93">
+    <species>
+      <Entry Species="Homo sapiens (Human)">NULL</Entry>
+      <Entry Species="Danio rerio (Zebrafish)">NULL</Entry>
+      <Entry Species="Saccharomyces cerevisiae (Baker's yeast)">NULL</Entry>
+      <Entry Species="Arabidopsis thaliana (Mouse-ear cress)">NULL</Entry>
+      <Entry Species="Mus musculus (Mouse)">NULL</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="94">
+    <species>
+      <Entry Species="Mus musculus (Mouse)">mm10 chrX:103414467-103424580</Entry>
+      <references>
+        <ref id="mm10 chrX:103414467-103424580">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm10&amp;position=chrX:103414467-103424580</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="95">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr12:53,858,252-53,858,841</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="96">
+    <species>
+      <Entry Species="Canis familiaris (Dog)">canFam2 chr18:54,725,564-54,732,921</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr19:5,795,690-5,802,671</Entry>
+      <Entry Species="Equus caballus (Horse)">equCab2 chr12:25,648,499-25,655,705</Entry>
+      <Entry Species="Homo sapiens (Human)">hg19 chr11:65,265,233-65,273,939</Entry>
+      <Entry Species="Monodelphis domestica (Short tailed grey opossum)">monDom5 chr8:13,576,736-13,578,811</Entry>
+      <Entry Species="Danio rerio (Zebrafish)">danRer7 chr14:48,566,202-48,573,730</Entry>
+      <references>
+        <ref id="mm9 chr19:5,795,690-5,802,671">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr19:5,795,690-5,802,671</ref>
+        <ref id="hg19 chr11:65,265,233-65,273,939">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr11:65,265,233-65,273,939</ref>
+        <ref id="equCab2 chr12:25,648,499-25,655,705">http://genome.ucsc.edu/cgi-bin/hgTracks?db=equCab2&amp;position=chr12:25,648,499-25,655,705</ref>
+        <ref id="canFam2 chr18:54,725,564-54,732,921">http://genome.ucsc.edu/cgi-bin/hgTracks?db=canFam2&amp;position=chr18:54,725,564-54,732,921</ref>
+        <ref id="monDom5 chr8:13,576,736-13,578,811">http://genome.ucsc.edu/cgi-bin/hgTracks?db=monDom5&amp;position=chr8:13,576,736-13,578,811</ref>
+        <ref id="danRer7 chr14:48,566,202-48,573,730">http://genome.ucsc.edu/cgi-bin/hgTracks?db=danRer7&amp;position=chr14:48,566,202-48,573,730</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="97">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr7:27,135,743-27,139,584</Entry>
+      <Entry Species="Rattus norvegicus (Rat)">rn4 chr4:80,458,677-80,462,167</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr6:52,108,521-52,112,282</Entry>
+      <references>
+        <ref id="mm9 chr6:52,108,521-52,112,282">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr6:52,108,521-52,112,282</ref>
+        <ref id="hg19 chr7:27,135,743-27,139,584">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr7:27,135,743-27,139,584</ref>
+        <ref id="rn4 chr4:80,458,677-80,462,167">http://genome.ucsc.edu/cgi-bin/hgTracks?db=rn4&amp;position=chr4:80,458,677-80,462,167</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="98">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr5:79,950,179-79,950,765</Entry>
+      <references>
+        <ref id="hg19 chr5:79,950,179-79,950,765">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr5:79,950,179-79,950,765</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="99">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr20:47,894,715-47,905,797</Entry>
+      <Entry Species="Rattus norvegicus (Rat)">rn4 chr3:158,214,340-158,216,912</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr2:166,888,434-166,891,362</Entry>
+      <Entry Species="Bos taurus (Cattle)">bosTau4 chr13:78,388,806-78,391,538</Entry>
+      <references>
+        <ref id="rn4 chr3:158,214,340-158,216,912">http://genome.ucsc.edu/cgi-bin/hgTracks?db=rn4&amp;position=chr3:158,214,340-158,216,912</ref>
+        <ref id="mm9 chr2:166,888,434-166,891,362">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr2:166,888,434-166,891,362</ref>
+        <ref id="hg19 chr20:47,894,715-47,905,797">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr20:47,894,715-47,905,797</ref>
+        <ref id="bosTau4 chr13:78,388,806-78,391,538">http://genome.ucsc.edu/cgi-bin/hgTracks?db=bosTau4&amp;position=chr13:78,388,806-78,391,538</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="100">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr10:24,536,054-24,544,975</Entry>
+      <references>
+        <ref id="hg19 chr10:24,536,054-24,544,975">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr10:24,536,054-24,544,975</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="101">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr2:173958088-173958307</Entry>
+      <references>
+        <ref id="hg19 chr2:173958088-173958307">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr2:173958088-173958307</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="102">
+    <species>
+      <Entry Species="Homo sapiens (Human)">-</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="103">
+    <species>
+      <Entry Species="Rattus norvegicus (Rat)">rn5 chr2:229303679-229308398</Entry>
+      <references>
+        <ref id="rn5 chr2:229303679-229308398">http://genome.ucsc.edu/cgi-bin/hgTracks?db=rn5position=chr2:229303679-229308398</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="104">
+    <species>
+      <Entry Species="Homo sapiens (Human)">-</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="105">
+    <species>
+      <Entry Species="Gallus gallus (Chicken)">galGal4 chr14:12708226-12732494</Entry>
+      <references>
+        <ref id="galGal4 chr14:12708226-12732494">http://genomce.ucsc.edu/cgi-bin/hgTracks?db=galGal4&amp;position=chr14:12708226-12732494</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="106">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr5:138,609,441-138,618,873</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr18:35,713,064-35,717,970</Entry>
+      <references>
+        <ref id="hg19 chr5:138,609,441-138,618,873">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr5:138,609,441-138,618,873</ref>
+        <ref id="mm9 chr18:35,713,064-35,717,970">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr18:35,713,064-35,717,970</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="107">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr14:23,938,731-23,954,197</Entry>
+      <references>
+        <ref id="hg19 chr14:23,938,731-23,954,197">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr14:23,938,731-23,954,197</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="108">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr20:61,726,845-61,733,671</Entry>
+      <Entry Species="Macaca fascicularis (Crab eating macaque)">N/A</Entry>
+      <Entry Species="Pan troglodytes (Chimpanzee)">panTro2 chr20:61,015,902-61,023,528</Entry>
+      <references>
+        <ref id="panTro2 chr20:61,015,902-61,023,528">http://genome.ucsc.edu/cgi-bin/hgTracks?db=panTro2&amp;position=chr20:61,015,902-61,023,528</ref>
+        <ref id="hg19 chr20:61,726,845-61,733,671">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr20:61,726,845-61,733,671</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="109">
+    <species>
+      <Entry Species="Bos taurus (Cattle)">N/A</Entry>
+      <Entry Species="Macaca fascicularis (Crab eating macaque)">N/A</Entry>
+      <Entry Species="Canis familiaris (Dog)">N/A</Entry>
+      <Entry Species="Pongo pygmaeus (Bornean orangutan)">ponAbe2 chr20_random:2,897,755-2,900,105</Entry>
+      <Entry Species="Pan troglodytes (Chimpanzee)">panTro2 chr20:61,021,461-61,025,542</Entry>
+      <Entry Species="Homo sapiens (Human)">hg19 chr20:61,732,644-61,735,737</Entry>
+      <references>
+        <ref id="panTro2 chr20:61,021,461-61,025,542">http://genome.ucsc.edu/cgi-bin/hgTracks?db=panTro2&amp;position=chr20:61,021,461-61,025,542</ref>
+        <ref id="hg19 chr20:61,732,644-61,735,737">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr20:61,732,644-61,735,737</ref>
+        <ref id="ponAbe2 chr20_random:2,897,755-2,900,105">http://genome.ucsc.edu/cgi-bin/hgTracks?db=ponAbe2&amp;position=chr20_random:2,897,755-2,900,105</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="110">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr2:145,275,982-145,278,683</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr2:44,966,658-44,969,604</Entry>
+      <references>
+        <ref id="mm9 chr2:44,966,658-44,969,604">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr2:44,966,658-44,969,604</ref>
+        <ref id="hg19 chr2:145,275,982-145,278,683">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr2:145,275,982-145,278,683</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="111">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr5:141,697,199-141,697,887</Entry>
+      <references>
+        <ref id="hg19 chr5:141,697,199-141,697,887">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr5:141,697,199-141,697,887</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="112">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr1:231,945,691-231,960,682</Entry>
+      <references>
+        <ref id="hg19 chr1:231,945,691-231,960,682">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr1:231,945,691-231,960,682</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="113">
+    <species>
+      <Entry Species="Homo sapiens (Human)">chr10:8050450-8053484</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="114">
+    <species>
+      <Entry Species="Homo sapiens (Human)">chr12:74931551-74935232 </Entry>
+      <Entry Species="Homo sapiens (Human)">chr12:74,537,771-74,541,452 </Entry>
+      <Entry Species="Mus musculus (Mouse)">chr10:112925430-112928995 </Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="115">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr8:127086263-127087510</Entry>
+      <references>
+        <ref id="hg19 chr8:127086263-127087510">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr8:127086263-127087510</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="116">
+    <species>
+      <Entry Species="Mus musculus (Mouse)">-</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="117">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr1:205,434,886-205,456,086</Entry>
+      <references>
+        <ref id="hg19 chr1:205,434,886-205,456,086">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr1:205,434,886-205,456,086</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="118">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chrX:49825708-149879799</Entry>
+      <references>
+        <ref id="hg19 chrX:49825708-149879799">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19position=chrX:49825708-149879799</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="119">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr14:36,135,710-36,176,651</Entry>
+      <references>
+        <ref id="hg19 chr14:36,135,710-36,176,651">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr14:36,135,710-36,176,651</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="120">
+    <species>
+      <Entry Species="Neurospora crassa">N/A</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="121">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr5:76,007,763-76,008,686</Entry>
+      <references>
+        <ref id="hg19 chr5:76,007,763-76,008,686">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr5:76,007,763-76,008,686</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="122">
+    <species>
+      <Entry Species="Rattus norvegicus (Rat)">rn4 chr1:202,822,926-202,825,601</Entry>
+      <Entry Species="Canis familiaris (Dog)">canFam2 chr18:49,228,076-49,230,776</Entry>
+      <Entry Species="Bos taurus (Cattle)">bosTau4 chr29:51,364,542-51,366,914</Entry>
+      <Entry Species="Pan troglodytes (Chimpanzee)">panTro2 chr11:2,043,402-2,044,645</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr7:149,761,437-149,764,051</Entry>
+      <Entry Species="Equus caballus (Horse)">equCab2 chr12:30,527,700-30,530,105</Entry>
+      <Entry Species="Macaca mulatta (Rhesus macaque)">rheMac2 chr14:1,906,519-1,909,153</Entry>
+      <Entry Species="Macropus eugenii (Tammar wallaby)">N/A</Entry>
+      <Entry Species="Homo sapiens (Human)">hg19 chr11:2,016,406-2,019,065</Entry>
+      <Entry Species="Monodelphis domestica (Short tailed grey opossum)">N/A</Entry>
+      <references>
+        <ref id="equCab2 chr12:30,527,700-30,530,105">http://genome.ucsc.edu/cgi-bin/hgTracks?db=equCab2&amp;position=chr12:30,527,700-30,530,105</ref>
+        <ref id="panTro2 chr11:2,043,402-2,044,645">http://genome.ucsc.edu/cgi-bin/hgTracks?db=panTro2&amp;position=chr11:2,043,402-2,044,645</ref>
+        <ref id="hg19 chr11:2,016,406-2,019,065">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr11:2,016,406-2,019,065</ref>
+        <ref id="mm9 chr7:149,761,437-149,764,051">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr7:149,761,437-149,764,051</ref>
+        <ref id="bosTau4 chr29:51,364,542-51,366,914">http://genome.ucsc.edu/cgi-bin/hgTracks?db=bosTau4&amp;position=chr29:51,364,542-51,366,914</ref>
+        <ref id="rn4 chr1:202,822,926-202,825,601">http://genome.ucsc.edu/cgi-bin/hgTracks?db=rn4&amp;position=chr1:202,822,926-202,825,601</ref>
+        <ref id="canFam2 chr18:49,228,076-49,230,776">http://genome.ucsc.edu/cgi-bin/hgTracks?db=canFam2&amp;position=chr18:49,228,076-49,230,776</ref>
+        <ref id="rheMac2 chr14:1,906,519-1,909,153">http://genome.ucsc.edu/cgi-bin/hgTracks?db=rheMac2&amp;position=chr14:1,906,519-1,909,153</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="123">
+    <species>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr3:34,670,997-34,681,268</Entry>
+      <references>
+        <ref id="mm9 chr3:34,670,997-34,681,268">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr3:34,670,997-34,681,268</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="124">
+    <species>
+      <Entry Species="Gallus gallus (Chicken)">galGal4 chrZ:27,203,645-27,228,093</Entry>
+      <references>
+        <ref id="galGal4 chrZ:27,203,645-27,228,093">http://genomce.ucsc.edu/cgi-bin/hgTracks?db=galGal4&amp;position=chrZ:27,203,645-27,228,093</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="125">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr10:6,779,694-6,889,494</Entry>
+      <references>
+        <ref id="hg19 chr10:6,779,694-6,889,494">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr10:6,779,694-6,889,494</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="126">
+    <species>
+      <Entry Species="Homo sapiens (Human)"/>
+      <references/>
+    </species>
+  </Results>
+  <Results id="127">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr8:127,890,589-128,101,253</Entry>
+      <references>
+        <ref id="hg19 chr8:127,890,589-128,101,253">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr8:127,890,589-128,101,253</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="128">
+    <species>
+      <Entry Species="Oryza sativa (Rice)">N/A</Entry>
+      <Entry Species="Medicago truncatula (Barrel Clover)">N/A</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="129">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr9:21,994,790-22,121,093</Entry>
+      <references>
+        <ref id="hg19 chr9:21,994,790-22,121,093">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr9:21,994,790-22,121,093</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="130">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr7:27,224,136-27,228,912</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr6:52,195,242-52,199,768</Entry>
+      <references>
+        <ref id="mm9 chr6:52,195,242-52,199,768">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr6:52,195,242-52,199,768</ref>
+        <ref id="hg19 chr7:27,224,136-27,228,912">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr7:27,224,136-27,228,912</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="131">
+    <species>
+      <Entry Species="Saccharomyces cerevisiae (Baker's yeast)">N/A</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="132">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr11:32,457,285-32,461,620</Entry>
+      <Entry Species="Macaca mulatta (Rhesus macaque)">rheMac2 chr14:39,347,674-39,352,017</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr2:104,916,695-104,966,667</Entry>
+      <Entry Species="Pongo abelii (Sumatran orangutan)">ponAbe2 chr11:36,917,770-36,922,114</Entry>
+      <references>
+        <ref id="ponAbe2 chr11:36,917,770-36,922,114">http://genome.ucsc.edu/cgi-bin/hgTracks?db=ponAbe2&amp;position=chr11:36,917,770-36,922,114</ref>
+        <ref id="rheMac2 chr14:39,347,674-39,352,017">http://genome.ucsc.edu/cgi-bin/hgTracks?db=rheMac2&amp;position=chr14:39,347,674-39,352,017</ref>
+        <ref id="hg19 chr11:32,457,285-32,461,620">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr11:32,457,285-32,461,620</ref>
+        <ref id="mm9 chr2:104,916,695-104,966,667">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr2:104,916,695-104,966,667</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="133">
+    <species>
+      <Entry Species="Rattus norvegicus (Rat)">NULL</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="134">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr14:22,942,453-23,016,567</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr14:54,771,987-54,773,894</Entry>
+      <references>
+        <ref id="hg19 chr14:22,942,453-23,016,567">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr14:22,942,453-23,016,567</ref>
+        <ref id="mm9 chr14:54,771,987-54,773,894">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr14:54,771,987-54,773,894</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="135">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr6:165,533,548-165,533,788</Entry>
+      <references>
+        <ref id="hg19 chr6:165,533,548-165,533,788">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr6:165,533,548-165,533,788</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="136">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr8:134,067,204-134,070,012</Entry>
+      <references>
+        <ref id="hg19 chr8:134,067,204-134,070,012">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr8:134,067,204-134,070,012</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="137">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr6:1,606,392-1,606,889</Entry>
+      <references>
+        <ref id="hg19 chr6:1,606,392-1,606,889">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr6:1,606,392-1,606,889</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="138">
+    <species>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr8:89,996,711-90,049,453</Entry>
+      <references>
+        <ref id="mm9 chr8:89,996,711-90,049,453">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr8:89,996,711-90,049,453</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="139">
+    <species>
+      <Entry Species="Mus musculus (Mouse)">mm10 chr10:63319104-63319369</Entry>
+      <references>
+        <ref id="mm10 chr10:63319104-63319369">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm10&amp;position=chr10:63319104-63319369</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="140">
+    <species>
+      <Entry Species="Homo sapiens (Human)">chr11:128,561,567-128,565,918</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="141">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr7:27,238,193-27,246,878</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr6:52,212,769-52,217,597</Entry>
+      <references>
+        <ref id="mm9 chr6:52,212,769-52,217,597">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr6:52,212,769-52,217,597</ref>
+        <ref id="hg19 chr7:27,238,193-27,246,878">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr7:27,238,193-27,246,878</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="142">
+    <species>
+      <Entry Species="Xenopus laevis (African clawed frog)">N/A</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="143">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr11:50,453,732-50,454,791</Entry>
+      <references>
+        <ref id="hg19 chr11:50,453,732-50,454,791">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr11:50,453,732-50,454,791</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="144">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr20:57,393,973-57,425,958</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr2:174,106,738-174,120,937</Entry>
+      <references>
+        <ref id="hg19 chr20:57,393,973-57,425,958">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr20:57,393,973-57,425,958</ref>
+        <ref id="mm9 chr2:174,106,738-174,120,937">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr2:174,106,738-174,120,937</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="145">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr6:52,860,418-52,860,749</Entry>
+      <references>
+        <ref id="hg19 chr6:52,860,418-52,860,749">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr6:52,860,418-52,860,749</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="146">
+    <species>
+      <Entry Species="Homo sapiens (Human)">NULL</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="147">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr14:50,053,297-50,053,596</Entry>
+      <references>
+        <ref id="hg19 chr14:50,053,297-50,053,596">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr14:50,053,297-50,053,596</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="148">
+    <species>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr10:60,390,974-60,400,880</Entry>
+      <references>
+        <ref id="mm9 chr10:60,390,974-60,400,880">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr10:60,390,974-60,400,880</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="149">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 </Entry>
+      <references>
+        <ref id="hg19 ">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19position=</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="150">
+    <species>
+      <Entry Species="Mus musculus (Mouse)">N/A</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="151">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr6:54,635,169-54,636,037</Entry>
+      <references>
+        <ref id="hg19 chr6:54,635,169-54,636,037">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr6:54,635,169-54,636,037</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="152">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr1:211556097-211605877</Entry>
+      <references>
+        <ref id="hg19 chr1:211556097-211605877">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr1:211556097-211605877</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="153">
+    <species>
+      <Entry Species="Homo sapiens (Human)">N/A</Entry>
+      <Entry Species="Mus musculus (Mouse)">N/A</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="154">
+    <species>
+      <Entry Species="Gallus gallus (Chicken)"/>
+      <references/>
+    </species>
+  </Results>
+  <Results id="155">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr1:173,833,039-173,837,125</Entry>
+      <Entry Species="Rattus norvegicus (Rat)">rn4 chr13:76,594,781-76,598,102</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr1:162,965,297-162,968,668</Entry>
+      <Entry Species="Gallus Gallus (Chicken)">galGal3 chr8:7,728,043-7,735,232</Entry>
+      <references>
+        <ref id="galGal3 chr8:7,728,043-7,735,232">http://genome.ucsc.edu/cgi-bin/hgTracks?db=galGal3&amp;position=chr8:7,728,043-7,735,232</ref>
+        <ref id="hg19 chr1:173,833,039-173,837,125">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr1:173,833,039-173,837,125</ref>
+        <ref id="mm9 chr1:162,965,297-162,968,668">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr1:162,965,297-162,968,668</ref>
+        <ref id="rn4 chr13:76,594,781-76,598,102">http://genome.ucsc.edu/cgi-bin/hgTracks?db=rn4&amp;position=chr13:76,594,781-76,598,102</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="156">
+    <species>
+      <Entry Species="Arabidopsis thaliana (Mouse-ear cress)">N/A</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="157">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr1:47,644,922-47,646,011</Entry>
+      <references>
+        <ref id="hg19 chr1:47,644,922-47,646,011">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr1:47,644,922-47,646,011</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="158">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr6:21,486,545-21,512,123</Entry>
+      <references>
+        <ref id="hg19 chr6:21,486,545-21,512,123">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr6:21,486,545-21,512,123</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="159">
+    <species>
+      <Entry Species="Human herpesvirus">NULL</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="160">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr11:100,999,115-101,069,639</Entry>
+      <references>
+        <ref id="hg19 chr11:100,999,115-101,069,639">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr11:100,999,115-101,069,639</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="161">
+    <species>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr16:50,526,343-50,559,543</Entry>
+      <references>
+        <ref id="mm9 chr16:50,526,343-50,559,543">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr16:50,526,343-50,559,543</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="162">
+    <species>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr8:88,518,143-88,520,561</Entry>
+      <references>
+        <ref id="mm9 chr8:88,518,143-88,520,561">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr8:88,518,143-88,520,561</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="163">
+    <species>
+      <Entry Species="Rattus norvegicus (Rat)">rn6 chr7:142858745-142872095</Entry>
+      <references>
+        <ref id="rn6 chr7:142858745-142872095">http://genome.ucsc.edu/cgi-bin/hgTracks?db=rn6position=chr7:142858745-142872095</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="164">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr7:96,594,838-96,643,377</Entry>
+      <Entry Species="Rattus norvegicus (Rat)">rn4 chr4:31,722,073-31,770,275</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr6:6,770,192-6,819,533</Entry>
+      <references>
+        <ref id="hg19 chr7:96,594,838-96,643,377">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr7:96,594,838-96,643,377</ref>
+        <ref id="rn4 chr4:31,722,073-31,770,275">http://genome.ucsc.edu/cgi-bin/hgTracks?db=rn4&amp;position=chr4:31,722,073-31,770,275</ref>
+        <ref id="mm9 chr6:6,770,192-6,819,533">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr6:6,770,192-6,819,533</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="165">
+    <species>
+      <Entry Species="Homo sapiens (Human)">NULL</Entry>
+      <Entry Species="Rattus norvegicus (Rat)">rn4 chr10:106,639,811-106,641,100</Entry>
+      <references>
+        <ref id="rn4 chr10:106,639,811-106,641,100">http://genome.ucsc.edu/cgi-bin/hgTracks?db=rn4&amp;position=chr10:106,639,811-106,641,100</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="166">
+    <species>
+      <Entry Species="Rattus norvegicus (Rat)">N/A</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr18:37,205,741-37,205,917</Entry>
+      <Entry Species="Cricetulus griseus (Chinese hamster)">N/A</Entry>
+      <references>
+        <ref id="mm9 chr18:37,205,741-37,205,917">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr18:37,205,741-37,205,917</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="167">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr11:116706833-116726445</Entry>
+      <references>
+        <ref id="hg19 chr11:116706833-116726445">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr11:116706833-116726445</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="168">
+    <species>
+      <Entry Species="Drosophila melanogaster (D. melanogaster)">-</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="169">
+    <species>
+      <Entry Species="Rattus norvegicus (Rat)">rn4 chr6:134,182,037-134,187,063</Entry>
+      <Entry Species="Ovis aries (Sheep)">N/A</Entry>
+      <Entry Species="Canis familiaris (Dog)">canFam2 chr8:72,143,292-72,151,777</Entry>
+      <Entry Species="Bos taurus (Cattle)">bosTau4 chr21:65,866,204-65,870,198</Entry>
+      <Entry Species="Cavia porcellus (Guinea pig)">cavPor3 scaffold_111:951,444-955,421</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr12:110,828,763-110,831,063</Entry>
+      <Entry Species="Equus caballus (Horse)">equCab2 chr24:42,745,007-42,748,761</Entry>
+      <Entry Species="Homo sapiens (Human)">hg19 chr14:101,347,344-101,351,120</Entry>
+      <references>
+        <ref id="equCab2 chr24:42,745,007-42,748,761">http://genome.ucsc.edu/cgi-bin/hgTracks?db=equCab2&amp;position=chr24:42,745,007-42,748,761</ref>
+        <ref id="mm9 chr12:110,828,763-110,831,063">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr12:110,828,763-110,831,063</ref>
+        <ref id="bosTau4 chr21:65,866,204-65,870,198">http://genome.ucsc.edu/cgi-bin/hgTracks?db=bosTau4&amp;position=chr21:65,866,204-65,870,198</ref>
+        <ref id="canFam2 chr8:72,143,292-72,151,777">http://genome.ucsc.edu/cgi-bin/hgTracks?db=canFam2&amp;position=chr8:72,143,292-72,151,777</ref>
+        <ref id="hg19 chr14:101,347,344-101,351,120">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr14:101,347,344-101,351,120</ref>
+        <ref id="rn4 chr6:134,182,037-134,187,063">http://genome.ucsc.edu/cgi-bin/hgTracks?db=rn4&amp;position=chr6:134,182,037-134,187,063</ref>
+        <ref id="cavPor3 scaffold_111:951,444-955,421">http://genome.ucsc.edu/cgi-bin/hgTracks?db=cavPor3&amp;position=scaffold_111:951,444-955,421</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="170">
+    <species>
+      <Entry Species="Homo sapiens (Human)">N/A</Entry>
+      <Entry Species="Mus musculus (Mouse)">N/A</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="171">
+    <species>
+      <Entry Species="Mus musculus (Mouse)">mm10 </Entry>
+      <references>
+        <ref id="mm10 ">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm10position=</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="172">
+    <species>
+      <Entry Species="Homo sapiens (Human)">N/A</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="173">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr7:27,161,538-27,168,378</Entry>
+      <references>
+        <ref id="hg19 chr7:27,161,538-27,168,378">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr7:27,161,538-27,168,378</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="174">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr20:21,092,809-21,101,559</Entry>
+      <references>
+        <ref id="hg19 chr20:21,092,809-21,101,559">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr20:21,092,809-21,101,559</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="175">
+    <species>
+      <Entry Species="Drosophila melanogaster (Fruit fly)">dm3 chrX:11,473,184-11,474,467</Entry>
+      <references>
+        <ref id="dm3 chrX:11,473,184-11,474,467">http://genome.ucsc.edu/cgi-bin/hgTracks?db=dm3&amp;position=chrX:11,473,184-11,474,467</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="176">
+    <species>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr2:71,368,695-71,375,948</Entry>
+      <references>
+        <ref id="mm9 chr2:71,368,695-71,375,948">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr2:71,368,695-71,375,948</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="177">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr11:2,661,768-2,721,228</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr7:150,391,857-150,482,452</Entry>
+      <references>
+        <ref id="mm9 chr7:150,391,857-150,482,452">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr7:150,391,857-150,482,452</ref>
+        <ref id="hg19 chr11:2,661,768-2,721,228">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr11:2,661,768-2,721,228</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="178">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr11:2,161,737-2,169,894</Entry>
+      <Entry Species="Sus scrofa (Pig)">N/A</Entry>
+      <Entry Species="Pan troglodytes (Chimpanzee)">panTro2 chr11:2,189,187-2,198,328</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr7:149,845,598-149,856,261</Entry>
+      <references>
+        <ref id="hg19 chr11:2,161,737-2,169,894">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr11:2,161,737-2,169,894</ref>
+        <ref id="panTro2 chr11:2,189,187-2,198,328">http://genome.ucsc.edu/cgi-bin/hgTracks?db=panTro2&amp;position=chr11:2,189,187-2,198,328</ref>
+        <ref id="mm9 chr7:149,845,598-149,856,261">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr7:149,845,598-149,856,261</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="179">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr8:127,207,382-127,219,268</Entry>
+      <references>
+        <ref id="hg19 chr8:127,207,382-127,219,268">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr8:127,207,382-127,219,268</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="180">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr15:25,361,692-25,367,623</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr7:66,874,528-66,934,248</Entry>
+      <references>
+        <ref id="mm9 chr7:66,874,528-66,934,248">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr7:66,874,528-66,934,248</ref>
+        <ref id="hg19 chr15:25,361,692-25,367,623">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr15:25,361,692-25,367,623</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="181">
+    <species>
+      <Entry Species="Human adenovirus">NULL</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="182">
+    <species>
+      <Entry Species="Homo sapiens (Human)">N/A</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="183">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr2:8007771-8328419</Entry>
+      <references>
+        <ref id="hg19 chr2:8007771-8328419">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19position=chr2:8007771-8328419</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="184">
+    <species>
+      <Entry Species="Mus musculus (Mouse)">mm10 chrX:103,607,537-103,623,754</Entry>
+      <references>
+        <ref id="mm10 chrX:103,607,537-103,623,754">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm10&amp;position=chrX:103,607,537-103,623,754</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="185">
+    <species>
+      <Entry Species="Dictyostelium discoideum (Slime mold)">N/A</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="186">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chrX:70766048-70766443</Entry>
+      <references>
+        <ref id="hg19 chrX:70766048-70766443">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chrX:70766048-70766443</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="187">
+    <species>
+      <Entry Species="Homo sapiens (Human)">N/A</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="188">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr3:176,359,910-176,360,742</Entry>
+      <references>
+        <ref id="hg19 chr3:176,359,910-176,360,742">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr3:176,359,910-176,360,742</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="189">
+    <species>
+      <Entry Species="Mus musculus (Mouse)">mm10 chr7:142544609-142558598</Entry>
+      <references>
+        <ref id="mm10 chr7:142544609-142558598">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm10position=chr7:142544609-142558598</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="190">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr9:129170054-129172783</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr2:33,661,336-33,669,111</Entry>
+      <references>
+        <ref id="mm9 chr2:33,661,336-33,669,111">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr2:33,661,336-33,669,111</ref>
+        <ref id="hg19 chr9:129170054-129172783">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr9:129170054-129172783</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="191">
+    <species>
+      <Entry Species="Saccharomyces cerevisiae (Baker's yeast)">N/A</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="192">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr22:31,365,634-31,375,380</Entry>
+      <Entry Species="Rattus norvegicus (Rat)">rn4 chr14:84,283,176-84,293,598</Entry>
+      <Entry Species="Canis familiaris (Dog)">canFam2 chr26:27,024,209-27,034,016</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr11:3,539,797-3,548,811</Entry>
+      <Entry Species="Bos taurus (Cattle)">bosTau4 chr17:73,314,664-73,324,437</Entry>
+      <references>
+        <ref id="canFam2 chr26:27,024,209-27,034,016">http://genome.ucsc.edu/cgi-bin/hgTracks?db=canFam2&amp;position=chr26:27,024,209-27,034,016</ref>
+        <ref id="bosTau4 chr17:73,314,664-73,324,437">http://genome.ucsc.edu/cgi-bin/hgTracks?db=bosTau4&amp;position=chr17:73,314,664-73,324,437</ref>
+        <ref id="rn4 chr14:84,283,176-84,293,598">http://genome.ucsc.edu/cgi-bin/hgTracks?db=rn4&amp;position=chr14:84,283,176-84,293,598</ref>
+        <ref id="mm9 chr11:3,539,797-3,548,811">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr11:3,539,797-3,548,811</ref>
+        <ref id="hg19 chr22:31,365,634-31,375,380">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr22:31,365,634-31,375,380</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="193">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr5:139,929,652-139,937,678</Entry>
+      <Entry Species="Rattus norvegicus (Rat)">rn4 chr18:29,306,556-29,309,970</Entry>
+      <Entry Species="Pan troglodytes (Chimpanzee)">panTro2 chr5:142,305,215-142,313,257</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr18:36,826,841-36,829,965</Entry>
+      <Entry Species="Bos taurus (Cattle)">bosTau4 chr7:51,046,147-51,052,115</Entry>
+      <references>
+        <ref id="hg19 chr5:139,929,652-139,937,678">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr5:139,929,652-139,937,678</ref>
+        <ref id="panTro2 chr5:142,305,215-142,313,257">http://genome.ucsc.edu/cgi-bin/hgTracks?db=panTro2&amp;position=chr5:142,305,215-142,313,257</ref>
+        <ref id="bosTau4 chr7:51,046,147-51,052,115">http://genome.ucsc.edu/cgi-bin/hgTracks?db=bosTau4&amp;position=chr7:51,046,147-51,052,115</ref>
+        <ref id="rn4 chr18:29,306,556-29,309,970">http://genome.ucsc.edu/cgi-bin/hgTracks?db=rn4&amp;position=chr18:29,306,556-29,309,970</ref>
+        <ref id="mm9 chr18:36,826,841-36,829,965">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr18:36,826,841-36,829,965</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="194">
+    <species>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr16:33,373,392-33,380,813</Entry>
+      <references>
+        <ref id="mm9 chr16:33,373,392-33,380,813">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr16:33,373,392-33,380,813</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="195">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr11:69,453,875-69,455,874</Entry>
+      <references>
+        <ref id="hg19 chr11:69,453,875-69,455,874">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr11:69,453,875-69,455,874</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="196">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr17:60,337,357-60,341,299</Entry>
+      <Entry Species="Pongo pygmaeus (Bornean orangutan)">N/A</Entry>
+      <Entry Species="Pan troglodytes (Chimpanzee)">N/A</Entry>
+      <Entry Species="Macaca mulatta (Rhesus macaque)">N/A</Entry>
+      <references>
+        <ref id="hg19 chr17:60,337,357-60,341,299">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr17:60,337,357-60,341,299</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="197">
+    <species>
+      <Entry Species="Drosophila melanogaster (Fruit fly)">dm3 chr2L:11,956,221-11,971,094</Entry>
+      <references>
+        <ref id="dm3 chr2L:11,956,221-11,971,094">http://genome.ucsc.edu/cgi-bin/hgTracks?db=dm3&amp;position=chr2L:11,956,221-11,971,094</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="198">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr5:149,828,969-149,829,248</Entry>
+      <references>
+        <ref id="hg19 chr5:149,828,969-149,829,248">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr5:149,828,969-149,829,248</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="199">
+    <species>
+      <Entry Species="Homo sapiens (Human)">chrM:7,587-15,888</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="200">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr3:50,137,036-50,138,421</Entry>
+      <references>
+        <ref id="hg19 chr3:50,137,036-50,138,421">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr3:50,137,036-50,138,421</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="201">
+    <species/>
+  </Results>
+  <Results id="202">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr5:37,873,425-37,875,798</Entry>
+      <references>
+        <ref id="hg19 chr5:37,873,425-37,875,798">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr5:37,873,425-37,875,798</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="203">
+    <species>
+      <Entry Species="Cricetulus longicaudatus (Chinese hamster)">N/A</Entry>
+      <Entry Species="Cricetulus griseus (Chinese hamster)">N/A</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="204">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chrX:112859587-113181506</Entry>
+      <references>
+        <ref id="hg19 chrX:112859587-113181506">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19position=chrX:112859587-113181506</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="205">
+    <species>
+      <Entry Species="Mus musculus (Mouse)">mm10 chr4:109403031-109403149</Entry>
+      <references>
+        <ref id="mm10 chr4:109403031-109403149">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm10&amp;position=chr4:109403031-109403149</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="206">
+    <species>
+      <Entry Species="Arabidopsis thaliana (Mouse-ear cress)">NULL</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="207">
+    <species>
+      <Entry Species="Schizosaccharomyces pombe (Fission yeast)">N/A</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="208">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr12:125,509,989-125,511,969</Entry>
+      <references>
+        <ref id="hg19 chr12:125,509,989-125,511,969">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr12:125,509,989-125,511,969</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="209">
+    <species>
+      <Entry Species="Mus musculus (Mouse)">mm10 chr2:105,657,862-105,661,343</Entry>
+      <references>
+        <ref id="mm10 chr2:105,657,862-105,661,343">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm10&amp;position=chr2:105,657,862-105,661,343</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="210">
+    <species>
+      <Entry Species="Homo sapiens (Human)">NULL</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="211">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr11:65,190,269-65,213,011</Entry>
+      <Entry Species="Rattus norvegicus (Rat)">rn4 chr1:208,476,553-208,479,839</Entry>
+      <Entry Species="Canis familiaris (Dog)">canFam2 chr18:54,790,920-54,794,370</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr19:5,824,710-5,845,478</Entry>
+      <Entry Species="Bos taurus (Cattle)">bosTau4 chr29:45,474,755-45,478,113</Entry>
+      <references>
+        <ref id="mm9 chr19:5,824,710-5,845,478">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr19:5,824,710-5,845,478</ref>
+        <ref id="hg19 chr11:65,190,269-65,213,011">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr11:65,190,269-65,213,011</ref>
+        <ref id="rn4 chr1:208,476,553-208,479,839">http://genome.ucsc.edu/cgi-bin/hgTracks?db=rn4&amp;position=chr1:208,476,553-208,479,839</ref>
+        <ref id="bosTau4 chr29:45,474,755-45,478,113">http://genome.ucsc.edu/cgi-bin/hgTracks?db=bosTau4&amp;position=chr29:45,474,755-45,478,113</ref>
+        <ref id="canFam2 chr18:54,790,920-54,794,370">http://genome.ucsc.edu/cgi-bin/hgTracks?db=canFam2&amp;position=chr18:54,790,920-54,794,370</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="212">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr17:74,553,860-74,561,430</Entry>
+      <references>
+        <ref id="hg19 chr17:74,553,860-74,561,430">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr17:74,553,860-74,561,430</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="213">
+    <species>
+      <Entry Species="Homo sapiens (Human)">-</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="214">
+    <species>
+      <Entry Species="Saccharomyces cerevisiae (Baker's yeast)">N/A</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="215">
+    <species>
+      <Entry Species="Saccharomyces cerevisiae (Baker's yeast)">N/A</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="216">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr9:2,207,775-2,298,675</Entry>
+      <Entry Species="Mus musculus (Mouse)">NULL</Entry>
+      <references>
+        <ref id="hg19 chr9:2,207,775-2,298,675">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr9:2,207,775-2,298,675</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="217">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr6:136,265,389-136,282,959</Entry>
+      <references>
+        <ref id="hg19 chr6:136,265,389-136,282,959">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr6:136,265,389-136,282,959</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="218">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr3:8613468-8615561</Entry>
+      <references>
+        <ref id="hg19 chr3:8613468-8615561">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr3:8613468-8615561</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="219">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chrX:73,012,040-73,049,066</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm9 chrX:100,626,856-100,680,296</Entry>
+      <references>
+        <ref id="mm9 chrX:100,626,856-100,680,296">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chrX:100,626,856-100,680,296</ref>
+        <ref id="hg19 chrX:73,012,040-73,049,066">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chrX:73,012,040-73,049,066</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="220">
+    <species>
+      <Entry Species="Mus musculus (Mouse)">mm10 chr18:72,164,057-72,165,898</Entry>
+      <references>
+        <ref id="mm10 chr18:72,164,057-72,165,898">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm10&amp;position=chr18:72,164,057-72,165,898</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="221">
+    <species>
+      <Entry Species="Apis mellifera (Honeybee)">apiMel2 Group5:12,900,340-12,908,017</Entry>
+      <references>
+        <ref id="apiMel2 Group5:12,900,340-12,908,017">http://genome.ucsc.edu/cgi-bin/hgTracks?db=apiMel2&amp;position=Group5:12,900,340-12,908,017</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="222">
+    <species>
+      <Entry Species="Human herpesvirus">NULL</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="223">
+    <species>
+      <Entry Species="Mus musculus (Mouse)">mm10 chr2:96525106-96528233</Entry>
+      <references>
+        <ref id="mm10 chr2:96525106-96528233">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm10&amp;position=chr2:96525106-96528233</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="224">
+    <species>
+      <Entry Species="Schizosaccharomyces pombe (Fission yeast)">N/A</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="225">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr2:11534107-11543203</Entry>
+      <references>
+        <ref id="hg19 chr2:11534107-11543203">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr2:11534107-11543203</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="226">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr5:180,256,966-180,258,624</Entry>
+      <references>
+        <ref id="hg19 chr5:180,256,966-180,258,624">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr5:180,256,966-180,258,624</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="227">
+    <species>
+      <Entry Species="Homo sapiens (Human)">N/A</Entry>
+      <Entry Species="Mus musculus (Mouse)">N/A</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="228">
+    <species>
+      <Entry Species="Rattus norvegicus (Rat)">N/A</Entry>
+      <Entry Species="Microcricetus aureus (Syrian golden hamster)">N/A</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr7:100,808,784-100,808,949</Entry>
+      <Entry Species="Cavia porcellus (Guinea pig)">N/A</Entry>
+      <references>
+        <ref id="mm9 chr7:100,808,784-100,808,949">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr7:100,808,784-100,808,949</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="229">
+    <species>
+      <Entry Species="Arabidopsis thaliana (Mouse-ear cress)">N/A</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="230">
+    <species>
+      <Entry Species="Gallus Gallus (Chicken)">N/A</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="231">
+    <species>
+      <Entry Species="Saccharomyces cerevisiae (Baker's yeast)">N/A</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="232">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg18 chr20 38066346 38082186</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="233">
+    <species>
+      <Entry Species="Saccharomyces cerevisiae (Baker's yeast)">N/A</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="234">
+    <species>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr6:93576998-93598520</Entry>
+      <references>
+        <ref id="mm9 chr6:93576998-93598520">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr6:93576998-93598520</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="235">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr16:54,918,863-54,929,189</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm10 chr8:92,326,031-92,356,120</Entry>
+      <references>
+        <ref id="hg19 chr16:54,918,863-54,929,189">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr16:54,918,863-54,929,189</ref>
+        <ref id="mm10 chr8:92,326,031-92,356,120">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm10&amp;position=chr8:92,326,031-92,356,120</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="236">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr7:116,594,673-116,608,628</Entry>
+      <references>
+        <ref id="hg19 chr7:116,594,673-116,608,628">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr7:116,594,673-116,608,628</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="237">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr8:16449964-130761667</Entry>
+      <references>
+        <ref id="hg19 chr8:16449964-130761667">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr8:16449964-130761667</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="238">
+    <species>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr13:98,252,910-98,259,655</Entry>
+      <references>
+        <ref id="mm9 chr13:98,252,910-98,259,655">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr13:98,252,910-98,259,655</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="239">
+    <species>
+      <Entry Species="Arabidopsis thaliana (Mouse-ear cress)">N/A</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="240">
+    <species>
+      <Entry Species="Saccharomyces cerevisiae (Baker's yeast)">sacCer3 chrXIII:169,853-171,445</Entry>
+      <references>
+        <ref id="sacCer3 chrXIII:169,853-171,445">http://genome.ucsc.edu/cgi-bin/hgTracks?db=sacCer3&amp;position=chrXIII:169,853-171,445</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="241">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr1:168,903,905-169,087,005</Entry>
+      <references>
+        <ref id="hg19 chr1:168,903,905-169,087,005">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr1:168,903,905-169,087,005</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="242">
+    <species>
+      <Entry Species="Saccharomyces cerevisiae (Baker's yeast)">N/A</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="243">
+    <species>
+      <Entry Species="Mus musculus (Mouse)">mm10 chr14:46,570,213-46,575,847</Entry>
+      <references>
+        <ref id="mm10 chr14:46,570,213-46,575,847">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm10&amp;position=chr14:46,570,213-46,575,847</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="244">
+    <species>
+      <Entry Species="Homo sapiens (Human)">NULL</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr1:20,659,963-20,673,039</Entry>
+      <references>
+        <ref id="mm9 chr1:20,659,963-20,673,039">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr1:20,659,963-20,673,039</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="245">
+    <species>
+      <Entry Species="Mus musculus (Mouse)">chr4:88555804-88587945 </Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="246">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr1:202,780,081-202,781,284</Entry>
+      <references>
+        <ref id="hg19 chr1:202,780,081-202,781,284">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr1:202,780,081-202,781,284</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="247">
+    <species>
+      <Entry Species="Homo sapiens (Human)">NULL</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="248">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr13:70,681,345-70,713,885</Entry>
+      <Entry Species="Mus musculus (Mouse)">NULL</Entry>
+      <references>
+        <ref id="hg19 chr13:70,681,345-70,713,885">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr13:70,681,345-70,713,885</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="249">
+    <species>
+      <Entry Species="Mus musculus (Mouse)">NULL</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="250">
+    <species>
+      <Entry Species="Mus musculus (Mouse)">chr7:53,626,773-53,627,862</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="251">
+    <species>
+      <Entry Species="Mus musculus (Mouse)">mm10 chr1:62,514,061-62,514,145</Entry>
+      <references>
+        <ref id="mm10 chr1:62,514,061-62,514,145">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm10&amp;position=chr1:62,514,061-62,514,145</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="252">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr2:16060521-16076139</Entry>
+      <references>
+        <ref id="hg19 chr2:16060521-16076139">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr2:16060521-16076139</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="253">
+    <species>
+      <Entry Species="Rattus norvegicus (Rat)">rn4 chr6:134,198,113-134,328,710</Entry>
+      <references>
+        <ref id="rn4 chr6:134,198,113-134,328,710">http://genome.ucsc.edu/cgi-bin/hgTracks?db=rn4&amp;position=chr6:134,198,113-134,328,710</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="254">
+    <species>
+      <Entry Species="Mus musculus (Mouse)">chr16:4,320,356-4,320,680</Entry>
+      <references>
+        <ref id="chr16:4,320,356-4,320,680">https://genome.ucsc.edu/cgi-bin/hgTracks?db=mm10&amp;position=chr16%3A4320356-4320680</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="255">
+    <species>
+      <Entry Species="Mus musculus (Mouse)">mm10 chr11:102,375,549-102,377,020</Entry>
+      <references>
+        <ref id="mm10 chr11:102,375,549-102,377,020">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm10&amp;position=chr11:102,375,549-102,377,020</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="256">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr1:150488233-150490508</Entry>
+      <references>
+        <ref id="hg19 chr1:150488233-150490508">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr1:150488233-150490508</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="257">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr5:87,688,109-87,732,764</Entry>
+      <Entry Species="Monodelphis domestica (Short tailed grey opossum)">monDom5 chr3:216,016,514-216,082,114</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr13:84,164,908-84,204,377</Entry>
+      <Entry Species="Xenopus tropicalis (Western clawed frog)">xenTro2 scaffold_76:2,445,974-2,477,062</Entry>
+      <references>
+        <ref id="mm9 chr13:84,164,908-84,204,377">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr13:84,164,908-84,204,377</ref>
+        <ref id="hg19 chr5:87,688,109-87,732,764">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr5:87,688,109-87,732,764</ref>
+        <ref id="xenTro2 scaffold_76:2,445,974-2,477,062">http://genome.ucsc.edu/cgi-bin/hgTracks?db=xenTro2&amp;position=scaffold_76:2,445,974-2,477,062</ref>
+        <ref id="monDom5 chr3:216,016,514-216,082,114">http://genome.ucsc.edu/cgi-bin/hgTracks?db=monDom5&amp;position=chr3:216,016,514-216,082,114</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="258">
+    <species>
+      <Entry Species="Mus musculus (Mouse)">N/A</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="259">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr15:41,576,202-41,598,732</Entry>
+      <Entry Species="Danio rerio (Zebrafish)">danRer7 chr13:33,484,735-33,491,213</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr2:119,420,031-119,433,358</Entry>
+      <references>
+        <ref id="danRer7 chr13:33,484,735-33,491,213">http://genome.ucsc.edu/cgi-bin/hgTracks?db=danRer7&amp;position=chr13:33,484,735-33,491,213</ref>
+        <ref id="mm9 chr2:119,420,031-119,433,358">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr2:119,420,031-119,433,358</ref>
+        <ref id="hg19 chr15:41,576,202-41,598,732">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr15:41,576,202-41,598,732</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="260">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr12:68,383,225-68,415,107</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr10:117,939,091-117,993,581</Entry>
+      <references>
+        <ref id="hg19 chr12:68,383,225-68,415,107">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr12:68,383,225-68,415,107</ref>
+        <ref id="mm9 chr10:117,939,091-117,993,581">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr10:117,939,091-117,993,581</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="261">
+    <species>
+      <Entry Species="Homo sapiens (Human)">chr5:148,786,442-148,808,241</Entry>
+      <Entry Species="Mus musculus (Mouse)">chr18:61,650,974-61,665,537</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="262">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr19:5558167-5567994</Entry>
+      <references>
+        <ref id="hg19 chr19:5558167-5567994">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19position=chr19:5558167-5567994</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="263">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr1:47,562,325-47,644,943</Entry>
+      <references>
+        <ref id="hg19 chr1:47,562,325-47,644,943">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr1:47,562,325-47,644,943</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="264">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr1:12,567,328-12,567,699</Entry>
+      <references>
+        <ref id="hg19 chr1:12,567,328-12,567,699">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr1:12,567,328-12,567,699</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="265">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr19:48,437,438-48,437,559</Entry>
+      <references>
+        <ref id="hg19 chr19:48,437,438-48,437,559">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr19:48,437,438-48,437,559</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="266">
+    <species>
+      <Entry Species="Homo sapiens (Human)">chr15:73,566,938-73,569,543</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="267">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr4:41249300-1288291</Entry>
+      <references>
+        <ref id="hg19 chr4:41249300-1288291">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19position=chr4:41249300-1288291</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="268">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr2:193,614,571-193,641,625</Entry>
+      <references>
+        <ref id="hg19 chr2:193,614,571-193,641,625">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr2:193,614,571-193,641,625</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="269">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr7:61,090,646-61,090,816</Entry>
+      <references>
+        <ref id="hg19 chr7:61,090,646-61,090,816">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr7:61,090,646-61,090,816</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="270">
+    <species/>
+  </Results>
+  <Results id="271">
+    <species>
+      <Entry Species="Xenopus laevis (African clawed frog)">N/A</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="272">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr6:36,641,398-36,642,903</Entry>
+      <references>
+        <ref id="hg19 chr6:36,641,398-36,642,903">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr6:36,641,398-36,642,903</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="273">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr15:73566938-73569543</Entry>
+      <references>
+        <ref id="hg19 chr15:73566938-73569543">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19position=chr15:73566938-73569543</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="274">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr5:35914175-35915460</Entry>
+      <references>
+        <ref id="hg19 chr5:35914175-35915460">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr5:35914175-35915460</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="275">
+    <species>
+      <Entry Species="Homo sapiens (Human)">N/A</Entry>
+      <Entry Species="Mus musculus (Mouse)">N/A</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="276">
+    <species>
+      <Entry Species="Homo sapiens (Human)">chr4:129689383-129691103</Entry>
+      <Entry Species="Mus musculus (Mouse)">chr3:41,500,931-41,528,474</Entry>
+      <references>
+        <ref id="chr4:129689383-129691103">https://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr4%3A129689383-129691103</ref>
+        <ref id="chr3:41,500,931-41,528,474">https://genome.ucsc.edu/cgi-bin/hgTracks?db=mm10&amp;position=chr12%3A56694976-56714605</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="277">
+    <species>
+      <Entry Species="Gallus Gallus (Chicken)">N/A</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="278">
+    <species>
+      <Entry Species="Oryza sativa (Rice)">N/A</Entry>
+      <Entry Species="Brassica rapa (Turnip)">N/A</Entry>
+      <Entry Species="Medicago truncatula (Barrel Clover)">N/A</Entry>
+      <Entry Species="Populus tremula (European aspen)">N/A</Entry>
+      <Entry Species="Medicago sativa (Alfalfa)">N/A</Entry>
+      <Entry Species="Glycine max (Soybean)">N/A</Entry>
+      <Entry Species="Vitis vinifera (Grape)">N/A</Entry>
+      <Entry Species="Lycopersicon esculentum (Tomato)">N/A</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="279">
+    <species>
+      <Entry Species="Apis mellifera (Honeybee)">apiMel2 Group1:13,193,409-13,210,806</Entry>
+      <references>
+        <ref id="apiMel2 Group1:13,193,409-13,210,806">http://genome.ucsc.edu/cgi-bin/hgTracks?db=apiMel2&amp;position=Group1:13,193,409-13,210,806</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="280">
+    <species>
+      <Entry Species="Dictyostelium discoideum (Slime mold)">N/A</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="281">
+    <species>
+      <Entry Species="Rattus norvegicus (Rat)">rn4 chr9:72,706,829-72,723,152</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr1:73,437,959-73,454,143</Entry>
+      <references>
+        <ref id="rn4 chr9:72,706,829-72,723,152">http://genome.ucsc.edu/cgi-bin/hgTracks?db=rn4&amp;position=chr9:72,706,829-72,723,152</ref>
+        <ref id="mm9 chr1:73,437,959-73,454,143">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr1:73,437,959-73,454,143</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="282">
+    <species>
+      <Entry Species="Mus musculus (Mouse)">N/A</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="283">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr7:148684681-148686504</Entry>
+      <references>
+        <ref id="hg19 chr7:148684681-148686504">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr7:148684681-148686504</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="284">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr20:48657244-48658166</Entry>
+      <references>
+        <ref id="hg19 chr20:48657244-48658166">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr20:48657244-48658166</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="285">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr18:54,721,802-54,739,350</Entry>
+      <references>
+        <ref id="hg19 chr18:54,721,802-54,739,350">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr18:54,721,802-54,739,350</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="286">
+    <species>
+      <Entry Species="Homo sapiens (Human)">N/A</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr17:29,194,419-29,215,906</Entry>
+      <references>
+        <ref id="mm9 chr17:29,194,419-29,215,906">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr17:29,194,419-29,215,906</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="287">
+    <species>
+      <Entry Species="Mus musculus (Mouse)">N/A</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="288">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr10:119,243,805-119,304,579</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr19:59,499,594-59,533,125</Entry>
+      <references>
+        <ref id="mm9 chr19:59,499,594-59,533,125">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr19:59,499,594-59,533,125</ref>
+        <ref id="hg19 chr10:119,243,805-119,304,579">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr10:119,243,805-119,304,579</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="289">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chrX:110,367,493-110,372,431</Entry>
+      <references>
+        <ref id="hg19 chrX:110,367,493-110,372,431">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chrX:110,367,493-110,372,431</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="290">
+    <species>
+      <Entry Species="Mus musculus (Mouse)">chr6:83703518-83703983</Entry>
+      <Entry Species="Homo sapiens (Human)">chr2:71127285-71127481</Entry>
+      <references>
+        <ref id="chr2:71127285-71127481">https://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;?position=chr2:71127285-71127481</ref>
+        <ref id="chr6:83703518-83703983">https://genome.ucsc.edu/cgi-bin/hgTracks?db=mm10&amp;?position=chr6:83703518-83703983</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="291">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr14:19,858,667-19,941,024</Entry>
+      <references>
+        <ref id="hg19 chr14:19,858,667-19,941,024">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr14:19,858,667-19,941,024</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="292">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr4:190,064,502-190,067,864</Entry>
+      <references>
+        <ref id="hg19 chr4:190,064,502-190,067,864">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr4:190,064,502-190,067,864</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="293">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr22:27,042,392-27,072,440</Entry>
+      <Entry Species="Gallus Gallus (Chicken)">galGal3 chr15:7,407,646-7,412,003</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr5:112,642,248-112,657,968</Entry>
+      <Entry Species="Xenopus tropicalis (Western clawed frog)">N/A</Entry>
+      <references>
+        <ref id="galGal3 chr15:7,407,646-7,412,003">http://genome.ucsc.edu/cgi-bin/hgTracks?db=galGal3&amp;position=chr15:7,407,646-7,412,003</ref>
+        <ref id="hg19 chr22:27,042,392-27,072,440">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr22:27,042,392-27,072,440</ref>
+        <ref id="mm9 chr5:112,642,248-112,657,968">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr5:112,642,248-112,657,968</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="294">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr3:116,428,625-116,442,428</Entry>
+      <references>
+        <ref id="hg19 chr3:116,428,625-116,442,428">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr3:116,428,625-116,442,428</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="295">
+    <species>
+      <Entry Species="Phytophthora infestans (Potato late blight fungus)">NULL</Entry>
+      <references/>
+    </species>
+  </Results>
+  <Results id="296">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr17:58,160,971-58,165,688</Entry>
+      <references>
+        <ref id="hg19 chr17:58,160,971-58,165,688">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr17:58,160,971-58,165,688</ref>
+      </references>
+    </species>
+  </Results>
+  <Results id="297">
+    <species>
+      <Entry Species="Homo sapiens (Human)">hg19 chr2:45,147,332-45,166,338</Entry>
+      <Entry Species="Mus musculus (Mouse)">mm9 chr17:86,006,698-86,018,751</Entry>
+      <references>
+        <ref id="hg19 chr2:45,147,332-45,166,338">http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=chr2:45,147,332-45,166,338</ref>
+        <ref id="mm9 chr17:86,006,698-86,018,751">http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&amp;position=chr17:86,006,698-86,018,751</ref>
+      </references>
+    </species>
+  </Results>
+</Search_Results>

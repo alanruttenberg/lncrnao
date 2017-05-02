@@ -1,0 +1,2089 @@
+<?xml version="1.0" ?>
+<Search_Results>
+  <Results id="0">
+    <nomenclature>
+      <Name>Maternal somatic nucleus RNAs</Name>
+      <Alias>Paramecium tetraurelia maternal macronucleus noncoding RNAs</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="1">
+    <nomenclature>
+      <Name>TUSC7</Name>
+      <Alias>LINC00902, LSAMP-AS1, LSAMP-AS3, NCRNA00295, LOC285194, ENSG00000243197</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="2">
+    <nomenclature>
+      <Name>G22</Name>
+      <Alias>None known</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="3">
+    <nomenclature>
+      <Name>SncmtRNA</Name>
+      <Alias>Sense mitochondrial noncoding RNA</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="4">
+    <nomenclature>
+      <Name>Rmst</Name>
+      <Alias>Dmt2 (Dorso-medial telencephalon gene 2), ENSG00000255794</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="5">
+    <nomenclature>
+      <Name>DLG2AS</Name>
+      <Alias>PSZA11q14, SZ-1, ENSG00000274006</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="6">
+    <nomenclature>
+      <Name>LINC00951</Name>
+      <Alias>long intergenic non-protein coding RNA 951, lincRNA-uc003opf.1, FLJ41649, ENSG00000204092</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="7">
+    <nomenclature>
+      <Name>mascRNA</Name>
+      <Alias>Malat1</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="8">
+    <nomenclature>
+      <Name>RNCR3</Name>
+      <Alias>A930011O12Rik, LOC157627, ENSG00000253230, LINC00599</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="9">
+    <nomenclature>
+      <Name>Fendrr</Name>
+      <Alias>ENSMUSG0000009733;FENDRR;FOXF1-AS1; lincFOXF1; TCONS_00024240; linc-Foxf1a; 1110050K14Rik</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="10">
+    <nomenclature>
+      <Name>EGO</Name>
+      <Alias>EGOT, ENSG00000235947</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="11">
+    <nomenclature>
+      <Name>lncHELLP</Name>
+      <Alias>lncHELLP; LINC-HELLP;HELLPAR</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="12">
+    <nomenclature>
+      <Name>CCAT2</Name>
+      <Alias>NCCP1, LINC00873</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="13">
+    <nomenclature>
+      <Name>BORG</Name>
+      <Alias>AB010885</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="14">
+    <nomenclature>
+      <Name>LXRBSV</Name>
+      <Alias>None known</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="15">
+    <nomenclature>
+      <Name>PTENP1</Name>
+      <Alias>PTENpg1, PTEN2, ENSG00000237984</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="16">
+    <nomenclature>
+      <Name>PCAT-1</Name>
+      <Alias>PCA1, ENSG00000253438</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="17">
+    <nomenclature>
+      <Name>ERIC</Name>
+      <Alias>AW451459, BX099671</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="18">
+    <nomenclature>
+      <Name>Rian</Name>
+      <Alias>Irm, MEG8 and Bsr, linc1458, ENSG00000258399</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="19">
+    <nomenclature>
+      <Name>Pint</Name>
+      <Alias>Lincpint,p53 induced noncoding transcript</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="20">
+    <nomenclature>
+      <Name>LUCAT1</Name>
+      <Alias>SCAL1, ENSG00000248323</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="21">
+    <nomenclature>
+      <Name>SAL-RNA1</Name>
+      <Alias>Senescence associated lncRNA 1;XLOC_023166</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="22">
+    <nomenclature>
+      <Name>PHO84 antisense</Name>
+      <Alias>None known</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="23">
+    <nomenclature>
+      <Name>RAB4B-EGLN2</Name>
+      <Alias>RERT-lncRNA, ENSG00000171570</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="24">
+    <nomenclature>
+      <Name>RTL</Name>
+      <Alias>TY1 CUT</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="25">
+    <nomenclature>
+      <Name>Yam-1</Name>
+      <Alias>ENSMUSG00000098178; Yam1; YY1-associated myogenesis RNA 1</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="26">
+    <nomenclature>
+      <Name>SAF</Name>
+      <Alias>FAS-AS (FAS antisense RNA), ENSG00000026103</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="27">
+    <nomenclature>
+      <Name>tie-1as</Name>
+      <Alias>None known</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="28">
+    <nomenclature>
+      <Name>Braveheart</Name>
+      <Alias>ENSMUSG00000098098</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="29">
+    <nomenclature>
+      <Name>RepA transcript</Name>
+      <Alias>None known</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="30">
+    <nomenclature>
+      <Name>BANCR</Name>
+      <Alias>BRAF-activated non-protein coding RNA, LINC00586</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="31">
+    <nomenclature>
+      <Name>linc1547</Name>
+      <Alias>Gm15055, linc-Evx1, </Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="32">
+    <nomenclature>
+      <Name>Msx1as</Name>
+      <Alias>None known</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="33">
+    <nomenclature>
+      <Name>DLEU2</Name>
+      <Alias>ENSG00000231607;1B4; DLB2; LEU2; BCMSUN; RFP2OS; MIR15AHG; TRIM13OS; LINC00022; NCRNA00022</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="34">
+    <nomenclature>
+      <Name>DLEU1</Name>
+      <Alias>ENSG00000176124;BCMS; DLB1; LEU1; LEU2; XTP6; BCMS1; DLEU2; LINC00021; NCRNA00021</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="35">
+    <nomenclature>
+      <Name>LSINCT5</Name>
+      <Alias>GU228577</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="36">
+    <nomenclature>
+      <Name>Sry circRNA</Name>
+      <Alias/>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="37">
+    <nomenclature>
+      <Name>Maternal RNA templates</Name>
+      <Alias>Oxytricha trifallax genome unscrambling guide RNAs</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="38">
+    <nomenclature>
+      <Name>lncRNA-CIR</Name>
+      <Alias>ENSG00000220548, VIM2P, long non-coding RNA, cartilage injury-related, RP11-162L10.1, VIM2,</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="39">
+    <nomenclature>
+      <Name>Xist</Name>
+      <Alias>ENSG00000229807</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="40">
+    <nomenclature>
+      <Name>PGSF1</Name>
+      <Alias>ENSG00000176840;MIR7-3HG;Huh7; PGSF1; C19orf30; LINC00306; NCRNA00306,uc002mbe.2</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="41">
+    <nomenclature>
+      <Name>Sox2ot</Name>
+      <Alias>SOX2OT, Sox2dot, ENSG00000242808</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="42">
+    <nomenclature>
+      <Name>npc48</Name>
+      <Alias>npcRNA 48</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="43">
+    <nomenclature>
+      <Name>linc1257</Name>
+      <Alias>Linc-Myo1g, Ak160548</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="44">
+    <nomenclature>
+      <Name>PTENP1 asRNAs</Name>
+      <Alias>PTENP1 asRNA alpha, PTENP1 asRNA beta, PTENP1 asRNA unspliced, PTENpg1 asRNAs</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="45">
+    <nomenclature>
+      <Name>HOTAIR</Name>
+      <Alias>Gm16258, Hox antisense intergenic RNA, ENSG00000228630</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="46">
+    <nomenclature>
+      <Name>lncRNA-BGL3</Name>
+      <Alias>BGLT3,CTD-2643I7.1, ENSG00000260629</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="47">
+    <nomenclature>
+      <Name>sfRNA</Name>
+      <Alias>Flavivirus 3' structured RNA</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="48">
+    <nomenclature>
+      <Name>megamind</Name>
+      <Alias>Zebrafish: linc-birc6, linc-hhipl1, Human: BX093813, LOC100507043, Mouse: 2810011L19Rik, ENSG00000250366</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="49">
+    <nomenclature>
+      <Name>Air</Name>
+      <Alias>Airn, IGF2RAS, ENSG00000268257</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="50">
+    <nomenclature>
+      <Name>UM9-5</Name>
+      <Alias>NCRNA00099, KCNIP4-IT1</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="51">
+    <nomenclature>
+      <Name>CAR Intergenic 10</Name>
+      <Alias>Intergenic10, CR611911, AK055628</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="52">
+    <nomenclature>
+      <Name>BACE1AS</Name>
+      <Alias>NCRNA00177, BACE1-AS; FJ573250</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="53">
+    <nomenclature>
+      <Name>MEG3</Name>
+      <Alias>Gtl2, ENSG00000214548</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="54">
+    <nomenclature>
+      <Name>Tip1</Name>
+      <Alias>Transcribed intergenic polycomb 1</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="55">
+    <nomenclature>
+      <Name>Tip3</Name>
+      <Alias>Transcribed intergenic polycomb 3, AK050890, ENSMUSG00000092589</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="56">
+    <nomenclature>
+      <Name>Mistral</Name>
+      <Alias>Mira</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="57">
+    <nomenclature>
+      <Name>Otx2os1</Name>
+      <Alias>OTX2-AS1, ENSG00000248550</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="58">
+    <nomenclature>
+      <Name>MEG9</Name>
+      <Alias>Mirg, ENSG00000223403</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="59">
+    <nomenclature>
+      <Name>LINC00538</Name>
+      <Alias>long intergenic non-protein coding RNA 538, PROX1UT, Yiya, ENSG00000230461</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="60">
+    <nomenclature>
+      <Name>BC200</Name>
+      <Alias>BCYRN1, brain cytoplasmic RNA 1</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="61">
+    <nomenclature>
+      <Name>Zfhx2as</Name>
+      <Alias>ENSG00000157306</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="62">
+    <nomenclature>
+      <Name>rncs-1</Name>
+      <Alias>None known</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="63">
+    <nomenclature>
+      <Name>PCNA-AS1</Name>
+      <Alias/>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="64">
+    <nomenclature>
+      <Name>Nkx2.2AS</Name>
+      <Alias>None known</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="65">
+    <nomenclature>
+      <Name>UCA1</Name>
+      <Alias>UCA1a, CUDR, UCAT1, LINC00178, NCRNA00178, GCAP2, GUCA1B, GUCA2, RP48, ENSG00000214049</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="66">
+    <nomenclature>
+      <Name>lincRNA-Cox2</Name>
+      <Alias>AK144630</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="67">
+    <nomenclature>
+      <Name>IFNG-AS1</Name>
+      <Alias>Tmevpg1, GS1-410F4.2, ENSG00000255733</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="68">
+    <nomenclature>
+      <Name>SNHG5</Name>
+      <Alias>U50HG, ENSG00000203875</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="69">
+    <nomenclature>
+      <Name>Jpx</Name>
+      <Alias>Enox, NCRNA00183, ENSG00000225470</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="70">
+    <nomenclature>
+      <Name>SNHG6</Name>
+      <Alias>U87HG, ENSG00000245910</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="71">
+    <nomenclature>
+      <Name>SNHG1</Name>
+      <Alias>UHG, ENSG00000255717</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="72">
+    <nomenclature>
+      <Name>SChLAP1</Name>
+      <Alias>LINC00913, PCAT11:SWI/SNF complex antagonist associated with prostate cancer 1 (non-protein coding)</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="73">
+    <nomenclature>
+      <Name>SNHG3</Name>
+      <Alias>U17HG, linc1343, ENSG00000242125</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="74">
+    <nomenclature>
+      <Name>21A</Name>
+      <Alias>ncRNA 21A</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="75">
+    <nomenclature>
+      <Name>Frigidair</Name>
+      <Alias>None known</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="76">
+    <nomenclature>
+      <Name>Beta 2.7 RNA</Name>
+      <Alias>Beta2.7, TRL4 DE RNA, lncRNA2.7</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="77">
+    <nomenclature>
+      <Name>dUHGs</Name>
+      <Alias>dUHG1, dUHG2, dUHG3, dUHG4, dUHG5, dUHG7, dUHG8</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="78">
+    <nomenclature>
+      <Name>Adapt33</Name>
+      <Alias>5430416N02Rik (probable mouse homologue), linc1354</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="79">
+    <nomenclature>
+      <Name>Y RNAs</Name>
+      <Alias>YRNA, RNY RNAs, hY RNA (human), ENSG00000201098</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="80">
+    <nomenclature>
+      <Name>TPO1axut</Name>
+      <Alias>TPO1 antisense Xrn1-sensitive unstable transcript </Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="81">
+    <nomenclature>
+      <Name>AFAP1AS</Name>
+      <Alias>ENSG00000272620; AFAP1-AS</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="82">
+    <nomenclature>
+      <Name>HOXA6as</Name>
+      <Alias>HIT16800</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="83">
+    <nomenclature>
+      <Name>GACAT1</Name>
+      <Alias>ENST00000419650; AC096655.1-002, LINC00876; gastric cancer associated transcript 1</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="84">
+    <nomenclature>
+      <Name>HULC</Name>
+      <Alias>ENSG00000251164</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="85">
+    <nomenclature>
+      <Name>linc1242</Name>
+      <Alias>linc-Enah</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="86">
+    <nomenclature>
+      <Name>CDR1 AS</Name>
+      <Alias>CDR1 NAT, ciRS-7, </Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="87">
+    <nomenclature>
+      <Name>NDM29</Name>
+      <Alias>29A</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="88">
+    <nomenclature>
+      <Name>hsr omega transcripts</Name>
+      <Alias>hsr(omega) RNA, omega1-3 RNAs</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="89">
+    <nomenclature>
+      <Name>Dio3os</Name>
+      <Alias>Dio3as, ENSG00000258498</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="90">
+    <nomenclature>
+      <Name>AK081227</Name>
+      <Alias>None Known</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="91">
+    <nomenclature>
+      <Name>Beta-globin transcripts</Name>
+      <Alias>None known</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="92">
+    <nomenclature>
+      <Name>ADAMTS9-AS2</Name>
+      <Alias>ENSG00000241684</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="93">
+    <nomenclature>
+      <Name>TERRA</Name>
+      <Alias>TelRNAs</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="94">
+    <nomenclature>
+      <Name>TSX</Name>
+      <Alias>Testes-specific X-linked, AV207184</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="95">
+    <nomenclature>
+      <Name>TUC338</Name>
+      <Alias>None</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="96">
+    <nomenclature>
+      <Name>Malat1</Name>
+      <Alias>Neat2, ENSG00000251562</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="97">
+    <nomenclature>
+      <Name>HOTAIRM1</Name>
+      <Alias>HIT06113, HIT92376, linc1548, ENSG00000233429</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="98">
+    <nomenclature>
+      <Name>DHFR upstream transcripts</Name>
+      <Alias>DHFR minor transcript 5'-UTR, ENSG00000228716</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="99">
+    <nomenclature>
+      <Name>Zfas1</Name>
+      <Alias>Znfx1 antisense, 1500012F01Rik, NCRNA00275, ENSG00000177410</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="100">
+    <nomenclature>
+      <Name>PRINS</Name>
+      <Alias>ENSG00000238115</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="101">
+    <nomenclature>
+      <Name>URHC</Name>
+      <Alias>up-regulated in hepatocellular carcinoma, lncRNA-URHC, ENSG00000091436</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="102">
+    <nomenclature>
+      <Name>Llme23</Name>
+      <Alias>ENSG00000116560;PSF; POMP100; PPP1R140;SFPQ splicing factor</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="103">
+    <nomenclature>
+      <Name>Kcna2-AS</Name>
+      <Alias>Kcna2 antisense RNA</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="104">
+    <nomenclature>
+      <Name>lincRNA-LALR1</Name>
+      <Alias/>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="105">
+    <nomenclature>
+      <Name>lncRNA-aGT</Name>
+      <Alias>a-globin transcript long non-coding RNA</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="106">
+    <nomenclature>
+      <Name>SNHG4</Name>
+      <Alias>U19H, ENSG00000200959</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="107">
+    <nomenclature>
+      <Name>DHRS4-AS1</Name>
+      <Alias>PRO1488, AS1DHRS4, C14orf167, ENSG00000215256</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="108">
+    <nomenclature>
+      <Name>HAR1B</Name>
+      <Alias>HAR1R, ENSG00000231133</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="109">
+    <nomenclature>
+      <Name>HAR1A</Name>
+      <Alias>HAR1F, ENSG00000238820</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="110">
+    <nomenclature>
+      <Name>Zeb2NAT</Name>
+      <Alias>ZEB2AS, ENSG00000238057</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="111">
+    <nomenclature>
+      <Name>SPRY4-IT1</Name>
+      <Alias>AK024556, ENSG00000274721</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="112">
+    <nomenclature>
+      <Name>DISC2</Name>
+      <Alias>DISC1os, NCRNA00015,, ENSG00000162946</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="113">
+    <nomenclature>
+      <Name>GATA3-AS1</Name>
+      <Alias>ENSG00000197308</Alias>
+      <Biotype>antisense</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="114">
+    <nomenclature>
+      <Name>Lnc-SCA7</Name>
+      <Alias>ATXN7L3B</Alias>
+      <Biotype>processed_pseudogene and lincRNA</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="115">
+    <nomenclature>
+      <Name>PRNCR1</Name>
+      <Alias>ENSG00000224722, NR_109833,PCAT8</Alias>
+      <Biotype>lncRNA</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="116">
+    <nomenclature>
+      <Name>ncNRFR</Name>
+      <Alias>non-coding Nras functional RNA</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="117">
+    <nomenclature>
+      <Name>BLACAT1</Name>
+      <Alias>linc-UBC1, LINC00912</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="118">
+    <nomenclature>
+      <Name>KUCG1</Name>
+      <Alias>LINC00850</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="119">
+    <nomenclature>
+      <Name>PTCSC3</Name>
+      <Alias>papillary thyroid carcinoma susceptibility candidate 3, ENSG00000259104</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="120">
+    <nomenclature>
+      <Name>frq antisense RNAs</Name>
+      <Alias>None known</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="121">
+    <nomenclature>
+      <Name>ncR-uPAR</Name>
+      <Alias>NCRUPAR, ENSG00000225407</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="122">
+    <nomenclature>
+      <Name>H19</Name>
+      <Alias>ENSG00000130600</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="123">
+    <nomenclature>
+      <Name>lincRNA-Sox2</Name>
+      <Alias>None known</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="124">
+    <nomenclature>
+      <Name>MHM</Name>
+      <Alias>AB046698</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="125">
+    <nomenclature>
+      <Name>lincRNA-SFMBT2</Name>
+      <Alias>ENSG00000238266, ENSG00000232591</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="126">
+    <nomenclature>
+      <Name>lncRNA-MVIH</Name>
+      <Alias/>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="127">
+    <nomenclature>
+      <Name>Pvt1 oncogene</Name>
+      <Alias>ENSG00000249859</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="128">
+    <nomenclature>
+      <Name>ENOD40</Name>
+      <Alias>None known</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="129">
+    <nomenclature>
+      <Name>ANRIL</Name>
+      <Alias>CDKN2B-AS1, p15AS, ENSG00000240498</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="130">
+    <nomenclature>
+      <Name>Hoxa11as</Name>
+      <Alias>Hoxa11s, Hoxa11os, NCRNA00076, ENSG00000240990</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="131">
+    <nomenclature>
+      <Name>GAL10-ncRNA</Name>
+      <Alias/>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="132">
+    <nomenclature>
+      <Name>WT1-AS</Name>
+      <Alias>WIT1, ENSG00000183242</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="133">
+    <nomenclature>
+      <Name>Beta-MHC antisense transcripts</Name>
+      <Alias>intergenic beta MHC RNA, beta RNA; MHC bII, aII and xII NATs</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="134">
+    <nomenclature>
+      <Name>TEA ncRNAs</Name>
+      <Alias>ENSG00000251002</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="135">
+    <nomenclature>
+      <Name>PSF inhibiting RNA</Name>
+      <Alias>None known</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="136">
+    <nomenclature>
+      <Name>AK023948</Name>
+      <Alias>None known</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="137">
+    <nomenclature>
+      <Name>FOXCUT</Name>
+      <Alias/>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="138">
+    <nomenclature>
+      <Name>linc1582</Name>
+      <Alias>Gm2694, linc-LOC330820</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="139">
+    <nomenclature>
+      <Name>Sirt1 AS lncRNA</Name>
+      <Alias/>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="140">
+    <nomenclature>
+      <Name>SENCR</Name>
+      <Alias>Smooth muscle and Endothelial cell–enriched migration/differentiation-associated long NonCoding RNA</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="141">
+    <nomenclature>
+      <Name>HOTTIP</Name>
+      <Alias>HOXA13as, HIT18844, NCRNA00213, ENSG00000243766</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="142">
+    <nomenclature>
+      <Name>VegT RNA</Name>
+      <Alias>None known</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="143">
+    <nomenclature>
+      <Name>MER11C</Name>
+      <Alias>HERVK11</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="144">
+    <nomenclature>
+      <Name>Nespas</Name>
+      <Alias>Gnas-as, GNAS antisense transcript, GNAS1as, SANG, ENSG00000235590</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="145">
+    <nomenclature>
+      <Name>7SK</Name>
+      <Alias>7-3 RNA, K-RNA, 7SK-RNA, 7SK snRNA, RN7SK, ENSG00000202198</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="146">
+    <nomenclature>
+      <Name>Hsr1</Name>
+      <Alias>None known</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="147">
+    <nomenclature>
+      <Name>7SL</Name>
+      <Alias>7S RNA, SRP RNA, 4.5S SRP RNA, 4.5S RNA, RN7SL1 RNA, ENSG00000258486</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="148">
+    <nomenclature>
+      <Name>Pldi</Name>
+      <Alias>None known</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="149">
+    <nomenclature>
+      <Name>ASAR6</Name>
+      <Alias/>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="150">
+    <nomenclature>
+      <Name>Gtl2-as</Name>
+      <Alias>Gtl2 antisense, Meg3-as</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="151">
+    <nomenclature>
+      <Name>KRASP1</Name>
+      <Alias>ENSG00000220635</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="152">
+    <nomenclature>
+      <Name>linc00467</Name>
+      <Alias>ENSG00000153363</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="153">
+    <nomenclature>
+      <Name>H19 antisense</Name>
+      <Alias>91H</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="154">
+    <nomenclature>
+      <Name>MHM-lncRNA</Name>
+      <Alias/>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="155">
+    <nomenclature>
+      <Name>GAS5</Name>
+      <Alias>SNHG2, ENSG00000234741</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="156">
+    <nomenclature>
+      <Name>COOLAIR</Name>
+      <Alias>None known</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="157">
+    <nomenclature>
+      <Name>PDZK1IP1-AS1</Name>
+      <Alias>Noncoding RNA activating4: ncRNA-a4, PDZK1IP1 antisense RNA 1,, ENSG00000224805</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="158">
+    <nomenclature>
+      <Name>BX118339</Name>
+      <Alias>Hs.112750, linc-MBOAT1-4: TCONS_00012107,  linc-MBOAT1-4: TCONS_00012678</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="159">
+    <nomenclature>
+      <Name>EBER1 and EBER2 RNAs</Name>
+      <Alias>None known</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="160">
+    <nomenclature>
+      <Name>PR antisense transcripts</Name>
+      <Alias>AT1, AT2, AT3, ENSG00000255504</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="161">
+    <nomenclature>
+      <Name>linc1610</Name>
+      <Alias>AK144852, G730013B05Rik, linc-Cblb</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="162">
+    <nomenclature>
+      <Name>Mrhl</Name>
+      <Alias>Meiotic recombination hotspot locus non-coding RNA</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="163">
+    <nomenclature>
+      <Name>BC089918</Name>
+      <Alias/>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="164">
+    <nomenclature>
+      <Name>Evf2</Name>
+      <Alias>Evf-2, Dlx6as1, Dlx6os1, ENSG00000231764</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="165">
+    <nomenclature>
+      <Name>Khps1a</Name>
+      <Alias>Khps1</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="166">
+    <nomenclature>
+      <Name>B2 SINE RNA</Name>
+      <Alias>None known</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="167">
+    <nomenclature>
+      <Name>APOas1</Name>
+      <Alias>APOA1-natural antisense transcript 1, ENSG00000235910</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="168">
+    <nomenclature>
+      <Name>lncRNA-CRG</Name>
+      <Alias>FBgn0266181;CR44887; Dmel\CR44887</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="169">
+    <nomenclature>
+      <Name>antiPeg11</Name>
+      <Alias>antiRtl1, PEG11as</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="170">
+    <nomenclature>
+      <Name>pRNA</Name>
+      <Alias>IGS RNAs, intergenic nc-rRNA</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="171">
+    <nomenclature>
+      <Name>NeST</Name>
+      <Alias/>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="172">
+    <nomenclature>
+      <Name>Prion-associated RNAs</Name>
+      <Alias>None known</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="173">
+    <nomenclature>
+      <Name>HOXA3as</Name>
+      <Alias>HIT12844, HIT94153, HOXA-AS2, ENSG00000253552</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="174">
+    <nomenclature>
+      <Name>LINC00237</Name>
+      <Alias>NCRNA00237, ENSG00000225127</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="175">
+    <nomenclature>
+      <Name>roX1 and roX2</Name>
+      <Alias>None known</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="176">
+    <nomenclature>
+      <Name>Dlx1as</Name>
+      <Alias>None known</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="177">
+    <nomenclature>
+      <Name>Kcnq1ot1</Name>
+      <Alias>LIT1, KvLQT1-AS, KvLQT1OT1, ENSG00000269821</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="178">
+    <nomenclature>
+      <Name>IGF2AS</Name>
+      <Alias>PEG8, ENSG00000099869</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="179">
+    <nomenclature>
+      <Name>CCAT1</Name>
+      <Alias>CARLo-5, ENSG00000247844</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="180">
+    <nomenclature>
+      <Name>IPW</Name>
+      <Alias>NCRNA00002</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="181">
+    <nomenclature>
+      <Name>VAI and VAII RNAs</Name>
+      <Alias>VA RNA I,VA RNA II.</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="182">
+    <nomenclature>
+      <Name>SatIII transcripts</Name>
+      <Alias>None known</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="183">
+    <nomenclature>
+      <Name>LINC00299</Name>
+      <Alias>ENSG00000236790;C2orf46; NCRNA00299</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="184">
+    <nomenclature>
+      <Name>Ftx</Name>
+      <Alias>ENSG00000230590</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="185">
+    <nomenclature>
+      <Name>dutA</Name>
+      <Alias>None known</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="186">
+    <nomenclature>
+      <Name>HINTCUT-1</Name>
+      <Alias>uc.475</Alias>
+      <Biotype>retained_intron</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="187">
+    <nomenclature>
+      <Name>E2F4 antisense</Name>
+      <Alias>None known</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="188">
+    <nomenclature>
+      <Name>L1PA16</Name>
+      <Alias>None known</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="189">
+    <nomenclature>
+      <Name>Nctc1</Name>
+      <Alias>ENSMUSG00000087090;Rhit1; 9530074L01</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="190">
+    <nomenclature>
+      <Name>NRON</Name>
+      <Alias>ENSG00000253079</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="191">
+    <nomenclature>
+      <Name>PWR1</Name>
+      <Alias>None known</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="192">
+    <nomenclature>
+      <Name>TUG1</Name>
+      <Alias>ENSG00000253352</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="193">
+    <nomenclature>
+      <Name>SRA</Name>
+      <Alias>SRA1, ENSG00000213523</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="194">
+    <nomenclature>
+      <Name>linc1609</Name>
+      <Alias>linc-Iqcg, AK160141, 1700007L15Rik</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="195">
+    <nomenclature>
+      <Name>CCND1 associated ncRNAs</Name>
+      <Alias>None known</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="196">
+    <nomenclature>
+      <Name>anti-NOS2A</Name>
+      <Alias>None known</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="197">
+    <nomenclature>
+      <Name>bft</Name>
+      <Alias>bereft</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="198">
+    <nomenclature>
+      <Name>Alpha 250/ Alpha 280</Name>
+      <Alias>None known</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="199">
+    <nomenclature>
+      <Name>MT-LIPCAR</Name>
+      <Alias>mitochondrially encoded long non-coding cardiac associated RNA, uc022bqs.1, LIPCAR</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="200">
+    <nomenclature>
+      <Name>LUST</Name>
+      <Alias>Je2, ENSG00000003756</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="201">
+    <nomenclature>
+      <Name>ANRASSF1</Name>
+      <Alias>antisense non-coding RNA in the RASSF1A locus</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="202">
+    <nomenclature>
+      <Name>GDNF-AS1</Name>
+      <Alias>GDNFOS, ENSG00000248587</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="203">
+    <nomenclature>
+      <Name>Gadd7</Name>
+      <Alias>adapt15</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="204">
+    <nomenclature>
+      <Name>XACT</Name>
+      <Alias>ENSG00000241743</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="205">
+    <nomenclature>
+      <Name>LincRNA-EPS</Name>
+      <Alias>LincRNA erythroid prosurvival</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="206">
+    <nomenclature>
+      <Name>COLDAIR</Name>
+      <Alias>COLD ASSISTED INTRONIC NONCODING RNA</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="207">
+    <nomenclature>
+      <Name>meiRNA</Name>
+      <Alias>sme2</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="208">
+    <nomenclature>
+      <Name>THRIL</Name>
+      <Alias>Linc1992, TCONS_00020260, BRI3BP-AS1:TNF, HNRNPL related immunoregulatory long non-coding RNA</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="209">
+    <nomenclature>
+      <Name>Paupar</Name>
+      <Alias/>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="210">
+    <nomenclature>
+      <Name>p53 mRNA</Name>
+      <Alias>None known</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="211">
+    <nomenclature>
+      <Name>NEAT1</Name>
+      <Alias>MEN epsilon/beta, VINC, TncRNA, linc1317, ENSG00000245532</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="212">
+    <nomenclature>
+      <Name>ncRAN</Name>
+      <Alias>SNHG16, ENSG00000163597</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="213">
+    <nomenclature>
+      <Name>ASncmtRNAs</Name>
+      <Alias>Antisense mitochondrial noncoding RNA</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="214">
+    <nomenclature>
+      <Name>SRG1</Name>
+      <Alias>None known</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="215">
+    <nomenclature>
+      <Name>PHO5 lncRNA</Name>
+      <Alias>PHO5as</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="216">
+    <nomenclature>
+      <Name>lincRNA-VLDLR</Name>
+      <Alias>ENSG00000236404</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="217">
+    <nomenclature>
+      <Name>NTT</Name>
+      <Alias>None known</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="218">
+    <nomenclature>
+      <Name>LINC00312</Name>
+      <Alias>NAG7, ENSG00000237697</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="219">
+    <nomenclature>
+      <Name>Tsix</Name>
+      <Alias>ENSG00000270641</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="220">
+    <nomenclature>
+      <Name>CHRF</Name>
+      <Alias>AK048451</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="221">
+    <nomenclature>
+      <Name>AncR-1</Name>
+      <Alias>None known</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="222">
+    <nomenclature>
+      <Name>HSUR1 and HSUR2</Name>
+      <Alias>None known</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="223">
+    <nomenclature>
+      <Name>AK139328</Name>
+      <Alias/>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="224">
+    <nomenclature>
+      <Name>fbp1+ promoter RNAs</Name>
+      <Alias>None known</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="225">
+    <nomenclature>
+      <Name>LINC00570</Name>
+      <Alias>Noncoding RNA activating5: ncRNA-a5, , ,, ENSG00000224177</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="226">
+    <nomenclature>
+      <Name>lncRNA-HEIH</Name>
+      <Alias/>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="227">
+    <nomenclature>
+      <Name>H19 ICR ncRNAs</Name>
+      <Alias>None known</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="228">
+    <nomenclature>
+      <Name>BC1</Name>
+      <Alias>None known</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="229">
+    <nomenclature>
+      <Name>npc536</Name>
+      <Alias>npcRNA 536</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="230">
+    <nomenclature>
+      <Name>LINoCR</Name>
+      <Alias>None known</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="231">
+    <nomenclature>
+      <Name>ICR1</Name>
+      <Alias>None known</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="232">
+    <nomenclature>
+      <Name>HI-LNC25</Name>
+      <Alias/>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="233">
+    <nomenclature>
+      <Name>TIR1axut</Name>
+      <Alias>TIR1 antisense Xrn1-sensitive unstable transcript </Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="234">
+    <nomenclature>
+      <Name>linc1368</Name>
+      <Alias>linc-Adamts9</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="235">
+    <nomenclature>
+      <Name>CRNDE</Name>
+      <Alias>LINC00180, LOC643911, 4933436C20Rik, ENSG00000245694</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="236">
+    <nomenclature>
+      <Name>ST7OT</Name>
+      <Alias>ENSG00000214188, ST7OT1, ST7OT2, ST7OT3, ST7OT4, ST7AS1, ST7AS2, ST7AS3, ST7AS4</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="237">
+    <nomenclature>
+      <Name>coiled-coil domain containing 26</Name>
+      <Alias>ENSG00000229140</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="238">
+    <nomenclature>
+      <Name>lincENC1</Name>
+      <Alias>Gm2373, Mm.219358</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="239">
+    <nomenclature>
+      <Name>At4</Name>
+      <Alias>TPSI family </Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="240">
+    <nomenclature>
+      <Name>SUT719</Name>
+      <Alias/>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="241">
+    <nomenclature>
+      <Name>LINC00970</Name>
+      <Alias>AK126698, ENSG00000203601</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="242">
+    <nomenclature>
+      <Name>SUC2uxut1-3</Name>
+      <Alias>SUC2uxut1, SUC2uxut2, SUC2uxut3</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="243">
+    <nomenclature>
+      <Name>Rubie</Name>
+      <Alias>BY232928, Gm151219</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="244">
+    <nomenclature>
+      <Name>linc-MD1</Name>
+      <Alias/>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="245">
+    <nomenclature>
+      <Name>lnc-31</Name>
+      <Alias>mmu-lnc-31, hsa-lnc-31</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="246">
+    <nomenclature>
+      <Name>KDM5BAS1</Name>
+      <Alias>Noncoding RNA activating2: ncRNA-a2, KDM5B antisense RNA 1 (KDM5B-AS1),, ENSG00000228288</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="247">
+    <nomenclature>
+      <Name>RPS6KA2 antisense transcript</Name>
+      <Alias>RPS6KA2AS, ENSG00000231654</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="248">
+    <nomenclature>
+      <Name>SCA8</Name>
+      <Alias>ATXN8OS, KLHL1AS, ENSG00000230223</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="249">
+    <nomenclature>
+      <Name>VL30 RNAs</Name>
+      <Alias>None known</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="250">
+    <nomenclature>
+      <Name>MUNC</Name>
+      <Alias>MyoD Upstream Non-coding ; DRR(eRNA)</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="251">
+    <nomenclature>
+      <Name>T-ALL-R-LncR1</Name>
+      <Alias/>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="252">
+    <nomenclature>
+      <Name>lncUSMycn</Name>
+      <Alias>MYCNUN, ENSG00000223850</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="253">
+    <nomenclature>
+      <Name>Bsr</Name>
+      <Alias>Rian</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="254">
+    <nomenclature>
+      <Name>Tbca16</Name>
+      <Alias>Gm6142;EG620313</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="255">
+    <nomenclature>
+      <Name>alncRNA-EC7</Name>
+      <Alias>Bloodlinc</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="256">
+    <nomenclature>
+      <Name>LINC00568</Name>
+      <Alias>Noncoding RNA activating1: ncRNA-a1, RP11-54A4.8, ENSG00000228126.1, </Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="257">
+    <nomenclature>
+      <Name>AK082072</Name>
+      <Alias>linc-POLR3G-8, ENSG00000247828</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="258">
+    <nomenclature>
+      <Name>Malat1-as</Name>
+      <Alias>Malat1 antisense, Neat2 antisense</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="259">
+    <nomenclature>
+      <Name>cyrano</Name>
+      <Alias>Zebrafish: linc-oip5, si:dkey-71p21.9, Human: LOC729082, linc-NUSAP1-1, OIP5-AS1,Mouse: 1700020I14Rik, linc1510, ENSG00000247556</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="260">
+    <nomenclature>
+      <Name>Tmevpg1</Name>
+      <Alias>AK124066,  ENSG00000255733</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="261">
+    <nomenclature>
+      <Name>CARMEN</Name>
+      <Alias>Cardiac Mesoderm Enchancer-Associated Noncoding RNA, ENSG00000249669, AK087736 (mouse Ortholog )</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="262">
+    <nomenclature>
+      <Name>TINCR</Name>
+      <Alias>ENSG00000223573;PLAC2; LINC00036; NCRNA00036</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="263">
+    <nomenclature>
+      <Name>CYP4A22-AS1</Name>
+      <Alias>Noncoding RNA activating3: ncRNA-a3, ENST00000444042.2, ENSG00000225506</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="264">
+    <nomenclature>
+      <Name>DQ786227</Name>
+      <Alias>LncRNA-DQ786227, ENSG00000239149</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="265">
+    <nomenclature>
+      <Name>snaR</Name>
+      <Alias>small NF90-associated RNAs</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="266">
+    <nomenclature>
+      <Name>NPTN-IT1</Name>
+      <Alias>lncRNA-LET</Alias>
+      <Biotype/>
+    </nomenclature>
+  </Results>
+  <Results id="267">
+    <nomenclature>
+      <Name>CTBP1-AS</Name>
+      <Alias>ENSG00000196810;C4orf42, CTBP1-AS1, MGC21675</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="268">
+    <nomenclature>
+      <Name>PCGEM1</Name>
+      <Alias>ENSG00000227418; PCAT9; LINC00071; NCRNA00071</Alias>
+      <Biotype>lncRNA</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="269">
+    <nomenclature>
+      <Name>Centromeric alpha-satellite RNA</Name>
+      <Alias>None known</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="270">
+    <nomenclature>
+      <Name>Dali</Name>
+      <Alias>DNMT1-Associated Long Intergenic. linc-Brn1a. linc-Brn1b</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="271">
+    <nomenclature>
+      <Name>Xlsirts</Name>
+      <Alias>None known</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="272">
+    <nomenclature>
+      <Name>PANDA</Name>
+      <Alias>P21 associated ncRNA DNA damage activated, PANDA antisense RNA, ENSG00000213500</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="273">
+    <nomenclature>
+      <Name>lncRNA-LET</Name>
+      <Alias>NPTN-IT1</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="274">
+    <nomenclature>
+      <Name>lnc-IL7R</Name>
+      <Alias/>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="275">
+    <nomenclature>
+      <Name>H19 upstream conserved 1 &amp; 2</Name>
+      <Alias>Huc 1 &amp; 2</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="276">
+    <nomenclature>
+      <Name>JADRR</Name>
+      <Alias>LINC00915 lncRNA-JADE JADE1 adjacent regulatory RNA</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="277">
+    <nomenclature>
+      <Name>antisense TGF beta 3</Name>
+      <Alias>None known</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="278">
+    <nomenclature>
+      <Name>IPS1</Name>
+      <Alias>TPSI/Mt4 family</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="279">
+    <nomenclature>
+      <Name>Ks-1</Name>
+      <Alias>None known</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="280">
+    <nomenclature>
+      <Name>psvA antisense RNA</Name>
+      <Alias>None known</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="281">
+    <nomenclature>
+      <Name>PINC</Name>
+      <Alias>PincRNA-1, mPinc</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="282">
+    <nomenclature>
+      <Name>Hoxd3as</Name>
+      <Alias>Dxoh-3, Hoxd3os</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="283">
+    <nomenclature>
+      <Name>GHET1</Name>
+      <Alias>lncRNA-GHET1, Gastric Carcinoma Proliferation Enhancing Transcript 1, Gastric Carcinoma High Expressed Transcript 1</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="284">
+    <nomenclature>
+      <Name>LOC100887755</Name>
+      <Alias>Noncoding RNA activating7: ncRNA-a7, ENST00000431460.1,, ENSG00000231265</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="285">
+    <nomenclature>
+      <Name>lincRNA-RoR</Name>
+      <Alias>lincRNA-Regulator of Reprogramming, lincRNA-ST8SIA3, ENSG00000258609</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="286">
+    <nomenclature>
+      <Name>lincRNA-p21</Name>
+      <Alias>Ak144811, Gm16197</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="287">
+    <nomenclature>
+      <Name>MSUR1</Name>
+      <Alias>None known</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="288">
+    <nomenclature>
+      <Name>Emx2os</Name>
+      <Alias>ENSG00000229847</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="289">
+    <nomenclature>
+      <Name>ARA</Name>
+      <Alias>BX537613, DKFZp686E11117</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="290">
+    <nomenclature>
+      <Name>Vax2os1</Name>
+      <Alias/>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="291">
+    <nomenclature>
+      <Name>lncRNA-ATB</Name>
+      <Alias>ENST00000493038,AL589182.3</Alias>
+      <Biotype/>
+    </nomenclature>
+  </Results>
+  <Results id="292">
+    <nomenclature>
+      <Name>DBET</Name>
+      <Alias>DBE-T, D4Z4 binding element transcript</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="293">
+    <nomenclature>
+      <Name>Gomafu</Name>
+      <Alias>MIAT, RNCR2, C22orf35, LINC00066, NCRNA00066, ENSG00000225783</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="294">
+    <nomenclature>
+      <Name>LOC285194</Name>
+      <Alias>LSAMP-AS3, ENSG00000243197</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="295">
+    <nomenclature>
+      <Name>Pinci1 family RNAs</Name>
+      <Alias>None known</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="296">
+    <nomenclature>
+      <Name>lnc-DC</Name>
+      <Alias>WFDC21P,CTD-2319I12,LOC645638, ENSG00000261040</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+  <Results id="297">
+    <nomenclature>
+      <Name>Six3os</Name>
+      <Alias>RNCR1, ENSG00000259439</Alias>
+      <Biotype>unassigned</Biotype>
+    </nomenclature>
+  </Results>
+</Search_Results>
