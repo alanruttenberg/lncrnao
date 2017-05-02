@@ -11,13 +11,13 @@
      xmlns:dc="http://purl.org/dc/elements/1.1/">
     <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/ncro/lncrnao/lncrnao.owl">
         <owl:versionIRI rdf:resource="http://purl.obolibrary.org/obo/ncro/dev/lncrnao.owl"/>
-        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/ncro/dev/obi-imports.owl"/>
-        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/lncrnao/dev/go-imports.owl"/>
-        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/ncro/dev/ro-imports.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/ncro/lncrnao/dev/obi-imports.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/ncro/lncrnao/dev/go-imports.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/ncro/lncrnao/dev/ro-imports.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/bfo.owl"/>
-        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/lncrnao/dev/ncbi_taxon-imports.owl"/>
-        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/ncro/dev/iao-imports.owl"/>
-        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/ncro/lncrnao/ncro-imports.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/ncro/lncrnao/dev/ncbi_taxon-imports.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/ncro/lncrnao/dev/iao-imports.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/ncro/lncrnao/dev/ncro-imports.owl"/>
         <rdfs:comment>An ontology of long non-coding RNA</rdfs:comment>
         <rdfs:seeAlso rdf:resource="http://www.lncrnadb.org/"/>
         <dc:contributor>Jingshan Huang</dc:contributor>
