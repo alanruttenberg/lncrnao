@@ -62,6 +62,16 @@
 	     *lncrna-uri2name*)
     axs))
 
+(defvar *lncrnadb-species* nil)
+
+(defun lncrnadb-mentioned-species ()
+  (maphash (lambda(k v)
+	     (when (numberp k)
+	       (let* ((species (mapcar (lambda(e) (attribute-named e "Species"))
+				       (find-elements-with-tag (second (assoc :species v)) "species" "Entry"))))
+		 (dolist (s species) (pushnew s *lncrnadb-species* :test 'equalp)))))
+	   *lncrnadb-raw*))  
+
 
     
 #|

@@ -1,3 +1,3 @@
 #!/bin/sh
 lc=`echo $1 | tr '[:upper:]' '[:lower:]'`
-curl -s -F file=@../ontology/ontofox-inputs/$lc.txt -o ../ontology/imports/$lc-imports.owl  http://ontofox.hegroup.org/service.php
+curl -s -F file=@../ontology/ontofox-inputs/$lc.txt -o ../ontology/dev/$lc-imports.owl  http://ontofox.hegroup.org/service.php

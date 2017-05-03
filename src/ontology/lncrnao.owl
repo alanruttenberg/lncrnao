@@ -18,6 +18,8 @@
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/ncro/lncrnao/dev/ncbi_taxon-imports.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/ncro/lncrnao/dev/iao-imports.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/ncro/lncrnao/dev/ncro-imports.owl"/>
+	<owl:imports rdf:resource="http://purl.obolibrary.org/obo/ncro/lncrnao/dev/hand-imports.owl"/>
+	<owl:imports rdf:resource="http://purl.obolibrary.org/obo/ncro/lncrnao/lncrnao-generated.owl"/>
         <rdfs:comment>An ontology of long non-coding RNA</rdfs:comment>
         <rdfs:seeAlso rdf:resource="http://www.lncrnadb.org/"/>
         <dc:contributor>Jingshan Huang</dc:contributor>

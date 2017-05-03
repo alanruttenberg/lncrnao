@@ -5,3 +5,4 @@ Genes encoding long (>200nt) non-coding RNAs (lncRNAs) are preferably named base
 A short guide to long non-coding RNA gene nomenclature
 https://humgenomics.biomedcentral.com/articles/10.1186/1479-7364-8-7
 
+http://www.bio-bigdata.com/lncrnaontology/ has gene ontology annotations.
