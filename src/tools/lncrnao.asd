@@ -4,7 +4,8 @@
 (asdf:defsystem lncrnao
   :author "Alan Ruttenberg"
   :components
-  ((:file "ingest-lncrnadb"))
+  ((:file "common")
+   (:file "ingest-lncrnadb"))
   :depends-on (owl2))
 
 ;; Until prove-asdf works

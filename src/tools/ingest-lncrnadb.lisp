@@ -1,6 +1,14 @@
-(defvar *lncrnadb* (make-hash-table :test 'equalp))
+(defvar *lncrnadb-raw* (make-hash-table :test 'equalp))
 
+(defun lncrnao-setup ()
+  (let ((already (all-label-sources)))
+    (loop for source in '(:iao :bfo :obi)
+	  unless (assoc source already)
+	    do (new-label-source (load-ontology (make-uri nil (format nil "obo:~a.owl" source))) :key source))))
+    
+  
 (defun load-lncrnadb ()
+  (lncrnao-setup)
   (loop for source-file in '("annotation.xml" "literature.xml" "nomenclature.xml" "sequence.xml" "species.xml")
 	for key in '(:annotation :literature :nomenclature :sequence :species)
 	for path = (asdf/system:system-relative-pathname "lncrnao" (format nil "../database/lncrnadb/~a" source-file))
@@ -8,15 +16,56 @@
 	do
 	   (dolist (entry (find-elements-with-tag xml "Results"))
 	     (let ((id (parse-integer (attribute-named entry "id"))))
-	       (push (list key entry)  (gethash id *lncrnadb*)))))
+	       (push (list key entry)  (gethash id *lncrnadb-raw*)))))
   (maphash (lambda(id entries)
 	     (setf (gethash (third (find-element-with-tag (second (assoc :nomenclature entries))  "nomenclature" "name"))
-			    *lncrnadb*)
+			    *lncrnadb-raw*)
 		   entries))
-	   *lncrnadb*))
-#|	     
-			     
-)))
+	   *lncrnadb-raw*)
+  (register-lncrnadb-names)
+  (with-ontology foo (:ontology-iri !obo:ncro/lncrnao/lncrnao-generated.owl)
+    ((as (lncrnadb-declaration-and-label-axioms)))
+    (write-rdfxml foo "~/repos/lncrnao/src/ontology/lncrnao-generated.owl")))
+
+(defun register-lncrnadb-names ()
+  (maphash (lambda(k v)
+	     (when (numberp k)
+	       (let* ((nomenclature (second (assoc :nomenclature v)))
+		      (name (third (find-element-with-tag nomenclature "Name")))
+		      (aliases (mapcan (lambda(el) (split-at-regex el ", {0,1}"))
+				       (remove "None known"
+					       (remove nil
+						       (mapcar 'third (find-elements-with-tag nomenclature "Alias")))
+					       :test 'equalp)))
+		      (id (parse-integer (attribute-named nomenclature "id"))))
+		 (register-or-find-uri name (cons id aliases)))))
+	   *lncrnadb-raw*))
+
+(defparameter +lncrna-uri+ !obo:NCRO_0004004)
+
+;; Associated Components !
+
+(defun lncrnadb-prolog-axioms ()
+  `((declaration (annotation-property !dc:source))))
+
+(defun lncrnadb-declaration-and-label-axioms ()
+  (let ((axs nil))
+    (maphash (lambda(uri labels)
+	       (let ((source-annotation `(annotation !dc:source ,(make-uri (format nil "http://www.lncrnadb.org/~a" (car labels))))))
+		 (push `(declaration (class ,uri)) axs)
+		 (push `(subclass-of ,source-annotation ,uri ,+lncrna-uri+) axs)
+		 (push `(annotation-assertion ,source-annotation ,!rdfs:label ,uri ,(car labels)) axs)
+		 (loop for syn in (cdr labels)
+		       unless (numberp syn)
+			 do (push `(annotation-assertion ,source-annotation ,!'alternative term'@iao ,uri ,syn) axs)
+		       )))
+	     *lncrna-uri2name*)
+    axs))
+
+
+    
+#|
+
 
 Element
 Results>"id"
