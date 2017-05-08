@@ -6,6 +6,7 @@
   :components
   ((:file "common")
    (:file "ingest-lncrnadb"))
+  :serial t
   :depends-on (owl2))
 
 ;; Until prove-asdf works

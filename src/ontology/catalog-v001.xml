@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uri name="http://purl.obolibrary.org/obo/ncro/lncrnao.owl" uri="lncrnao.owl"/>
     <uri name="http://purl.obolibrary.org/obo/ncro/lncrnao/ncro-imports.owl" uri="dev/ncro-imports.owl"/>
     <uri name="http://purl.obolibrary.org/obo/bfo.owl" uri="dev/bfo.owl"/>
-    <uri name="http://purl.obolibrary.org/obo/ncro/lncrnao/lncrnao/lncrnao.owl" uri="lncrnao.owl"/>
     <uri name="http://purl.obolibrary.org/obo/ncro/lncrnao/dev/iao-imports.owl" uri="dev/iao-imports.owl"/>
     <uri name="http://purl.obolibrary.org/obo/ncro/lncrnao/dev/ro-imports.owl" uri="dev/ro-imports.owl"/>
     <uri name="http://purl.obolibrary.org/obo/ncro/lncrnao/dev/obi-imports.owl" uri="dev/obi-imports.owl"/>
     <uri name="http://purl.obolibrary.org/obo/ncro/lncrnao/dev/ncbi_taxon-imports.owl" uri="dev/ncbi_taxon-imports.owl"/>
     <uri name="http://purl.obolibrary.org/obo/ncro/lncrnao/dev/hand-imports.owl" uri="dev/hand-imports.owl"/>
     <uri name="http://purl.obolibrary.org/obo/ncro/lncrnao/dev/go-imports.owl" uri="dev/go-imports.owl"/>
-    <uri name="http://purl.obolibrary.org/obo/ncro/lncrnao/lncrnao-generated.owl" uri="lncrnao-generated.owl"/> 
+    <uri name="http://purl.obolibrary.org/obo/ncro/lncrnao/lncrnao-generated.owl" uri="lncrnao-generated.owl"/>
 </catalog>

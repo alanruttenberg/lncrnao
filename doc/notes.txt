@@ -1,3 +1,24 @@
+lncRNA process = has_causal_agent lncRNA
+
+"lncRNA regulation of chromatin remodeling"
+= a biological process in which lncRNA mediates recruitment of chromatin-modifiying enzymes to target genes in cis- or trans, chromatin remodeling and epigenetic regulation of target genes
+subclassOf: "regulation of chromatin remodeling by lncRNA"
+subclassOf: has_causal_agent some lncRNA 
+source: http://cgp.iiarjournals.org/content/14/3/143.long
+alternative term: lncRNA guide process (source http://cgp.iiarjournals.org/content/14/3/143.long)
+
+"miR sponge function"
+= inheres in lncRNA and realized as binding to miRs 
+
+localization of transcription factors away from chromatin by lncRNA
+   realizes miR sponge function
+subClassOf GO_0045798 negative regulation of chromatin assemembly or disassembly
+alternative term: The decoy function involves binding of miRs through lncRNAs (miR sponges), titration of transcription factors away from chromatin or recruitment of protein factors into nuclear subdomains
+part of chromatin silencing 
+
+
+
+
 http://www.genenames.org/about/guidelines
 
 Genes encoding long (>200nt) non-coding RNAs (lncRNAs) are preferably named based on the known function of the transcript, e.g. XIST. Antisense transcripts are named using the approved HGNC symbol for the protein-coding gene with the suffix 'AS' for 'antisense' (the gene symbol should not be the protein-coding gene symbol written backwards), intronic transcripts are appended with 'IT', and overlapping transcripts with 'OT'. Intergenic lncRNA genes are provided with a LINC name for 'long intergenic non-protein coding RNA, e.g. LINC00028. A short guide to lncRNA gene nomenclature was published in 2014, see http://www.humgenomics.com/content/8/1/7)
@@ -5,4 +26,71 @@ Genes encoding long (>200nt) non-coding RNAs (lncRNAs) are preferably named base
 A short guide to long non-coding RNA gene nomenclature
 https://humgenomics.biomedcentral.com/articles/10.1186/1479-7364-8-7
 
-http://www.bio-bigdata.com/lncrnaontology/ has gene ontology annotations.
+http://www.bio-bigdata.com/lncrnaontology/ has gene ontology annotations
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4741861/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5355358/
+
+http://www.bio-bigdata.com/lnc2cancer/
+
+Cancer pathway
+chromatin remodeling
+decoy function
+   The decoy function involves binding of miRs through lncRNAs (miR sponges), titration of transcription factors away from chromatin or recruitment of protein factors into nuclear subdomains
+DNA-RNA interaction
+pigenetic modification
+
+guide function (is_a regulation of remodeling and of epigenetic regulation of target genes
+ - The guide function mediates recruitment of chromatin-modifiying enzymes to target genes in cis- or trans, chromatin remodeling and epigenetic regulation of target genes
+nucleic acid-based therapy
+protein-RNA interaction
+RNA-RNA interaction
+scaffold function
+ The scaffold function of lncRNAs can mediate stabilization of ribonucleoprotein complexes such as signaling modules and nuclear structures often accompanied by allosteric modification of protein activity 
+signaling networks
+
+
+chromatin silencing complex
+process: chromatin silencing, is_a chromatin organization 
+
+forming chromatin-modifiying complexes
+acting as transcriptional co-activators,
+mediating chromatin-looping by enhancer-derived lncRNAs
+the functioning as natural antisense transcripts
+Modulation of transcription of oncogenes or tumor-suppressor genes is an oncology-related function of lncRNAs (25).
+Post-transcriptional functions of lncRNAs can trigger alternative splicing by pairing with other RNAs
+
+LncRNAs often associate with the polycomb repressive complexes (PRC1
+and PRC2) and histone methyltransferase G9a to introduce
+post-translational modifications to specific amino acids in histone
+tails, resulting in negative regulation of RNA pol II.
+
+PRC1 is a multiprotein complex composed of proteins such as BMI1, RING1, RING2 and chromobox proteins (CBX) and is able to ubiquitinylate histone H2A at lysine 119 (26, 27).
+PRC2 is assembled by EED, SUZ12 and histone methyltransferase EZH2 which trimethylates histone 3 lysine 27 (26, 27).
+G9a introduces a repressive mark by trimethylation of histone 3 lysine 9 (28).
+- modulation of nucleosome positioning to regulate expression of genes.
+  --- An example is the SWI/SNF complex which mediates restructuring of chromatin based on hydrolysis of ATP (29).
+
+
+
+RNA-protein, RNA-RNA and RNA-DNA interactions can be combined by a single lncRNA to build distinct functionality conferring complexes
+
+Significant deregulation in comparison to corresponding normal tissues was noted indicating tumor and lineage specific alterations, copy number changes, epigenetic modifications such as promoter methylation and cancer-associated single-nucleotide polymorphisms
+
+
+Cancer pathway
+chromatin remodeling GO:0006338
+decoy function
+   The decoy function involves binding of miRs through lncRNAs (miR sponges), titration of transcription factors away from chromatin or recruitment of protein factors into nuclear subdomains
+DNA-RNA interaction
+pigenetic modification
+guide function
+ - The guide function mediates recruitment of chromatin-modifiying enzymes to target genes in cis- or trans, chromatin remodeling and epigenetic regulation of target genes
+nucleic acid-based therapy
+protein-RNA interaction
+RNA-RNA interaction
+scaffold function
+ The scaffold function of lncRNAs can mediate stabilization of ribonucleoprotein complexes such as signaling modules and nuclear structures often accompanied by allosteric modification of protein activity 
+signaling networks
+
+
+

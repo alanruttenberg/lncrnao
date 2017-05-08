@@ -15,6 +15,9 @@
 	   (format nil "skipping ~a(~{~a~^, ~}) because ambiguous: ~{~a - ~s}~^, ~}" label synonyms candidates 
 		   (mapcar (lambda(c) (gethash *lncrna-uri2name* c)) candidates))))))
 
+(defun fresh-lncrna-uri ()
+  (make-uri nil (format nil "obo:NCRO_~7,'0d" (incf *lncrna-id-counter*))))
+
 (defun register-new-lncrna (label synonyms )
   (let ((uri (make-uri nil (format nil "obo:NCRO_~7,'0d" (incf *lncrna-id-counter*)))))
     (setf (gethash uri *lncrna-uri2name*) (cons label synonyms))
@@ -34,7 +37,7 @@
 	    label)))
 
 (defun taxon-urls-for (names)
-  (mapcar (lambda(label) (format nil "http://purl.obolibrary.org/obo/NCBITAXON_~a" (taxon-id-from-label label))) 
+  (mapcar (lambda(label) (format nil "http://purl.obolibrary.org/obo/NCBITaxon_~a" (taxon-id-from-label label))) 
 	  names))
 
 ;(taxon-urls-for	  *lncrnadb-species*)

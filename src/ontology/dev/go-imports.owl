@@ -412,6 +412,18 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/GO_0006333 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GO_0006333">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">chromatin assembly or disassembly</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GO_0016043"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The formation or destruction of chromatin structures.</obo:IAO_0000115>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">chromatin assembly/disassembly</obo:IAO_0000118>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/go.owl"/>
+    </owl:Class>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/GO_0006351 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/GO_0006351">
@@ -2522,6 +2534,21 @@
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GO_0006810"/>
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GO_1902578"/>
         <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The directed movement of substances (such as macromolecules, small molecules, ions) into, out of or within a cell, or between cells, or within a multicellular organism by means of some agent such as a transporter or pore, involving a single organism.</obo:IAO_0000115>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/go.owl"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GO_0045798 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GO_0045798">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">negative regulation of chromatin assembly or disassembly</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GO_0048523"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Any process that stops, prevents, or reduces the frequency, rate or extent of chromatin assembly or disassembly.</obo:IAO_0000115>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">down regulation of chromatin assembly or disassembly</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">down-regulation of chromatin assembly or disassembly</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">downregulation of chromatin assembly or disassembly</obo:IAO_0000118>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">negative regulation of chromatin assembly/disassembly</obo:IAO_0000118>
         <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/go.owl"/>
     </owl:Class>
     

@@ -1,10 +1,12 @@
 (defvar *lncrnadb-raw* (make-hash-table :test 'equalp))
 
-(defun lncrnao-setup ()
-  (let ((already (all-label-sources)))
-    (loop for source in '(:iao :bfo :obi)
-	  unless (assoc source already)
-	    do (new-label-source (load-ontology (make-uri nil (format nil "obo:~a.owl" source))) :key source))))
+(eval-when (:compile-toplevel :execute :load-toplevel)
+  (defun lncrnao-setup ()
+    (let ((already (all-label-sources)))
+      (loop for source in '(:iao :bfo :obi)
+	    unless (assoc source already)
+	      do (new-label-source (load-ontology (make-uri nil (format nil "obo:~a.owl" source))) :key source))))
+  (lncrnao-setup))
     
   
 (defun load-lncrnadb ()
@@ -24,10 +26,14 @@
 	   *lncrnadb-raw*)
   (register-lncrnadb-names)
   (with-ontology foo (:ontology-iri !obo:ncro/lncrnao/lncrnao-generated.owl)
-    ((as (lncrnadb-declaration-and-label-axioms)))
+    ((as (lncrnadb-declaration-and-label-axioms))
+     (as (lncrnadb-comment-axioms))
+     (maphash (lambda(uri v)
+		(as (lncrnadb-species-axioms uri)))
+	      *lncrna-uri2name*))
     (write-rdfxml foo "~/repos/lncrnao/src/ontology/lncrnao-generated.owl")))
 
-(defun register-lncrnadb-names ()
+(defun register-lncrnadb-names (&aux uris)
   (maphash (lambda(k v)
 	     (when (numberp k)
 	       (let* ((nomenclature (second (assoc :nomenclature v)))
@@ -38,8 +44,12 @@
 						       (mapcar 'third (find-elements-with-tag nomenclature "Alias")))
 					       :test 'equalp)))
 		      (id (parse-integer (attribute-named nomenclature "id"))))
-		 (register-or-find-uri name (cons id aliases)))))
-	   *lncrnadb-raw*))
+		 (push (cons id (register-or-find-uri name (cons id aliases))) uris))))
+	   *lncrnadb-raw*)
+  (loop for (id . uri) in uris do (setf (gethash  uri *lncrnadb-raw*) (gethash id *lncrnadb-raw*)))
+  )
+
+
 
 (defparameter +lncrna-uri+ !obo:NCRO_0004004)
 
@@ -62,6 +72,52 @@
 	     *lncrna-uri2name*)
     axs))
 
+(defun annotation-of-kind (element type)
+  (element-with-attribute (car (find-elements-with-tag
+				(cddr (find-element-with-tag (second element)
+							     "results" "annotation"))
+				"annotation")) 
+			  "section" type))
+  
+(defun lncrnadb-comment-axioms ()
+  (let ((axs nil))
+    (maphash (lambda(key value)
+	       (when (uri-p key)
+		 (let* ((source-annotation `(annotation !dc:source ,(make-uri (format nil "http://www.lncrnadb.org/~a" (car (gethash key *lncrna-uri2name*))))))
+			(annotations (assoc :annotation (gethash key *lncrnadb-raw*)))
+			(characteristics (annotation-of-kind annotations "characteristics"))
+			(function (annotation-of-kind annotations "function"))
+			(expression (annotation-of-kind annotations "expression"))
+			(references (annotation-of-kind annotations "references")))
+		   (with-output-to-string (s)
+		     (when characteristics
+		       (format s "Characteristics: ~a~%~%" (third characteristics)))
+		     (when function
+		       (format s "Function: ~a~%~%" (third function)))
+		     (when expression
+		       (format s "Expression: ~a~%~%" (third expression)))
+
+		 (push `(annotation-assertion ,source-annotation ,!rdfs:comment ,key ,(get-output-stream-string s)) axs) 
+		 ))))
+	     *lncrna-uri2name*)
+    axs))
+
+(defun lncrnadb-species-axioms  (uri)
+  (let ((only-in-taxon !obo:RO_0002160))
+    (loop for species in (mapcar (lambda(e) (Attribute-Named e "Species")) 
+				 (find-elements-with-tag  (second (assoc :species (gethash uri *lncrnadb-raw*)))
+							  "Entry"))
+	  for id = (fresh-lncrna-uri)
+	  collect `(declaration (class ,id))
+	  collect `(annotation-assertion ,!rdfs:label ,id ,(format nil "~a ~a"
+								 (caar (all-matches species "\\((.*)\\)" 1))
+								 (car (gethash uri *lncrna-uri2name*))))
+	  collect `(object-some-values-from ,only-in-taxon 
+					    ,(make-uri nil (format nil "obo:NCBITaxon_~a" 
+								  (taxon-id-from-label species))))
+	  collect `(subclass-of ,id ,uri))))
+
+
 (defvar *lncrnadb-species* nil)
 
 (defun lncrnadb-mentioned-species ()
@@ -76,6 +132,10 @@
     
 #|
 
+Characteristics
+Expression
+Function
+Expression
 
 Element
 Results>"id"

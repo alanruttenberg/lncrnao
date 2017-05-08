@@ -1,5 +1,5 @@
 [URI of the OWL(RDF/XML) output file]
-http://purl.obolibrary.org/obo/lncrnao/dev/go-imports.owl
+http://purl.obolibrary.org/obo/ncro/lncrnao/dev/go-imports.owl
 
 [Source ontology]
 GO
@@ -267,7 +267,7 @@ http://purl.obolibrary.org/obo/GO_2000635
 http://purl.obolibrary.org/obo/GO_2000636
 http://purl.obolibrary.org/obo/GO_2000637
 http://purl.obolibrary.org/obo/GO_2001141
-http://purl.obolibrary.org/obo/GO_0009048 # X inactivation
+http://purl.obolibrary.org/obo/GO_0009048
 http://purl.obolibrary.org/obo/GO_0060817
 http://purl.obolibrary.org/obo/GO_0060821
 http://purl.obolibrary.org/obo/GO_0060819
@@ -275,6 +275,8 @@ http://purl.obolibrary.org/obo/GO_1900096
 http://purl.obolibrary.org/obo/GO_1900097
 http://purl.obolibrary.org/obo/GO_1900095
 http://purl.obolibrary.org/obo/GO_0040029
+http://purl.obolibrary.org/obo/GO_0045798
+http://purl.obolibrary.org/obo/GO_0006333
 
 [Top level source term URIs and target direct superclass URIs]
 http://purl.obolibrary.org/obo/GO_0005575
@@ -285,6 +287,8 @@ http://purl.obolibrary.org/obo/GO_0003674
 subClassOf http://purl.obolibrary.org/obo/BFO_0000034
 http://purl.obolibrary.org/obo/GO_0050789
 subClassOf http://purl.obolibrary.org/obo/GO_0008150
+http://purl.obolibrary.org/obo/GO_0045798
+subClassOf http://purl.obolibrary.org/obo/GO_0048523
 
 [Source term retrieval setting]
 includeNoIntermediates
