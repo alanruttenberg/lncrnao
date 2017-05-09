@@ -1,0 +1,3214 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://purl.obolibrary.org/obo/ncro/lncrnao/lncrnao-cancer.owl#"
+     xml:base="http://purl.obolibrary.org/obo/ncro/lncrnao/lncrnao-cancer.owl"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:obo="http://purl.obolibrary.org/obo/">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/ncro/lncrnao/lncrnao-cancer.owl"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000115 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000115"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000119 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000119"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000136 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000136"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0000056 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0000056"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/DOID_10283 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_10283"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/DOID_10534 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_10534"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/DOID_11054 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_11054"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/DOID_1324 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_1324"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/DOID_1612 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_1612"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/DOID_162 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_162"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/DOID_1909 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_1909"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/DOID_219 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_219"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/DOID_2394 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_2394"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/DOID_2876 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_2876"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/DOID_3070 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_3070"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/DOID_3121 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_3121"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/DOID_3347 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_3347"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/DOID_3565 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_3565"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/DOID_3717 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_3717"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/DOID_3748 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_3748"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/DOID_3908 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_3908"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/DOID_3969 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_3969"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/DOID_4362 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_4362"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/DOID_5041 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_5041"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/DOID_684 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_684"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/DOID_768 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_768"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/DOID_8649 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_8649"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/DOID_8712 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_8712"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/DOID_9036 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_9036"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/DOID_9119 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_9119"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/DOID_9256 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_9256"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/DOID_9952 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_9952"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GO_0010467 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GO_0010467"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GO_New_request_1 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GO_New_request_1">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GO_0010467"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0000056"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0004004"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/HP_0100843 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/HP_0100843"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0004004 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCRO_0004004"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0100070 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCRO_0100070"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0100072 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCRO_0100072"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0100109 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCRO_0100109"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0100158 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCRO_0100158"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0100172 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCRO_0100172"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0100188 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCRO_0100188"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0100191 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCRO_0100191"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0100232 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCRO_0100232"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0100242 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCRO_0100242"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0100275 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCRO_0100275"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0100287 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCRO_0100287"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OBI_0001617 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OBI_0001617"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OBI_0001909 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OBI_0001909"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OBI_New_request_1 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OBI_New_request_1">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OBI_0001909"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_162"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:maxQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:maxQualifiedCardinality>
+                <owl:onClass rdf:resource="http://purl.obolibrary.org/obo/DOID_162"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:label>conclusion regarding expression of lncRNA in cancer</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OBI_New_request_2 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OBI_New_request_2">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_1"/>
+        <rdfs:label>conclusion of increased expression of lncRNA in cancer</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OBI_New_request_3 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OBI_New_request_3">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_1"/>
+        <rdfs:label>conclusion of decreased expression of lncRNA in cancer</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OBI_New_request_4 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OBI_New_request_4">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_1"/>
+        <rdfs:label>conclusion of changed expression of lncRNA in cancer</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/DOID_10283 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/DOID_10283"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/DOID_10534 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/DOID_10534"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/DOID_11054 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/DOID_11054"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/DOID_1324 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/DOID_1324"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/DOID_1612 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/DOID_1612"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/DOID_1909 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/DOID_1909"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/DOID_219 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/DOID_219"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/DOID_2394 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/DOID_2394"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/DOID_2876 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/DOID_2876"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/DOID_3070 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/DOID_3070"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/DOID_3121 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/DOID_3121"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/DOID_3347 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/DOID_3347"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/DOID_3565 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/DOID_3565"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/DOID_3717 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/DOID_3717"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/DOID_3748 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/DOID_3748"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/DOID_3908 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/DOID_3908"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/DOID_3969 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/DOID_3969"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/DOID_4362 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/DOID_4362"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/DOID_5041 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/DOID_5041"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/DOID_684 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/DOID_684"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/DOID_768 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/DOID_768"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/DOID_8649 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/DOID_8649"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/DOID_8712 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/DOID_8712"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/DOID_9036 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/DOID_9036"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/DOID_9119 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/DOID_9119"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/DOID_9256 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/DOID_9256"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/DOID_9952 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/DOID_9952"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GO_New_request_1 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/HP_0100843 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/HP_0100843"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0100070 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0100070"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0100072 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0100072"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0100109 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0100109"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0100158 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0100158"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0100172 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0100172"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0100188 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0100188"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0100191 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0100191"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0100232 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0100232"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0100242 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0100242"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0100275 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0100275"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0100287 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0100287"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104882 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104882">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_9256"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100242"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_9256"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100242"/>
+        <obo:IAO_0000115>91H was significantly overexpressed in cancerous tissue and CRC cell lines compared with adjacent normal tissue and a normal human intestinal epithelial cell line. Moreover, 91H overexpression was closely associated with distant metastasis and poor prognosis in patients with CRC, except for CNV of 91H. Multivariate analysis indicated that 91H expression was an independent prognostic indicator, as well as distant metastasis. 91H played an important role in the molecular etiology of CRC and might be regarded as a novel prognosis indicator in patients with CRC.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/25058480"/>
+        <rdfs:label>up-regulated 91H in colorectal cancer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104883 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104883">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_3"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_3070"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100109"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_3070"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100109"/>
+        <obo:IAO_0000115>The results showed that the ADAMTS9-AS2 expression was significantly downregulated in tumor tissues compared with normal tissues and reversely associated with tumor grade and prognosis. We also found that ADAMTS9-AS2 expression was negatively correlated with DNA methyltransferase-1 (DNMT1). In addition, DNMT1 knockdown led to remarkable enhancement of ADAMTS9-AS2 expression. Overexpression of ADAMTS9-AS2 resulted in significant inhibition of cell migration in glioma, whereas knockdown of ADAMTS9-AS2 showed the opposite effetc.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/24833086"/>
+        <rdfs:label>down-regulated ADAMTS9-AS2 in glioma</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104884 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104884">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_3"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_3908"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100109"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_3908"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100109"/>
+        <obo:IAO_0000115>The expression level of ADAMTS9-AS2, C1401f132 and LINC00312 in NSCLC tumors were indeed significantly down-regulated when compared with those in normal lung tissues, while LINC00673 was significantly up-regulated in NSCLC tumors compared with normal lung tissues.These lncRNAs could be further exploited for the development of useful biomarkers in diagnosis, prognosis and treatment of NSCLC.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/25590602"/>
+        <rdfs:label>down-regulated ADAMTS9-AS2 in non-small cell lung cancer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104885 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104885">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_3969"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100275"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_3969"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100275"/>
+        <obo:IAO_0000115>To verify the array data we performed semi-quantitative RT-PCR and confirmed that AK023948 and AK023852 were significantly downregulated in some sporadic PTC tumors as seen in samples PTC6 and PTC7.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/19147577"/>
+        <rdfs:label>up-regulated AK023948 in papillary thyroid carcinoma</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104886 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104886">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_10283"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100072"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_10283"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100072"/>
+        <obo:IAO_0000115>We identified a group of differentially expressed long noncoding RNAs in prostate cancer cell lines and patient samples and further characterized six long noncoding RNAs (AK024556, XLOC_007697, LOC100287482, XLOC_005327, XLOC_008559, and XLOC_009911) in prostatic adenocarcinoma tissue samples and compared them with matched normal tissues. Interestingly, these markers were also successfully detetced in patient urine samples and were found to be up-regulated when compared with normal urine. </obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/25513185"/>
+        <rdfs:label>up-regulated AK024556 in prostate cancer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104887 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104887">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_3"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_3908"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100070"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_3908"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100070"/>
+        <obo:IAO_0000115>For lncRNA, the results showed that AK123263, CES1P1-001, RP3-508I15.14, AK126698, TP53TG1, and AC090952.4.1 decreased, whereas uc003bgl.1 and NCRNA00210 increased in A549/CDDP (all P &lt;0.05). Cisplatin resistance in non-small-cell lung cancer cells may relate to the changes in noncoding RNAs. Among these, AK126698 appears to confer cisplatin resistance by targeting the Wnt pathway.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/23741487"/>
+        <rdfs:label>down-regulated AK126698 in non-small cell lung cancer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104888 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104888">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_4"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_9952"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100287"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_9952"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100287"/>
+        <obo:IAO_0000115>Rs564398 (A&gt;G), mapping to the CDKN2BAS locus that encodes for ANRIL antisense non-coding RNA, showed a statistically significant correlation with the ALL phenotype, with a risk pattern that was compatible with an overdominant model of disease susceptibility. We hypothesized that this association reflects the capability of some ANRIL polymorphisms to contribute to its transcription changes responsible for alterations of CDKN2A/B expression profiles, thus leading to abnormal proliferative boosts and consequent increased ALL susceptibility.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/21414664"/>
+        <rdfs:label>differential expression ANRIL in acute lymphoblastic leukemia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104889 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104889">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_9952"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100287"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_9952"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100287"/>
+        <obo:IAO_0000115>We found an inverse relation between p15 antisense (p15AS) and p15 sense expression in leukaemia. A p15AS expression construct induced p15 silencing in cis and in trans through heterochromatin formation but not DNA methylation; the silencing persisted after p15AS was turned off, although methylation and heterochromatin inhibitors reversed this process. Moreover, 11 out of 16 patient samples (69%) showed relatively increased expression of p15AS and downregulated p15 expression (6/11 in acute myeloid leukaemia and 5/5 in acute lymphoblastic leukaemia). In contrast, 16 normal controls showed high expression of p15 but relatively low expression of the p15AS. Additionally, the two acute myeloid leukaemia lines, which displayed high p15AS and low p15 expression.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/18185590"/>
+        <rdfs:label>up-regulated ANRIL in acute lymphoblastic leukemia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104890 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104890">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_9119"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100287"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_9119"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100287"/>
+        <obo:IAO_0000115>We found an inverse relation between p15 antisense (p15AS) and p15 sense expression in leukaemia. A p15AS expression construct induced p16 silencing in cis and in trans through heterochromatin formation but not DNA methylation; the silencing persisted aftp15AS was turned off, although methylation and heterochromatin inhibitors reversed this process. Moreover, 11 out of 16 patient samples (69%) showed relatively increased expression of p15AS and downregulated p15 expression (6/11 in acute myeloid leukaemia and 5/5 in acute lymphoblastic leukaemia). In contrast, 16 normal controls showed high expression of p15 but relatively low expression of the p15AS. Additionally, the two acute myeloid leukaemia lines, which displayed high p15AS and low p15 expression.on.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/18185590"/>
+        <rdfs:label>up-regulated ANRIL in acute myeloid leukemia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104891 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104891">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_11054"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100287"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_11054"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100287"/>
+        <obo:IAO_0000115>Our results showed up-regulation of ANRIL in bladder cancer tissues versus the corresponding adjacent non-tumor tissues. Knockdown of ANRIL repressed cell proliferation and increased cell apoptosis, along with decreased expression of Bcl-2 and increased expressions of Bax, cytoplasmic cytochrome c and Smac and cleaved caspase-9, caspase-3 and PARP.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/26449463"/>
+        <rdfs:label>up-regulated ANRIL in bladder cancer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104892 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104892">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_1612"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100287"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_1612"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100287"/>
+        <obo:IAO_0000115>In a series of 12 breast tumor tissues showing a wide range of p14/ARF, p16/ CDKN2A, and p15/CDKN2B mRNA levels, we also observed a stronger positive correlation of ANRIL with p14/ARF than with p16/ CDKN2A or p15/CDKN2B. This study points to the existence of a new gene within the p15/ CDKN2B-p16/CDKN2A-p14/ARF locus putatively involved in melanoma-NST syndrome families and in melanoma-prone families with no identified p16/CDKN2A mutations as well as in somatic tumors.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/17440112"/>
+        <rdfs:label>up-regulated ANRIL in breast cancer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104893 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104893">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_4362"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100287"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_4362"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100287"/>
+        <obo:IAO_0000115>Generally, we found that some of the RNA molecules (HOTAIR and MALAT1) are down-regulated while many of them (lincRNA-p21, GAS5, MEG3, ANRIL, and ncRNA-CCND1) are up-regulated and some others (TUG1, UCA1, and PANDA) not affected. The decline in the expression of HOTAIR and MALAT1 was clearly evident in BLM-treated HeLa and MCF cells. For lincRNA-p21, ncRNA-CCND1, and MEG3, a similar up-regulation pattern was obvious in both cell lines where the increase was generally more pronounced in BLM-treated cells.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/22487937"/>
+        <rdfs:label>up-regulated ANRIL in cervical cancer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104894 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104894">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_4362"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100287"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_4362"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100287"/>
+        <obo:IAO_0000115>qRT-PCR showed that ANRIL is highly expressed in these cancer cells compared to normal fibroblasts. Depletion of ANRIL increased p15 expression, with no impact on p16 or ARF (alternative reading frame) expression, and caused cell-cycle arrest at the G2/M phase, leading to inhibition of proliferation of H1299 and HeLa cells.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/26408699"/>
+        <rdfs:label>up-regulated ANRIL in cervical cancer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104895 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104895">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_9256"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100287"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_9256"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100287"/>
+        <obo:IAO_0000115>The CRC tissues were revealed to express higher levels of ANRIL lncRNA compared with the adjacent non-neoplastic tissues (P&lt;0.05). Furthermore, high ANRIL expression was significantly associated with reduced survival rate (P&lt;0.05). ANRIL gene expression was successfully silenced in human CRC cells. ANRIL knockdown decreased proliferation, inhibited migration and invasion, and reduced the colony-forming ability of the cells. </obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/27314206"/>
+        <rdfs:label>up-regulated ANRIL in colorectal cancer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104896 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104896">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_9256"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100287"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_9256"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100287"/>
+        <obo:IAO_0000115>ANRIL was overexpressed in colorectal cancer. By statistical analysis, increased ANRIL was found to be in close association with TNM staging, Duke staging and lymphatic metastasis and poor prognosis. Through down-regulation of the overexpressed ANRIL, lymphangiogenesis may be suppressed and therefore lymphatic metastasis may be inhibited.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/27286457"/>
+        <rdfs:label>up-regulated ANRIL in colorectal cancer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104897 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104897">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_3748"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100287"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_3748"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100287"/>
+        <obo:IAO_0000115>Compared with matched adjacent non-tumor tissues, the expression levels of ANRIL in ESCC tissues were significantly increased. Furthermore, inhibition of ANRIL was found to increase the expression of p15(INK4b) and TGFβ1 and depletion of ANRIL in ESCC cell lines may inhibit cellular proliferation. </obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/24747824"/>
+        <rdfs:label>up-regulated ANRIL in esophageal squamous cell carcinoma</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104898 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104898">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_3"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_3121"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100287"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_3121"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100287"/>
+        <obo:IAO_0000115>The effects of MEG3 and ANRIL were also verified in mice. Compared with normal tissues, the expression of MEG3 was significantly lower in GBC tissues, whereas the expression of ANRIL was significantly higher (both P &lt; 0.05). The overexpression of MEG3 and underexpression of ANRIL were significantly associated with GBC prognosis (both P &lt; 0.05). The expressions of MEG3 and ANRIL were higher in pcDNA-MEG3 and pcDNA-ANRIL-transfected cells than in empty vector-transfected cells in vitro (both P &lt; 0.05). Most of the pcDNA-MEG3-transfected cells were in the G0-G1 phase, which showed reduced cell activity and clone counts and increased p53 and decreased cyclin D1, whereas the pcDNA-ANRIL-transfected cells were mostly in the S phase and showed contrasting behavior. Mice injected with pcDNA-MEG3-transfected cells had smaller and lighter tumors, decreased ki-67 levels, and increased caspase 3 levels, whereas those injected with pcDNA-ANRIL showed contrasting results (all P &lt; 0.05). MEG3 can inhibit the proliferation of GBC cells and promote apoptosis, whereas ANRIL can improve the proliferation of gallbladder cells and inhibit apoptosis</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/26812694"/>
+        <rdfs:label>down-regulated ANRIL in gallbladder cancer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104899 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104899">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_10534"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100287"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_10534"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100287"/>
+        <obo:IAO_0000115>Higher expression of ANRIL was significantly correlated with a higher TNM stage and tumor size. Further experiments revealed that ANRIL knockdown significantly repressed the proliferation both in vitro and in vivo. We also showed that E2F1 could induce ANRIL and ANRIL-mediated growth promotion is in part due to epigenetic repression of miR-99a/miR-449a in Trans by binding to PRC2, thus forming a positive feedback loop, continuing to promote GC cell proliferation.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/24810364"/>
+        <rdfs:label>up-regulated ANRIL in gastric cancer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104900 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104900">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_10534"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100287"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_10534"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100287"/>
+        <obo:IAO_0000115>ANRIL was highly expressed in gastric cancer tissues of cisplatin-resistant and 5-fluorouracil (5-FU)-resistant patients, and the same upregulation trends were observed in cisplatin-resistant cells (BGC823/DDP) and 5-FU-resistant cells (BGC823/5-FU). In addition, BGC823/DDP and BGC823/5-FU cells transfected with ANRIL siRNA and treated with cisplatin or 5-FU, respectively, exhibited significant lower survival rate, decreased invasion capability, and high percentage of apoptotic tumor cells. The influence of ANRIL knockdown on MDR was assessed by measuring IC50 of BGC823/DDP and BGC823/5-FU cells to cisplatin and 5-FU, the result showed that silencing ANRIL decreased the IC50 values in gastric cancer cells. Moreover, qRT-PCR and western blotting revealed that ANRIL knockdown decreased the expression of MDR1 and MRP1, both of which are MDR related genes; regression analysis showed that the expression of ANRIL positively correlated with the expression of MDR1 and MRP1</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/27121324"/>
+        <rdfs:label>up-regulated ANRIL in gastric cancer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104901 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104901">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_4"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_3070"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100287"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_3070"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100287"/>
+        <obo:IAO_0000115>Risk SNPs (rs3217992, A&gt;G;rs1063192, C&gt;T) for coronary disease, stroke, diabetes, melanoma, and glioma were all associated with allelic expression of ANRIL. Our data show that multiple independent sites in the chromosome 9p21 region influence CDKN2A, CDKN2B and ANRIL expression. SNPs associated with disease in GWA studies are all associated with ANRIL expression, indicating that modulation of ANRIL expression mediates susceptibility to a variety of conditions.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/20386740"/>
+        <rdfs:label>differential expression ANRIL in glioma</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104902 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104902">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_684"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100287"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_684"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100287"/>
+        <obo:IAO_0000115>LncRNA ANRIL expression in HCC tissues was significantly higher than in the adjacent non-tumor tissues (P &lt; 0.05). The expression of lncRNA ANRIL was remarkably associated with the histologic grade and TNM stage of HCC patients (P &lt; 0.05). In addition, HCC patients with higher lncRNA ANRIL expression had significantly poorer overall survival (P &lt; 0.05).Moreover, in vitro assays revealed that the decreased expression of lncRNA ANRIL could suppress the cell proliferation, migration and invasion HCC cells.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/26045820"/>
+        <rdfs:label>up-regulated ANRIL in hepatocellular carcinoma</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104903 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104903">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_684"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100287"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_684"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100287"/>
+        <obo:IAO_0000115>ANRIL expression was upregulated in HCC tissues, and the higher expression of ANRIL was significantly correlated with tumor size and Barcelona Clinic Liver Cancer (BCLC) stage. We also found that ANRIL could epigenetically repress Kruppel-like factor 2 (KLF2) transcription in HCC cells by binding with PRC2 and recruiting it to the KLF2 promoter region. We also found that SP1 could regulate the expression of ANRIL.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/25966845"/>
+        <rdfs:label>up-regulated ANRIL in hepatocellular carcinoma</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104904 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104904">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_684"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100287"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_684"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100287"/>
+        <obo:IAO_0000115>ANRIL expression was up-regulated in HCC tissues, and the higher expression of ANRIL was significantly correlated with tumor size and Barcelona Clinic Liver Cancer (BCLC) stage. Moreover, taking advantage of loss of function experiments in HCC cells, we found that knockdown of ANRIL expression could impair cell proliferation and invasion and induce cell apoptosis both in vitro and in vivo.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/25966845"/>
+        <rdfs:label>up-regulated ANRIL in hepatocellular carcinoma</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104905 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104905">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_2876"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100287"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_2876"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100287"/>
+        <obo:IAO_0000115>We discovered that five lncRNAs were differentially expressed between primary LSCC samples and adjacent normal tissues. Among them, three lncRNAs were up-expressed in tumor specimens, including CDKN2B-AS1, HOTAIR and MALAT1. More, two lncRNAs had significant down-expression, which were lncRNA RRP1B and SRA1. Cisplatin and paclitaxel have target function on significant lncRNAs in LSCC, which presents novel molecular targets to cure LSCC patients and also leads an orientation for developing new drugs.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/25257554"/>
+        <rdfs:label>up-regulated ANRIL in laryngeal squamous cell carcinoma</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104906 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104906">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_4"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_1909"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100287"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_1909"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100287"/>
+        <obo:IAO_0000115>Risk SNPs (rs3217992, A&gt;G;rs1063192, C&gt;T) for coronary disease, stroke, diabetes, melanoma, and glioma were all associated with allelic expression of ANRIL. Our data show that multiple independent sites in the chromosome 9p21 region influence CDKN2A, CDKN2B and ANRIL expression. SNPs associated with disease in GWA studies are all associated with ANRIL expression, indicating that modulation of ANRIL expression mediates susceptibility to a variety of conditions.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/20386740"/>
+        <rdfs:label>differential expression ANRIL in melanoma</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104907 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104907">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_8712"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100287"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_8712"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100287"/>
+        <obo:IAO_0000115>Single-nucleotide polymorphism rs2151280 (located in ANRIL) was statistically significantly associated with the number of PNFs in NF1 patients. In addition, allele T of rs2151280 was statistically significantly associated with reduced ANRIL transcript levels, suggesting that modulation of ANRIL expression mediates PNF susceptibility. Identification of ANRIL as a modifier gene in NF1 may offer clues to the molecular pathogenesis of PNFs, particularly neurofibroma formation, and emphasizes the unanticipated role of large noncoding RNA in activation of critical regulators of tumor development.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/22034633"/>
+        <rdfs:label>up-regulated ANRIL in neurofibromatosis type 1</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104908 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104908">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_3908"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100287"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_3908"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100287"/>
+        <obo:IAO_0000115>qRT-PCR showed that ANRIL is highly expressed in these cancer cells compared to normal fibroblasts. Depletion of ANRIL increased p15 expression, with no impact on p16 or ARF (alternative reading frame) expression, and caused cell-cycle arrest at the G2/M phase, leading to inhibition of proliferation of H1299 and HeLa cells.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/26408699"/>
+        <rdfs:label>up-regulated ANRIL in non-small cell lung cancer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104909 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104909">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_3908"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100287"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_3908"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100287"/>
+        <obo:IAO_0000115>In this study, we reported that ANRIL expression was increased in NSCLC tissues and Its expression level was significantly correlated with TNM stages and tumor size. Moreover, patients with high levels of ANRIL expression had a relatively poor prognosis. In addition, taking advantage of loss of function experiments in NSCLC cells, we found that knockdown of ANRIL expression could impair cell proliferation and induce cell apoptosis both in vitro and vivo.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/25504755"/>
+        <rdfs:label>up-regulated ANRIL in non-small cell lung cancer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104910 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104910">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_3908"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100287"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_3908"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100287"/>
+        <obo:IAO_0000115>The high expression level of ANRIL was positively correlated with advanced tumor-node-metastasis stage and greater tumor diameter. Furthermore, chromatin immunoprecipitation assays confirmed the physical interaction between c-Myc and ANRIL. ANRIL silencing significantly inhibited NSCLC cell proliferation.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/27307748"/>
+        <rdfs:label>up-regulated ANRIL in non-small cell lung cancer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104911 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104911">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_3347"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100287"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_3347"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100287"/>
+        <obo:IAO_0000115>qRT-PCR showed that ANRIL is highly expressed in these cancer cells compared to normal fibroblasts. Depletion of ANRIL increased p15 expression, with no impact on p16 or ARF (alternative reading frame) expression, and caused cell-cycle arrest at the G2/M phase, leading to inhibition of proliferation of H1299 and HeLa cells.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/26408699"/>
+        <rdfs:label>up-regulated ANRIL in osteosarcoma</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104912 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104912">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_2394"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100287"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_2394"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100287"/>
+        <obo:IAO_0000115>we evaluated ANRIL expression in epithelial ovarian cancer (EOC) and defined its clinical implications and biological functions. ANRIL was overexpressed in EOC tissues relative to normal controls. Overexpression correlated with advanced International Federation of Gynecologists and Obstetricians stage and high histological grade. Multivariate analysis indicated that ANRIL is an independent prognostic factor for overall survival in EOC. Gain- and loss-of-function experiments demonstrated that ANRIL promotes EOC cell proliferation both in vitro and in vivo. The proliferative effect was linked to the promotion of cell cycle progression and inhibition of apoptosis and senescence. Down-regulation of P15INK4B and up-regulation of Bcl-2 by ANRIL may partially explain ANRIL-induced EOC cell proliferation</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/27095571"/>
+        <rdfs:label>up-regulated ANRIL in ovarian cancer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104913 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104913">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_10283"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100287"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_10283"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100287"/>
+        <obo:IAO_0000115>Here we report that chromobox 7 (CBX7) within the polycomb repressive complex 1 binds to ANRIL, and both CBX7 and ANRIL are found at elevated levels in prostate cancer tissues.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/20541999"/>
+        <rdfs:label>up-regulated ANRIL in prostate cancer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104914 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104914">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_2394"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100287"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_2394"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100287"/>
+        <obo:IAO_0000115>We found that ANRIL levels were elevated in SOC tissues compared with normal controls and were highly correlated with advanced FIGO stage, high histological grade, lymph node metastasis, and poor prognosis. Functional studies suggest a critical role of ANRIL in the control of SOC cell migration/invasion at least in part through regulation of MET and MMP3.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/25845387"/>
+        <rdfs:label>up-regulated ANRIL in serous ovarian cancer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104915 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104915">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/HP_0100843"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100158"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/HP_0100843"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100158"/>
+        <obo:IAO_0000115>We show that this antisense transcript (anti-NOS2A RNA) is expressed in different types of brain tumors, including meningiomas and glioblastomas.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/18820242"/>
+        <rdfs:label>up-regulated anti-NOS2A in glioblastoma</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104916 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104916">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_3565"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100158"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_3565"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100158"/>
+        <obo:IAO_0000115>We show that this antisense transcript (anti-NOS2A RNA) is expressed in different types of brain tumors, including meningiomas and glioblastomas.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/18820242"/>
+        <rdfs:label>up-regulated anti-NOS2A in meningioma</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104917 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104917">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_3"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_219"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100188"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_219"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100188"/>
+        <obo:IAO_0000115>We selected three lncRNAs, snaR, BACE1AS, and PRAS, and we detected their expression by RT-qPCR using specific primer sets. SnaR and BACE1AS were significantly down-regulated in both resistant cell lines (SNU-C4R and SNU-C5R), whereas PRAS was down-regulated in SNU-C4R cells but not in SNU-C5R cells. Down-regulation of snaR decreased cell death after 5-FU treatment, which indicates that snaR loss decreases in vitro sensitivity to 5-FU.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/25078450"/>
+        <rdfs:label>down-regulated BACE1AS in colon cancer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104918 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104918">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_9256"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100232"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_9256"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100232"/>
+        <obo:IAO_0000115>The quantitative polymerase chain reaction results showed that BANCR was frequently overexpressed in cancer tissues and this overexpression was found to significantly correlate with lymph node metastasis and tumour stage. The ectopic expression of BANCR contributed to the migration of human CRC Caco-2 cells, whereas knockdown of BANCR inhibited the migration of the HCT116 cells in vitro. Further investigation into the underlying mechanisms responsible for the migratory effects revealed that BANCR induced the epithelial-mesenchymal transition (EMT) through an MEK/extracellular signal-regulated kinase-dependent mechanism as treatment with the MEK inhibitor, U0126 decreased migration and reversed the EMT in the BANCR-overexpressed HCT116 cells.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/25013510"/>
+        <rdfs:label>up-regulated BANCR in colorectal cancer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104919 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104919">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_3"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_9256"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100232"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_9256"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100232"/>
+        <obo:IAO_0000115>In this study, we show that BANCR expression was significantly down-regulated in colorectal cancer tissues compared with normal tissues, and overexpression of BANCR suppressed colorectal cancer cell growth in vitro and in vivo.Down_regulation of BANCR contributes to theproliferation of colorectal cancer cells,at least in part,through the regulation of p21 protein.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/25928067"/>
+        <rdfs:label>down-regulated BANCR in colorectal cancer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104920 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104920">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_3717"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100232"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_3717"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100232"/>
+        <obo:IAO_0000115>BANCR expression was significantly up-regulated in gastric tumor tissues and gastric cell lines. Down-regulation of BANCR inhibited gastric cancer cell growth and promoted cell apoptosis, and it also contributed to a significant decrease of NF-B1 (P50/105) expression and 3&apos;UTR of NF-B1 activity. Overexpression of NF-B1 reversed the effect of BANCR on cancer cell growth and apoptosis. MiroRNA-9 (miR-9) targeted NF-B1, and miR-9 inhibitor also reversed the effects of BANCR on gastric cancer cell growth and apoptosis.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/26248136"/>
+        <rdfs:label>up-regulated BANCR in gastric adenocarcinoma</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104921 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104921">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_10534"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100232"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_10534"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100232"/>
+        <obo:IAO_0000115>In our results, the expression of BANCR was increased in gastric cancer tissues compared with paired adjacent normal tissues. Moreover, high expression of BANCR was positively associated with clinical stage, tumor depth, lymph node metastasis and distant metastasis in gastric cancer patients. BANCR overexpression was an independent unfavorable prognostic biomarker for gastric cancer patients.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/26054683"/>
+        <rdfs:label>up-regulated BANCR in gastric cancer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104922 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104922">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_3"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_1324"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100232"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_1324"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100232"/>
+        <obo:IAO_0000115>The results showed that BANCR levels were downregulated in LC cells. When BANCR expression was improved by tranfetcion with pcDNA-BANCR vetcor, tumor growth was suppressed.Vise versa, when BANCR was knockdown by si-BANCR, cell proliferation and migration of LC were remarkably promoted. We further found that MAPK pathways were involved in the BANCR-mediated cell proliferation and migration of LC.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/25661343"/>
+        <rdfs:label>down-regulated BANCR in lung cancer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104923 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104923">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_1909"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100232"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_1909"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100232"/>
+        <obo:IAO_0000115>BANCR was abnormally overexpressed in human malignant melanoma cell lines and tissues, and increased with tumor stages.The linkage between BANCR and MAPK pathway may provide a novel interpretation for the mechanism of proliferation regulation in malignant melanoma</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/24967732"/>
+        <rdfs:label>up-regulated BANCR in malignant melanoma</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104924 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104924">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_1909"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100232"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_1909"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100232"/>
+        <obo:IAO_0000115>BRAF-regulated lncRNA 1 (BANCR) was identified as a recurrently overexpressed, previously unannotated 693-bp transcript on chromosome 9 with a potential functional role in melanoma cell migration. BANCR knockdown reduced melanoma cell migration.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/22581800"/>
+        <rdfs:label>up-regulated BANCR in melanoma</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104925 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104925">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_3"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_3908"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100232"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_3908"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100232"/>
+        <obo:IAO_0000115>BANCR expression was significantly decreased in 113 NSCLC tumor tissues compared with normal tissues. Additionally, reduced BANCR expression was associated with larger tumor size, advanced pathological stage, metastasis distance, and shorter overall survival of NSCLC patients. Reduced BANCR expression was found to be an independent prognostic factor for NSCLC. Histone deacetylation was involved in the downregulation of BANCR in NSCLC cells. Ectopic expression of BANCR impaired cell viability and invasion, leading to the inhibition of metastasis in vitro and in vivo. Overexpression of BANCR was found to play a key role in epithelial-mesenchymal transition (EMT) through the regulation of E-cadherin, N-cadherin and Vimentin expression.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/24655544"/>
+        <rdfs:label>down-regulated BANCR in non-small cell lung cancer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104926 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104926">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_3"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_3347"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100232"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_3347"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100232"/>
+        <obo:IAO_0000115>BANCR overexpression was observed in osteosarcoma cell lines and clinical specimens. Increased BANCR expression was significantly associated with large tumor size, positive distant metastasis, and advanced clinical stage. High BANCR expression in osteosarcoma was an independent predictor of poor survival. Downregulation of BANCR inhibited MG-63 cell proliferation and invasion and promoted cell apoptosis in vitro.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/27051014"/>
+        <rdfs:label>down-regulated BANCR in osteosarcoma</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104927 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104927">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_3969"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100232"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_3969"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100232"/>
+        <obo:IAO_0000115>Of the three lncRNAs (BANCR, PTCSC3, and NAMA), expression of BANCR was significantly up-regulated while PTCSC3 and NAMA were significantly down-regulated in papillary thyroid carcinoma (PTC) compared to that in normal tissue. BANCR-knockdown in a PTC-derived cell line (IHH-4) resulted in significant suppression of thyroid stimulating hormone receptor (TSHR). BANCR-knockdown also led to inhibition of cell growth and cell cycle arrest at G0/G1 phase through down-regulation of cyclin D1. In addition, BANCR was enriched by polycomb enhancer of zeste homolog 2 (EZH2), and silencing BANCR led to decreased chromatin recruitment of EZH2, which resulted significantly reduced expression of TSHR.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/26323637"/>
+        <rdfs:label>up-regulated BANCR in papillary thyroid carcinoma</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104928 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104928">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_3969"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100232"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_3969"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100232"/>
+        <obo:IAO_0000115>The expression of BANCR was significantly up-regulated while PTCSC3 and NAMA were significantly down-regulated in papillary thyroid carcinoma (PTC) compared to that in normal tissue. BANCR-knockdown in a PTC-derived cell line (IHH-4) resulted in significant suppression of thyroid stimulating hormone receptor (TSHR). BANCR-knockdown also led to inhibition of cell growth and cell cycle arrest at G0/G1 phase through down-regulation of cyclin D1. In addition, BANCR was enriched by polycomb enhancer of zeste homolog 2 (EZH2), and silencing BANCR led to decreased chromatin recruitment of EZH2, which resulted significantly reduced expression of TSHR.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/26323637"/>
+        <rdfs:label>up-regulated BANCR in papillary thyroid carcinoma</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104929 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104929">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_3969"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100232"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_3969"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100232"/>
+        <obo:IAO_0000115>The results revealed that BANCR levels were significantly higher in the PTC tissues and PTC IHH-4 cells compared with the normal controls. Knockdown of BANCR in the IHH-4 cells inhibited proliferation and increased apoptosis of the cells in vitro. Further investigation of the underlying mechanisms revealed that BANCR markedly activated autophagy. Overexpression of BANCR inhibited apoptosis in the IHH-4 cells, whereas inhibition of autophagy stimulated apoptosis in the BANCR-overexpressed cells. BANCR overexpression also increased cell proliferation and the inhibition of autophagy abrogated BANCR overexpression-induced cell proliferation.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/25289082"/>
+        <rdfs:label>up-regulated BANCR in papillary thyroid carcinoma</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104930 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104930">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_768"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100232"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_768"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100232"/>
+        <obo:IAO_0000115>In our results, lncRNA BANCR is overexpressed in retinoblastoma tissues and cell lines and is associated with tumor size, choroidal invasion, and optic nerve invasion. lncRNA BANCR plays a significant role in retinoblastoma aggressiveness and prognosis and may act as a promising target for therapeutic strategy and prognostic prediction.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/25894373"/>
+        <rdfs:label>up-regulated BANCR in retinoblastoma</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104931 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104931">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_1612"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100172"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_1612"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100172"/>
+        <obo:IAO_0000115>BC200 RNA was expressed in carcinomas of the breast, cervix, oesophagus, lung, ovary, parotid, and tongue, but not in corresponding normal tissues.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/9422992"/>
+        <rdfs:label>up-regulated BC200 in breast cancer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104932 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104932">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_1612"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100172"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_1612"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100172"/>
+        <obo:IAO_0000115>We here report that BC200 RNA is expressed at high levels in invasive carcinomas of the breast. In normal breast tissue or in benign tumors such as fibroadenomas, in contrast, we found that the RNA is not detectable at significant levels. The difference in expression levels between invasive carcinomas and normal/benign tissue was statistically highly significant.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/15240511"/>
+        <rdfs:label>up-regulated BC200 in breast cancer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104933 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104933">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_1612"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100172"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_1612"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100172"/>
+        <obo:IAO_0000115>In this study, we show that BC200 is upregulated in breast cancer; among breast tumor specimens there is a higher level of BC200 in estrogen receptor (ER) positive than in ER-negative tumors. Further experiments show that activation of estrogen signaling induces expression of BC200.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/27277684"/>
+        <rdfs:label>up-regulated BC200 in breast cancer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104934 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104934">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_4362"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100172"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_4362"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100172"/>
+        <obo:IAO_0000115>BC200 RNA was expressed in carcinomas of the breast, cervix, oesophagus, lung, ovary, parotid, and tongue, but not in corresponding normal tissues.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/9422992"/>
+        <rdfs:label>up-regulated BC200 in cervical cancer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104935 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104935">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_5041"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100172"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_5041"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100172"/>
+        <obo:IAO_0000115>BC200 RNA was expressed in carcinomas of the breast, cervix, oesophagus, lung, ovary, parotid, and tongue, but not in corresponding normal tissues.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/9422992"/>
+        <rdfs:label>up-regulated BC200 in esophageal cancer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104936 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104936">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_3748"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100172"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_3748"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100172"/>
+        <obo:IAO_0000115>We found that the relative expression of BC200 was significantly higher in ESCC tissues compared with adjacent normal tissue samples (P=0.023). But the expression of BC200 were not related to clinical-pathological features, such as age, TNM stages, and histological grade (P&gt;0.05). Kaplan-Meier analysis showed that high expression levels of BC200 were correlated with poor prognosis in ESCC patients. Patients with a high level of BC200 had a shorter disease-free survival and overall survival than those with low BC200 expression (P=0.034 and P=0.031, respectively). On multivariate analysis, the hazard ratio (HR) of BC200 expression was 2.17 (95% confidence interval [CI]=1.12-4.19, P=0.022) for disease-free survival and 2.24 (95% CI=1.12-4.49, P=0.023) for overall survival</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/27143917"/>
+        <rdfs:label>up-regulated BC200 in esophageal squamous cell carcinoma</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104937 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104937">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_3"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_3070"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100172"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_3070"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100172"/>
+        <obo:IAO_0000115>MEG3 and ST7OT1 are up-regulated in both cell lines under apoptosis induced using both agents. The induction of GAS5 is only clearly detected during DOX-induced apoptosis, whereas the up-regulation of neat1 and MIR155HG is only found during RES-induced apoptosis in both cell lines. However, TUG1, BC200 and MIR155HG are down regulated when necrosis is induced using a high dose of DOX in both cell lines. </obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/25645334"/>
+        <rdfs:label>down-regulated BC200 in glioma</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104938 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104938">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_1324"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100172"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_1324"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100172"/>
+        <obo:IAO_0000115>BC200 RNA was expressed in carcinomas of the breast, cervix, oesophagus, lung, ovary, parotid, and tongue, but not in corresponding normal tissues.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/9422992"/>
+        <rdfs:label>up-regulated BC200 in lung cancer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104939 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104939">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_2394"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100172"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_2394"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100172"/>
+        <obo:IAO_0000115>BC200 RNA was expressed in carcinomas of the breast, cervix, oesophagus, lung, ovary, parotid, and tongue, but not in corresponding normal tissues.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/9422992"/>
+        <rdfs:label>up-regulated BC200 in ovarian cancer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104940 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104940">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_3"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_2394"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100172"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_2394"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100172"/>
+        <obo:IAO_0000115>The results demonstrated that BC200 expression was reduced in ovarian cancer compared with normal ovarian tissue samples. In the SKOV3 and A2780 cells, BC200 exerted no effect on invasive or migratory ability, however, the inhibition of BC200 was demonstrated to promote cell proliferation. Additionally, it was observed that carboplatin induced BC200 expression in the cell lines, and that the inhibition of BC200 decreased the sensitivity of the cells to the drug. BC200 is therefore likely to have a tumor suppressive function in ovarian cancer by affecting cell proliferation. Furthermore, BC200 appears to serve a role in the mediation of carboplatin-induced ovarian cancer cell death</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/26893717"/>
+        <rdfs:label>down-regulated BC200 in ovarian cancer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104941 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104941">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_9036"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100172"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_9036"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100172"/>
+        <obo:IAO_0000115>BC200 RNA was expressed in carcinomas of the breast, cervix, oesophagus, lung, ovary, parotid, and tongue, but not in corresponding normal tissues.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/9422992"/>
+        <rdfs:label>up-regulated BC200 in parotid cancer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104942 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104942">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_8649"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100172"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_8649"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100172"/>
+        <obo:IAO_0000115>BC200 RNA was expressed in carcinomas of the breast, cervix, oesophagus, lung, ovary, parotid, and tongue, but not in corresponding normal tissues.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/9422992"/>
+        <rdfs:label>up-regulated BC200 in tongue cancer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104943 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104943">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_9119"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100191"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_9119"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100191"/>
+        <obo:IAO_0000115>the aberrant upregulation of CCAT1 was detected in French-American-British M4 and M5 subtypes of adult AML patients. By gain- and loss-of-function analysis, we determined that CCAT1 repressed monocytic differentiation and promoted cell growth of HL-60 by sequestering tumor suppressive miR-155. Accordingly, a significant decrease in miR-155 level was detected in AML patients. Re-introduction of miR-155 into HL-60 cells restored monocytic maturation and repressed cell proliferation. Furthermore, CCAT1 could up-regulated c-Myc via its competing endogenous RNA (ceRNA) activity on miR-155. In conclusion, these results revealed new mechanism of lncRNA CCAT1 in AML development, and suggested that the manipulation of CCAT1 expression could serve as a potential strategy in AML therapy.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/26923190"/>
+        <rdfs:label>up-regulated CCAT1 in acute myeloid leukemia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104944 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104944">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_1612"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100191"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_1612"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100191"/>
+        <obo:IAO_0000115>Expression levels of lncRNA CCAT1 in BC tissues were significantly higher than those in adjacent normal tissues. High expression of lncRNA CCAT1 was associated with differentiation grade, TNM stage, and lymph node metastases. Kaplan-Meier analysis with the log-rank test indicated that high expression of lncRNA CCAT1 had a decreased overall survival and progression-free survival. Multivariable analysis was further identified high expression of lncRNA CCAT1 as an independent prognosis factor for overall survival and progression-free survival.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/26464701"/>
+        <rdfs:label>up-regulated CCAT1 in breast cancer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104945 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104945">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_219"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100191"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_219"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100191"/>
+        <obo:IAO_0000115>CCAT1 is up-regulated across the colon adenoma-carcinoma sequence. This up-regulation is evident in pre-malignant conditions and through all disease stages, including advanced metastatic disease suggesting a role in both tumorigenesis and the metastatic process.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/23594791"/>
+        <rdfs:label>up-regulated CCAT1 in colon cancer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104946 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104946">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_219"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100191"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_219"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100191"/>
+        <obo:IAO_0000115>we provide the first evidence that CCAT1 regulates miR-490 in gastric cancer (GC) cells. Interestingly, miR-490 can also repress CCAT1 expression. CCAT1 expression was significantly upregulated, and miR-490 expression was downregulated in GC. The negative correlation between miR-490 and CCAT1 expression was observed in GC tissues. Importantly, CCAT1 contains a putative miR-490-binding site, and deletion of this binding site abolishes their miR-490 responsiveness. Post-transcriptional CCAT1 silencing by miR-490 significantly suppressed GC cell migration. Furthermore, miR-490 directly bound to the hnRNPA1 mRNA 3&apos;-UTR to repress its translation. Inhibition of miR-490 rescued CCAT1 siRNA-mediated suppression of cell migration. hnRNPA1 expression was significantly upregulated in GC specimens, and there was a negative correlation between miR-490 and hnRNPA1 expression and also a positive correlation between hnRNAP1 expression level and CCAT1 level</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/26825578"/>
+        <rdfs:label>up-regulated CCAT1 in colon cancer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104947 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104947">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_9256"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100191"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_9256"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100191"/>
+        <obo:IAO_0000115>The expression of IncRNA-CCAT1 in tumor tissue was significantly higher than that in normal para-carcinoma tissue, and the expression level of CCAT1 was significantly correlated with local infiltration depth , tumor staging, vascular invasion and CA19-9 level, it mediates the EMT process of colorectal cancer.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/26064266"/>
+        <rdfs:label>up-regulated CCAT1 in colorectal cancer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104948 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104948">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_9256"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100191"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_9256"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100191"/>
+        <obo:IAO_0000115>The data showed enhanced fluorescence upon in vitro hybridization to RNA extracted from CCAT1 expressing cells (HT-29, SW-480) compared to control cells (SK-Mel-2). Uptake of TO-PNA-MBs into cells was achieved by covalently attaching cell penetrating peptides (CPPs) to the TO-PNA-MB probes. In situ hybridization of selected TO-PNA-MB in human CRC specimens was shown to detect CCAT1 expression in all (4/4) subjects with pre-cancerous adenomas, and in all (8/8) patients with invasive adenocarcinoma (penetrating the bowel wall) tumors. The results showed that CCAT1 TO-PNA-MB is a powerful diagnostic tool for the specific identification of CRC, suggesting that with the aid of an appropriate pharmaceutical vehicle, real time in vivo imaging is feasible.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/23416875"/>
+        <rdfs:label>up-regulated CCAT1 in colorectal cancer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104949 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104949">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_9256"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100191"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_9256"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100191"/>
+        <obo:IAO_0000115>CARLo-5 is highly expressed in CRC-derived cell lines compared with normal colon-derived fibroblasts and CRC primary tissues compared with their matched normal adjacent tissues (NATs). In addition, CARLo-5 is highly expressed in prostate cancer (PC) tissues compared with their NATs. CARLo-5 is significantly correlated with the rs6983267 allele associated with increased cancer susceptibility. We also found the MYC enhancer region physically interacts with the active regulatory region of the CARLo-5 promoter, suggesting long-range interaction of MYC enhancer with the CARLo-5 promoter regulates CARLo-5 expression.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/24594601"/>
+        <rdfs:label>up-regulated CCAT1 in colorectal cancer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104950 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104950">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_3"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_9256"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100191"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_9256"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100191"/>
+        <obo:IAO_0000115>we found that the levels of HOTAIR (P &lt; 0.05) and CCAT1 (P &lt; 0.05) were significantly higher in plasma of CRC patients than that of the healthy control. Moreover, the levels of lincRNA-p21 (P &lt; 0.05) were obviously decreased in plasma of CRC patients as compared to those of healthy control. There was highly correlated for CCAT1 (R = 0.752, mean differences = -0.06 ± 1.20), HOTAIR (R = 0.739, mean differences = -0.26 ± 0.76) and lincRNA-p21 (R = 0.848, mean differences = -0.41 ± 0.89) in plasma and serum. By receiver operating characteristic curve (ROC) analysis, plasma CCAT1 provided the higher diagnostic performance for detection of CRC (the area under the ROC curve (AUC), 0.836; P &lt; 0.001; sensitivity, 75.7%; specificity, 85.3%). Moreover, CCAT1 combining with HOTAIR could provide a more effective diagnosis performance (AUC, 0.954, P &lt; 0.001, sensitivity, 84.3%; specificity, 80.2%). Most importantly, this combination was effective to detect CRC at an early stage (85%). In conclusion, our results demonstrated that increased plasma HOTAIR and CCAT1 could be used as a predictive biomarker for CRC screening, and that combination of HOTAIR and CCAT1 had a higher positive diagnostic rate of CRC than HOTAIR or CCAT1 alone</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/26823726"/>
+        <rdfs:label>down-regulated CCAT1 in colorectal cancer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104951 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104951">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_3121"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100191"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_3121"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100191"/>
+        <obo:IAO_0000115>In this study, we demonstrated that CCAT1 was upregulated in gallbladder cancer (GBC) tissues. CCAT1 silencing downregulated, whereas CCAT1 overexpression enhanced the expression of miRNA-218-5p target gene Bmi1 through competitively &apos;spongeing&apos; miRNA-218-5p. Our data revealed that CCAT1 knockdown impaired the proliferation and invasiveness of GBC cells, at least in part through affetcing miRNA-218-5p-mediated regulation of Bmi1. Moreover, CCAT1 transcript level was correlated with Bmi1 mRNA level in GBC tissues.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/25569100"/>
+        <rdfs:label>up-regulated CCAT1 in gallbladder cancer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104952 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104952">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_10534"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100191"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_10534"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100191"/>
+        <obo:IAO_0000115>AGS human gastric carcinoma cell line showed an elevated level of CCAT1 expression. Expression levels of CCAT1 were approximately 10.8 fold higher in GC samples than in samples taken from the negative control group. Interestingly, CCAT1 expression was significantly overexpressed in adjacent normal tissues when compared to the negative control group. Tissues obtained from recurrent GC cases showed the highest expression levels. Expression levels increased with tumor stage, however this did not reach statistical significance. </obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/25561974"/>
+        <rdfs:label>up-regulated CCAT1 in gastric cancer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104953 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104953">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_10534"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100191"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_10534"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100191"/>
+        <obo:IAO_0000115>In the present study, a great upregulation of CARLo-5 was observed in gastric cancer compared to paired adjacent normal tissues. Knockdown of CARLo-5 in gastric cancer cell lines significantly inhibited the cell proliferation via inducing G0/G1 cell-cycle arrest and apoptosis.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/25674211"/>
+        <rdfs:label>up-regulated CCAT1 in gastric cancer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104954 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104954">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_10534"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100191"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_10534"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100191"/>
+        <obo:IAO_0000115>Nucleotide substitutions in the E-box element in the promoter region abrogated c-Myc-dependent promoter activation. The expression of CCAT1 and c-Myc shows strong association in gastric carcinomas. Moreover, abnormally expressed CCAT1 promotes cell proliferation and migration. .</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/23143645"/>
+        <rdfs:label>up-regulated CCAT1 in gastric cancer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104955 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104955">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_684"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100191"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_684"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100191"/>
+        <obo:IAO_0000115>The results showed that CARLo-5 levels were significantly overexpressed in HCC tissues compared to ANLT. Besides, high expression of CARLo-5 was associated with liver cirrhosis (P = 0.001), tumor number (P &lt; 0.001), vascular invasion (P = 0.001), capsular formation (P = 0.014) and Edmondson-Steiner grade (P &lt; 0.001), which proved that CARLo-5 was an independent risk factor for overall survival and disease-free survival. In addition, in highly metastatic HCC cell lines (HCCLM3 and MHCC97-L), CARLo-5 was up-regulated, but in lowly metastatic HCC cell lines (HepG2, SNU387), it showed down-regulated. Besides, by using gain and loss of function experiments in HCC cell lines (HCCLM3 and HepG2), the results showed that CARLo-5 overexpression significantly enhanced cell proliferation, migration and invasion in vitro. Our study also revealed that CARLo-5 was prominently up-regulated in HCC specimens and its high expression was associated with poor prognosis of HCC patients</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/26433964"/>
+        <rdfs:label>up-regulated CCAT1 in hepatocellular carcinoma</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104956 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104956">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_2"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_684"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100191"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_684"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100191"/>
+        <obo:IAO_0000115>The results indicated that the expression of CCAT1 was significantly increased in HCC tissues and cells compared with controls. We also found that the abnormally expressed CCAT1 could promote cell proliferation, migration and invasion. Taken together, our findings demonstrated that the aberrant expression of CCAT1 promotes hepatocellular carcinoma in vitro</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/26191246"/>
+        <rdfs:label>up-regulated CCAT1 in hepatocellular carcinoma</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCRO_0104957 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCRO_0104957">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_New_request_4"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_684"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100191"/>
+            </owl:Restriction>
+        </rdf:type>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/DOID_684"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GO_New_request_1"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/NCRO_0100191"/>
+        <obo:IAO_0000115>c-Myc directly binds to the E-box element in the promoter region of CCAT, and when ectopically expressed increases promoter activity and expression of CCAT1. Moreover, Kaplan-Meier analysis demonstrated that the patients with low expression of CCAT1 demonstrated better overall and relapse-free survival compared with the high expression group. Cox proportional hazards analyses showed that CCAT1 expression was an independent prognostic factor for HCC patients</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://www.ncbi.nlm.nih.gov/pubmed/26225650"/>
+        <rdfs:label>differential expression CCAT1 in hepatocellular carcinoma</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/15240511 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/15240511">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>BC200 RNA in invasive and preinvasive breast cancer.</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/17440112 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/17440112">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>Characterization of a germ-line deletion, including the entire INK4/ARF locus, in a melanoma-neural system tumor family: identification of ANRIL, an antisense noncoding RNA whose expression coclusters with ARF.</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/18185590 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/18185590">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>Epigenetic silencing of tumour suppressor gene p15 by its antisense RNA.</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/18820242 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/18820242">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>Novel noncoding antisense RNA transcribed from human anti-NOS2A locus is differentially regulated during neuronal differentiation of embryonic stem cells.</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/19147577 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/19147577">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>A susceptibility locus for papillary thyroid carcinoma on chromosome 8q24.</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/20386740 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/20386740">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>Chromosome 9p21 SNPs Associated with Multiple Disease Phenotypes Correlate with ANRIL Expression.</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/20541999 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/20541999">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>Molecular interplay of the noncoding RNA ANRIL and methylated histone H3 lysine 27 by polycomb CBX7 in transcriptional silencing of INK4a.</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/21414664 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/21414664">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>A polymorphism in the chromosome 9p21 ANRIL locus is associated to Philadelphia positive acute lymphoblastic leukemia.</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/22034633 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/22034633">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>Role of noncoding RNA ANRIL in genesis of plexiform neurofibromas in neurofibromatosis type 1.</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/22487937 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/22487937">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>Differential expression of long non-coding RNAs during genotoxic stress-induced apoptosis in HeLa and MCF-7 cells.</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/22581800 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/22581800">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>BRAFV600E remodels the melanocyte transcriptome and induces BANCR to regulate melanoma cell migration.</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/23143645 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/23143645">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>Long noncoding RNA CCAT1, which could be activated by c-Myc, promotes the progression of gastric carcinoma.</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/23416875 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/23416875">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>Detection of a long non-coding RNA (CCAT1) in living cells and human adenocarcinoma of colon tissues using FIT-PNA molecular beacons.</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/23594791 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/23594791">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>Differential expression of colon cancer associated transcript1 (CCAT1) along the colonic adenoma-carcinoma sequence.</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/23741487 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/23741487">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>The noncoding RNA expression profile and the effect of lncRNA AK126698 on cisplatin resistance in non-small-cell lung cancer cell.</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/24594601 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/24594601">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>Long-range interaction and correlation between MYC enhancer and oncogenic long noncoding RNA CARLo-5.</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/24655544 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/24655544">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>Downregulation of BRAF activated non-coding RNA is associated with poor prognosis for non-small cell lung cancer and promotes metastasis by affecting epithelial-mesenchymal transition.</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/24747824 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/24747824">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>ANRIL inhibits p15(INK4b) through the TGFβ1 signaling pathway in human esophageal squamous cell carcinoma.</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/24810364 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/24810364">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>Long noncoding RNA ANRIL indicates a poor prognosis of gastric cancer and promotes tumor growth by epigenetically silencing of miR-99a/miR-449a.</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/24833086 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/24833086">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>A new tumor suppressor LncRNA ADAMTS9-AS2 is regulated by DNMT1 and inhibits migration of glioma cells.</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/24967732 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/24967732">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>Long non-coding RNA BANCR promotes proliferation in malignant melanoma by regulating MAPK pathway activation.</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/25013510 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/25013510">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>BRAF-activated long non-coding RNA contributes to colorectal cancer migration by inducing epithelial-mesenchymal transition.</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/25058480 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/25058480">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>Up-regulation of 91H promotes tumor metastasis and predicts poor prognosis for patients with colorectal cancer.</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/25078450 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/25078450">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>A long non-coding RNA snaR contributes to 5-fluorouracil resistance in human colon cancer cells.</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/25257554 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/25257554">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>Cisplatin and paclitaxel target significant long noncoding RNAs in laryngeal squamous cell carcinoma.</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/25289082 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/25289082">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>BRAF-activated long non-coding RNA contributes to cell proliferation and activates autophagy in papillary thyroid carcinoma.</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/25504755 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/25504755">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>Long noncoding RNA ANRIL promotes non small cell lung cancer cells proliferation and inhibits apoptosis by silencing KLF2 and P21 expression.</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/25513185 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/25513185">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>Long noncoding RNAs as putative biomarkers for prostate cancer detection.</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/25561974 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/25561974">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>Colon Cancer Associated Transcript-1 (CCAT1) Expression in Adenocarcinoma of the Stomach.</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/25569100 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/25569100">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>Long non-coding RNA CCAT1 promotes gallbladder cancer development via negative modulation of miRNA-218-5p.</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/25590602 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/25590602">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>Identification and Validation of Long non-coding RNA Biomarkers in Human Non-Small Cell Lung Carcinomas.</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/25645334 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/25645334">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>Altered expression of long non-coding RNAs during genotoxic stress-induced cell death in human glioma cells</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/25661343 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/25661343">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>Long non-coding RNA BANCR promotes proliferation and migration of lung carcinoma via MAPK pathways.</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/25674211 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/25674211">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>Enhanced expression of long noncoding RNA CARLo-5 is associated with the development of gastric cancer.</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/25845387 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/25845387">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>Long non-coding RNA ANRIL predicts poor prognosis and promotes invasion/metastasis in serous ovarian cancer.</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/25894373 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/25894373">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>Long non-coding RNA BANCR regulates growth and metastasis and is associated with poor prognosis in retinoblastoma.</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/25928067 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/25928067">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>Downregulated Long Noncoding RNA BANCR Promotes the Proliferation of Colorectal Cancer Cells via Downregualtion of p21 Expression.</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/25966845 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/25966845">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>Long non-coding RNA ANRIL is upregulated in hepatocellular carcinoma and regulates cell apoptosis by epigenetic silencing of KLF2.</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/26045820 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/26045820">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>High expression of long non-coding RNA ANRIL is associated with poor prognosis in hepatocellular carcinoma.</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/26054683 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/26054683">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>Increased expression of LncRNA BANCR is associated with clinical progression and poor prognosis in gastric cancer.</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/26064266 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/26064266">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>Expression of lncRNA-CCAT1, E-cadherin and N-cadherin in colorectal cancer and its clinical significance.</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/26191246 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/26191246">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>CCAT1 promotes hepatocellular carcinoma cell proliferation and invasion</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/26225650 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/26225650">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>Aberrant Expression of CCAT1 Regulated by c-Myc Predicts the Prognosis of Hepatocellular Carcinoma</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/26248136 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/26248136">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>BRAF activated non-coding RNA (BANCR) promoting gastric cancer cells proliferation via regulation of NF-B1.</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/26323637 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/26323637">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>BRAF-activated Long Non-coding RNA Modulates Papillary Thyroid Carcinoma Cell Proliferation through Regulating Thyroid Stimulating Hormone Receptor.</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/26408699 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/26408699">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>Long Noncoding RNA ANRIL Regulates Proliferation of Non-small Cell Lung Cancer and Cervical Cancer Cells.</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/26433964 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/26433964">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>Long non-coding RNA CARLo-5 expression is associated with disease progression and predicts outcome in hepatocellular carcinoma patients</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/26449463 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/26449463">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>Long non-coding RNA ANRIL is up-regulated in bladder cancer and regulates bladder cancer cell proliferation and apoptosis through the intrinsic pathway</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/26464701 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/26464701">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>Overexpression of long non-coding RNA CCAT1 is a novel biomarker of poor prognosis in patients with breast cancer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/26812694 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/26812694">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>Expression and mechanisms of long non-coding RNA genes MEG3 and ANRIL in gallbladder cancer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/26823726 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/26823726">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>Combined identification of long non-coding RNA CCAT1 and HOTAIR in serum as an effective screening for colorectal carcinoma</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/26825578 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/26825578">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>The long noncoding RNA colon cancer-associated transcript-1/miR-490 axis regulates gastric cancer cell migration by targeting hnRNPA1</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/26893717 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/26893717">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>Downregulation of BC200 in ovarian cancer contributes to cancer cell proliferation and chemoresistance to carboplatin</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/26923190 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/26923190">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>Long Non-Coding RNA CCAT1 Acts as a Competing Endogenous RNA to Regulate Cell Growth and Differentiation in Acute Myeloid Leukemia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/27051014 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/27051014">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>Increased expression of the lncRNA BANCR and its prognostic significance in human osteosarcoma</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/27095571 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/27095571">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>The long non-coding RNA ANRIL promotes proliferation and cell cycle progression and inhibits apoptosis and senescence in epithelial ovarian cancer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/27121324 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/27121324">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>Silencing of long non-coding RNA ANRIL inhibits the development of multidrug resistance in gastric cancer cells</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/27143917 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/27143917">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>BC200 LncRNA a potential predictive marker of poor prognosis in esophageal squamous cell carcinoma patients</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/27277684 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/27277684">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>Regulation of alternative splicing of Bcl-x by BC200 contributes to breast cancer pathogenesis.</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/27286457 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/27286457">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>Downregulation of long non-coding RNA ANRIL suppresses lymphangiogenesis and lymphatic metastasis in colorectal cancer.</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/27307748 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/27307748">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>Long noncoding RNA ANRIL could be transactivated by c-Myc and promote tumor progression of non-small-cell lung cancer.</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/27314206 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/27314206">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>ANRIL is associated with the survival rate of patients with colorectal cancer, and affects cell migration and invasion in vitro.</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.ncbi.nlm.nih.gov/pubmed/9422992 -->
+
+    <owl:NamedIndividual rdf:about="https://www.ncbi.nlm.nih.gov/pubmed/9422992">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0001617"/>
+        <rdfs:label>Expression of neural BC200 RNA in human tumours.</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotations
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GO_New_request_1">
+        <rdfs:label>expression of lncRNA</rdfs:label>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.2.6.20160910-2108) https://github.com/owlcs/owlapi -->
+

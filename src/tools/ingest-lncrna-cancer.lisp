@@ -17,6 +17,7 @@
 ;; Year
 ;; Title
 
+(defvar *lncrna-classes* nil)
 (defun conclusion-ontology-axioms ()
   (let ((parent !'conclusion based on data'@obi)
 	(cex-cancer  !obi:New_request_1)
@@ -26,23 +27,42 @@
 	(about !'is about'@iao)
 	(gene-expression !obo:GO_0010467)
 	(lncrna-expression !obo:GO_New_request_1)
-	(participates !'participates in'@bfo)
+	(participates !'participates in'@ro)
 	(lncrna !obo:NCRO_0004004))
-    `((declare (class !obi:New_request_1))
+    (pushnew `("up-regulated" ,cex-cancer-up) *lncrna-classes* :test 'equalp)
+    (pushnew `("down-regulated" ,cex-cancer-down) *lncrna-classes* :test 'equalp)
+    (pushnew `("differential expression" ,cex-cancer-changes) *lncrna-classes* :test 'equalp)
+    `((declaration (class !obi:New_request_1))
+      (declaration (class !obo:NCRO_0004004))
+      (declaration (class ,lncrna-expression))
+      (declaration (class ,cex-cancer-changes))
+      (declaration (class ,cex-cancer-up))
+      (declaration (class ,cex-cancer-down))
+      (declaration (object-property ,participates))
+      (declaration (object-property ,about))
+      (declaration (annotation-property !'definition'@iao))
+      (declaration (annotation-property !'definition source'@iao))
       (annotation-assertion !rdfs:label ,cex-cancer "conclusion regarding expression of lncRNA in cancer")
       (subclass-of ,cex-cancer ,parent)
-      (subclass-of ,cex-cancer (object-some-values-from ,about (car (gethash "cancer" *hdo-name-to-id*))))
-      (subclass-of ,cex-cancer (object-some-values-from ,about about'@iao ,gene-expression))
+      (subclass-of ,cex-cancer (object-some-values-from ,about ,(car (gethash "cancer" *hdo-name-to-id*))))
+      (subclass-of ,cex-cancer (object-max-cardinality 1 ,about  ,(car (gethash "cancer" *hdo-name-to-id*))))
       (annotation-assertion !rdfs:label ,cex-cancer-up "conclusion of increased expression of lncRNA in cancer")
       (annotation-assertion !rdfs:label ,cex-cancer-down "conclusion of decreased expression of lncRNA in cancer")
       (annotation-assertion !rdfs:label ,cex-cancer-changes "conclusion of changed expression of lncRNA in cancer")
-      (declare (class ,lncrna-expression))
+      (subclass-of ,cex-cancer-changes ,cex-cancer)
+      (subclass-of ,cex-cancer-up ,cex-cancer)
+      (subclass-of ,cex-cancer-down ,cex-cancer)
+      (declaration (class ,lncrna-expression))
+      (subclass-of ,cex-cancer (object-some-values-from ,about ,lncrna-expression))
       (annotation-assertion !rdfs:label ,lncrna-expression "expression of lncRNA")
       (subclass-of ,lncrna-expression ,gene-expression)
       (subclass-of ,lncrna-expression (object-some-values-from ,participates ,lncrna))
       )))
 
+(defvar *pmid-instances* (make-hash-table :test 'equalp))
+
 (defun read-lncrna-cancer-assocations ()
+  (setq *pmid-instances* (make-hash-table :test 'equalp))
   (let ((missing nil))
   (unless *hdo-name-to-id* (index-disease-ontology *hdo*))
   (let ((path (asdf:system-relative-pathname "lncrnao" "../database/lnc2cancer/lncRNA cancer association.txt")))
@@ -52,12 +72,16 @@
 	    for (lineno name  synonyms ensembleid refseqid position cancer-name ICD-T ICD-M methods sample expression description pubmed year title) = (unless (symbolp line) (split-at-char line #\tab))
 	    repeat 200
 	    until (eq line :eof)
-	    do
-	       (print-db name synonyms ensembleid refseqid position cancer-name ICD-T ICD-M methods sample expression description pubmed year title)
-;	       (pushnew expression missing :test 'equalp)
+	    for lncrna = name
+	    when (gethash lncrna *lncrna-name2uri*) append
+	    (make-lncrna-expression-conclusion expression lncrna pubmed title cancer-name description)
+
+;	       (print-db name synonyms ensembleid refseqid position cancer-name ICD-T ICD-M methods sample expression description pubmed year title)
+;	    do	       (pushnew  cancer missing :test 'equalp)
 ;	       (unless (or (cancer-name-to-do cancer-name) (cancer-name-to-do ICD-T))  (pushnew  (list cancer-name icd-t icd-m)  missing :test 'equalp))
 	    )))
-    missing))
+;;    missing
+))
 
 ;; these didn't match labels or exact synonyms
 ;; http://www.bio-bigdata.com/lnc2cancer/down.jsp
@@ -73,13 +97,16 @@
    ("hypopharyngeal squamous cell carcinoma" "C13" "M8070/3" "hypopharynx cancer") 
     ("gastric cancer" "C16" "" "stomach cancer")))
 
-(defvar *pmid-instances* (make-hash-table :test 'equalp))
 
-(defun make-lncrna-expression-conclusion (class direction lncrna pmid pmid-title)
+(defun make-lncrna-expression-conclusion (change lncrna pmid pmid-title cancer description)
   (let ((pubmed-id !OBI:0001617)
 	(pmid-uri (make-uri (format nil "https://www.ncbi.nlm.nih.gov/pubmed/~a" pmid)))
     	(about !'is about'@iao)
-	(axioms nil))
+	(definition !'definition'@iao)
+	(axioms nil)
+	(source !obo:IAO_0000119)
+	(class (second (assoc change *lncrna-classes* :test 'equalp))))
+    (assert class () change)
     (unless (gethash pmid *pmid-instances*)
       (push `(declaration (named-individual ,pmid-uri)) axioms)
       (push `(annotation-assertion ,!rdfs:label ,pmid-uri ,pmid-title) axioms)
@@ -87,31 +114,43 @@
       (setf (gethash pmid *pmid-instances*) pmid-uri))
     (let ((lncrna-expression !obo:GO_New_request_1)
 	  (conclusion (fresh-lncrna-uri)))
+      (push `(declaration (class ,(car (gethash lncrna *lncrna-name2uri*)))) axioms)
       (push `(declaration (named-individual ,conclusion)) axioms)
-      (push `(class-assertion ,conclusion ,class) axioms)
-      (push `(object-property-assertion ,about ,conclusion ,lncrna) axioms)
-      (push `(object-property-assertion ,about ,conclusion ,direction) axioms)
-      (push `(object-property-assertion ,about ,conclusion ,lncrna-expression) axioms))
+      (push `(class-assertion ,class ,conclusion) axioms)
+      (push `(declaration (class ,(cancer-name-to-do cancer))) axioms)
+      (push `(class-assertion  (object-some-values-from ,about ,(cancer-name-to-do cancer)) ,conclusion) axioms)
+      (push `(class-assertion  (object-some-values-from ,about ,(car (gethash lncrna *lncrna-name2uri*))) ,conclusion) axioms)
+      (push `(annotation-assertion ,!rdfs:label ,conclusion ,(format nil "~a ~a in ~a"  change lncrna cancer )) axioms)
+      (push `(annotation-assertion ,definition ,conclusion ,description) axioms)
+      (push `(object-property-assertion ,about ,conclusion ,(car (gethash lncrna *lncrna-name2uri*))) axioms)
+      (push `(object-property-assertion ,about ,conclusion ,lncrna-expression) axioms)
+      (push `(declaration (class ,(cancer-name-to-do cancer))) axioms)
+      (push `(object-property-assertion ,about ,conclusion ,(cancer-name-to-do cancer)) axioms)
+      (push `(annotation-assertion ,source ,conclusion ,pmid-uri) axioms))
     axioms))
     
 
 
 (defun cancer-name-to-do (name)
-   (or  (gethash name *hdo-name-to-id*)
-	(gethash (car (last (find name *hdo-name-substitutions* :key 'car :test 'equalp))) *hdo-name-to-id*))
-       )
+  (index-disease-ontology *hdo*)
+  (let ((result (or  (gethash name *hdo-name-to-id*)
+		     (gethash (car (last (find name *hdo-name-substitutions* :key 'car :test 'equalp))) *hdo-name-to-id*))))
+    (if (= (length result) 1)
+	(car result)
+	(if (= (length result) 2)
+	    (if (#"matches" (uri-full (car result)) ".*DOID.*")
+		(car result)
+		(second result)
+		)))))
 
 (defvar *hdo-name-to-id* nil)
 
 (defun index-disease-ontology (ont)
   (when (null *hdo-name-to-id*)
-    (setq *hdo-name-to-id*  (make-hash-table :test 'equalp)))
-  (each-entity-label ont (list !rdfs:label !oboinowl:hasExactSynonym)
-		     (lambda(uri propuri value)
-		       (push uri (gethash value *hdo-name-to-id*)))))
+    (setq *hdo-name-to-id*  (make-hash-table :test 'equalp))
+    (each-entity-label ont (list !rdfs:label !oboinowl:hasExactSynonym)
+		       (lambda(uri propuri value)
+			 (push uri (gethash value *hdo-name-to-id*))))))
 
-(dolist (n (split-at-char "Transitional cell carcinoma
-8120/3 Urothelial carcinoma, NOS
-8120/3 Transitional carcinoma" #\newline
-))
-  (print (list n (cancer-name-to-do n))))
+
+

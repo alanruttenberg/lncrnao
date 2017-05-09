@@ -3,7 +3,7 @@
 (eval-when (:compile-toplevel :execute :load-toplevel)
   (defun lncrnao-setup ()
     (let ((already (all-label-sources)))
-      (loop for source in '(:iao :bfo :obi)
+      (loop for source in '(:iao :bfo :obi :ro)
 	    unless (assoc source already)
 	      do (new-label-source (load-ontology (make-uri nil (format nil "obo:~a.owl" source))) :key source))))
   (lncrnao-setup))
@@ -11,6 +11,10 @@
   
 (defun load-lncrnadb ()
   (lncrnao-setup)
+  (setq *lncrnadb-raw* (make-hash-table :test 'equalp))
+  (setq *lncrna-name2uri* (make-hash-table :test 'equalp))
+  (setq *lncrna-uri2name* (make-hash-table :test 'equalp))
+  (setq *lncrna-id-counter* 100000)
   (loop for source-file in '("annotation.xml" "literature.xml" "nomenclature.xml" "sequence.xml" "species.xml")
 	for key in '(:annotation :literature :nomenclature :sequence :species)
 	for path = (asdf/system:system-relative-pathname "lncrnao" (format nil "../database/lncrnadb/~a" source-file))
@@ -26,7 +30,9 @@
 	   *lncrnadb-raw*)
   (register-lncrnadb-names)
   (with-ontology foo (:ontology-iri !obo:ncro/lncrnao/lncrnao-generated.owl)
-    ((as (lncrnadb-declaration-and-label-axioms))
+    ((asq (declaration (object-property !obo:RO_0002160))
+	  (declaration (annotation-property !obo:IAO_0000111)))
+     (as (lncrnadb-declaration-and-label-axioms))
      (as (lncrnadb-comment-axioms))
      (maphash (lambda(uri v)
 		(as (lncrnadb-species-axioms uri)))
@@ -59,12 +65,14 @@
   `((declaration (annotation-property !dc:source))))
 
 (defun lncrnadb-declaration-and-label-axioms ()
-  (let ((axs nil))
+  (let ((axs nil)
+	(editor-preferred-term !obo:IAO_0000111))
     (maphash (lambda(uri labels)
 	       (let ((source-annotation `(annotation !dc:source ,(make-uri (format nil "http://www.lncrnadb.org/~a" (car labels))))))
 		 (push `(declaration (class ,uri)) axs)
 		 (push `(subclass-of ,source-annotation ,uri ,+lncrna-uri+) axs)
 		 (push `(annotation-assertion ,source-annotation ,!rdfs:label ,uri ,(car labels)) axs)
+		 (push `(annotation-assertion ,source-annotation ,editor-preferred-term ,uri ,(format nil "~a family lncRNA" (car labels))) axs)
 		 (loop for syn in (cdr labels)
 		       unless (numberp syn)
 			 do (push `(annotation-assertion ,source-annotation ,!'alternative term'@iao ,uri ,syn) axs)
@@ -103,18 +111,26 @@
     axs))
 
 (defun lncrnadb-species-axioms  (uri)
-  (let ((only-in-taxon !obo:RO_0002160))
+  (let ((only-in-taxon !obo:RO_0002160)
+	(editor-preferred-term !obo:IAO_0000111)
+	(definition !obo:IAO_0000115))
     (loop for species in (mapcar (lambda(e) (Attribute-Named e "Species")) 
 				 (find-elements-with-tag  (second (assoc :species (gethash uri *lncrnadb-raw*)))
 							  "Entry"))
 	  for id = (fresh-lncrna-uri)
 	  collect `(declaration (class ,id))
+	  collect `(annotation-assertion ,editor-preferred-term ,id ,(format nil "~a ~a lncRNA"
+									     (caar (all-matches species "\\((.*)\\)" 1))
+									     (car (gethash uri *lncrna-uri2name*))))
 	  collect `(annotation-assertion ,!rdfs:label ,id ,(format nil "~a ~a"
 								 (caar (all-matches species "\\((.*)\\)" 1))
 								 (car (gethash uri *lncrna-uri2name*))))
-	  collect `(object-some-values-from ,only-in-taxon 
+	  collect `(annotation-assertion ,definition ,id ,(format nil "a ~a lncRNA in the ~a family"
+								 (caar (all-matches species "\\((.*)\\)" 1))
+								 (car (gethash uri *lncrna-uri2name*))))
+	  collect `(subclass-of ,id (object-some-values-from ,only-in-taxon 
 					    ,(make-uri nil (format nil "obo:NCBITaxon_~a" 
-								  (taxon-id-from-label species))))
+								  (taxon-id-from-label species)))))
 	  collect `(subclass-of ,id ,uri))))
 
 

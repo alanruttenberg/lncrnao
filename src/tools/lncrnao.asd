@@ -7,7 +7,7 @@
   ((:file "common")
    (:file "ingest-lncrnadb"))
   :serial t
-  :depends-on (owl2))
+  :depends-on (owl2 cl-json))
 
 ;; Until prove-asdf works
 (let ((where (merge-pathnames "lncrnao-tests.lisp" (load-time-value *load-pathname*))))

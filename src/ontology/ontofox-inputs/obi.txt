@@ -1,5 +1,5 @@
 [URI of the OWL(RDF/XML) output file]
-http://purl.obolibrary.org/obo/ncro/dev/obi-imports.owl
+http://purl.obolibrary.org/obo/ncro/lncrnao/dev/obi-imports.owl
 
 [Source ontology]
 OBI
@@ -8,6 +8,8 @@ OBI
 http://purl.obolibrary.org/obo/OBI_0100047
 http://purl.obolibrary.org/obo/OBI_0100060
 http://purl.obolibrary.org/obo/OBI_0100026
+http://purl.obolibrary.org/obo/OBI_0001909
+http://purl.obolibrary.org/obo/OBI_0001607
 
 [Top level source term URIs and target direct superclass URIs]
 http://purl.obolibrary.org/obo/OBI_0000047
@@ -16,6 +18,10 @@ http://purl.obolibrary.org/obo/OBI_0100060
 subClassOf http://purl.obolibrary.org/obo/BFO_0000040
 http://purl.obolibrary.org/obo/OBI_0100026
 subClassOf http://purl.obolibrary.org/obo/BFO_0000040
+http://purl.obolibrary.org/obo/OBI_0001909
+subClassOf http://purl.obolibrary.org/obo/IAO_0000030
+http://purl.obolibrary.org/obo/OBI_0001607
+subClassOf http://purl.obolibrary.org/obo/IAO_0000030
 
 [Source term retrieval setting]
 includeNoIntermediates

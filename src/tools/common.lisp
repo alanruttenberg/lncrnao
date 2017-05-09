@@ -25,6 +25,8 @@
 
 (defparameter *species-name-fixes* '(("West Nile Virus" "West Nile virus") ("Human herpesvirus" "Human alphaherpesvirus 1")))
   
+(defparameter *hdo* (load-ontology "http://purl.obolibrary.org/obo/doid.owl"))
+
 (defun taxon-id-from-label (label)
   (setq label (#"replaceAll" label " \\(.*" ""))
   (setq label (or (second (assoc label *species-name-fixes* :test 'equalp)) label))
@@ -32,7 +34,8 @@
 				  (format nil "/taxonomy/id/~a" label)
 				  "http" "" "content-type=application/json")
 		       :accept "application/json"
-		       :ignore-errors t)))
+		       :ignore-errors t
+		       :persist t)))
     (values (cdr (assoc :id (with-input-from-string (s call) (json:decode-json s))))
 	    label)))
 
