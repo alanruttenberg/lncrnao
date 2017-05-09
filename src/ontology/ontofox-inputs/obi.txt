@@ -9,7 +9,7 @@ http://purl.obolibrary.org/obo/OBI_0100047
 http://purl.obolibrary.org/obo/OBI_0100060
 http://purl.obolibrary.org/obo/OBI_0100026
 http://purl.obolibrary.org/obo/OBI_0001909
-http://purl.obolibrary.org/obo/OBI_0001607
+http://purl.obolibrary.org/obo/OBI_0001617
 
 [Top level source term URIs and target direct superclass URIs]
 http://purl.obolibrary.org/obo/OBI_0000047
@@ -20,7 +20,7 @@ http://purl.obolibrary.org/obo/OBI_0100026
 subClassOf http://purl.obolibrary.org/obo/BFO_0000040
 http://purl.obolibrary.org/obo/OBI_0001909
 subClassOf http://purl.obolibrary.org/obo/IAO_0000030
-http://purl.obolibrary.org/obo/OBI_0001607
+http://purl.obolibrary.org/obo/OBI_0001617
 subClassOf http://purl.obolibrary.org/obo/IAO_0000030
 
 [Source term retrieval setting]

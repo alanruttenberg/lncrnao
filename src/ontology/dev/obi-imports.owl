@@ -172,15 +172,18 @@ We also have the outstanding issue of how to aim different definitions to differ
     
 
 
-    <!-- http://purl.obolibrary.org/obo/OBI_0001607 -->
+    <!-- http://purl.obolibrary.org/obo/OBI_0001617 -->
 
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OBI_0001607">
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">biological activity assay measuring epitope specific tumor necrosis factor (ligand) superfamily member 11 production by T cells</rdfs:label>
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OBI_0001617">
+        <rdfs:label xml:lang="en">PubMed ID</rdfs:label>
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/IAO_0000030"/>
-        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">An assay of epitope specific tumor necrosis factor (ligand) superfamily member 11 production by T cells that detects tumor necrosis factor production.</obo:IAO_0000115>
-        <obo:IAO_0000117 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IEDB</obo:IAO_0000117>
-        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IEDB</obo:IAO_0000119>
-        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">biological activity assay measuring epitope specific tumor necrosis factor (ligand) superfamily member 11 production by T cells</obo:IAO_0000111>
+        <obo:IAO_0000115 xml:lang="en">A CRID symbol that is sufficient to look up a citation from the PubMed, a literature database of life sciences and biomedical information.</obo:IAO_0000115>
+        <obo:IAO_0000116>Edits was made on Aug 24, 2016 based on OBI dev call, details see tracker: https://sourceforge.net/p/obi/obi-terms/819/</obo:IAO_0000116>
+        <obo:IAO_0000118 xml:lang="en">PMID</obo:IAO_0000118>
+        <obo:IAO_0000117 xml:lang="en">Person: Chris Stoeckert, Jie Zheng</obo:IAO_0000117>
+        <obo:IAO_0000111 xml:lang="en">PubMed ID</obo:IAO_0000111>
+        <obo:IAO_0000118 xml:lang="en">PubMed Identifier</obo:IAO_0000118>
+        <obo:IAO_0000119 xml:lang="en">Website: http://en.wikipedia.org/wiki/Wikipedia:PMID</obo:IAO_0000119>
         <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000120"/>
         <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/obi.owl"/>
     </owl:Class>
